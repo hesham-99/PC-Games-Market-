@@ -10,7 +10,7 @@
  flex-direction: column;
  width: 100%;
 }
-
+Link{cursor: pointer;}
 
 .footer{
   width: 100%;
