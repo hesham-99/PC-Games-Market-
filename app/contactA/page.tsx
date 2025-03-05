@@ -8,7 +8,7 @@ export const metadata = {title:'PGM/Contact Page', description: 'This is the con
 export default function ContactAPage() {
   return (
     <div>
-      <div style={{width:"100%",height:'70px',background:'#ff99009f',display:'flex',alignItems:'center',justifyContent:'center',gap:'100px'}}> 
+      <div style={{width:"100%",height:'100px',background:'#ff99009f',display:'flex',alignItems:'center',justifyContent:'center',gap:'100px'}}> 
       <Link href='/' className='cartOpiner'><IoHome />Home</Link>
       <Link href='/product' className='cartOpiner'><IoGameController />Games</Link>
       </div>
