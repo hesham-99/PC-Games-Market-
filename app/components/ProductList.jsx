@@ -16,7 +16,7 @@ import { BsBagCheckFill } from "react-icons/bs";
 import { BsBagXFill } from "react-icons/bs";
 // import { IoCall } from "react-icons/bs";
 import Link from 'next/link';
-
+import '../style/tass.css';
 
 
 const ProductList = () => {
@@ -25,8 +25,7 @@ const ProductList = () => {
   const [showCart, setShowCart] = useState(false);
   const [search, setSearch] = useState('');
   const [loding,setLodong]=useState(false)
-
-
+  
 
 useEffect(()=>{
     setLodong(true)
@@ -136,7 +135,7 @@ const sendEmail = (e) => {
     const titles = cart.map(product => product.title);
     setProductTitles(titles);
   }, [cart]);
-  // console.log(productTitles);
+  //  console.log(productTitles);
 
   // State for product price in cart
   const [productPrice, setProductPrice] = useState([]);
@@ -151,6 +150,7 @@ const sendEmail = (e) => {
   // console.log(sumProductPrice);
   const TotalGB = parseFloat(sumProductPrice.toFixed(2));
 // console.log(TotalGB);
+
 
 
 
@@ -183,7 +183,6 @@ const sendEmail = (e) => {
     <div>
 
 
-
             <div className={ testorder ? 'setTestorder':'setTestorderOff'}>
               <div className="setTestorderData">
                 <PacmanLoader  color="yellowgreen" cssOverride={{}} size={120} speedMultiplier={1}/>
@@ -206,8 +205,12 @@ const sendEmail = (e) => {
           />
         </div>
         <button className='cartOpiner' onClick={() => setShowCart(!showCart)}>
-          {showCart ? <BsBagXFill/> : <BsBagCheckFill />
-          } 
+          {showCart ? 
+          <BsBagXFill/> 
+          :
+          <div className='cartNewandTitles'><h1 className='cartNewandTitlesData'>{productTitles.length}</h1></div>
+          // <BsBagCheckFill />
+          }
         </button>
       </nav>
 
