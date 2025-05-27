@@ -18,7 +18,7 @@ export default function Home() {
       <TestHome/>
 
       <div className="pagehomeMovmeing" style={{width:'100%',display:'flex',alignItems:'center',justifyContent:'center'}}>
-      <Link href="/product"><button className="homeHTAGB" style={{background:'#00055', fontFamily:'cursive' ,display:'flex',alignItems:'center',justifyContent:'center',flexDirection:'column',textShadow:'0 0 10px black'}}><IoGameController />Games Page</button></Link>
+      <Link href="/product"><button className="homeHTAGB" style={{background:'#00055', fontFamily:'cursive' ,display:'flex',alignItems:'center',justifyContent:'center',flexDirection:'column',textShadow:'0 0 10px black'}}><IoGameController />product Page</button></Link>
       <Link href="/contactA"><button className="homeHTAGB" style={{background:'#00055', fontFamily:'cursive',display:'flex',alignItems:'center',justifyContent:'center',flexDirection:'column',textShadow:'0 0 10px black'}}><IoCall />contact us</button></Link>
       </div>
       <Head>
