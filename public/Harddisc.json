@@ -1,0 +1,48 @@
+[
+    {
+        "id": 100001,
+        "title": "* hard 1 *",
+        "price": 0,
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "category": "women's clothing",
+        "homebace": "https://m.media-amazon.com/images/M/MV5BYjQ4ZmJmMWUtMGQyYy00MDFlLWEyMzgtYjVhYWI4OTBjM2MxXkEyXkFqcGc@._V1_.jpg",
+        "image": "../app/components/extrafiel/3img/hards/1tera new.png",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+        ,"priceNow": 100
+    }
+    ,
+    {
+        "id": 100002,
+        "title": "* hard 3  *",
+        "price": 0,
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "category": "women's clothing",
+        "homebace": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Sonic-Unleashed.jpg",
+        "image": "../app/components/extrafiel/3img/hards/2tera.png",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+            
+        }
+        ,"priceNow": 200
+    }
+    ,
+    {
+        "id": 100003,
+        "title": "* hard 2 *",
+        "price": 0,
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "category": "women's clothing",
+        "homebace": "https://gaming-cdn.com/images/products/15516/orig/the-casting-of-frank-stone-pc-game-steam-cover.jpg?v=1725380214",
+        "image": "../app/components/extrafiel/3img/hards/2tera.png",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+        ,"priceNow": 300
+    }
+
+]

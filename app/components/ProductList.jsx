@@ -16,7 +16,7 @@ import { BsBagCheckFill } from "react-icons/bs";
 import { BsBagXFill } from "react-icons/bs";
 // import { IoCall } from "react-icons/bs";
 import Link from 'next/link';
-import '../style/tass.css';
+
 
 
 const ProductList = () => {
@@ -24,8 +24,12 @@ const ProductList = () => {
   const [cart, setCart] = useState([]);
   const [showCart, setShowCart] = useState(false);
   const [search, setSearch] = useState('');
-  const [loding,setLodong]=useState(false)
+  const [loding,setLodong]=useState(false);
+
+  const [gamesdata,setGamesdata]=useState(true)
+  const [hardZone,setHardZone]=useState(false)
   
+  const [harddata,setHarddata]=useState([])
 
 useEffect(()=>{
     setLodong(true)
@@ -35,7 +39,6 @@ useEffect(()=>{
 
 
   useEffect(() => {
-
     // https://fakestoreapi.com/products
     // \Mapi.json
       fetch('\Mapi.json')
@@ -44,7 +47,16 @@ useEffect(()=>{
       .catch(error => console.error('Error fetching products:', error));
   }, []);
 
+// ______________________________________________________________________________________________
 
+  useEffect(() => {
+    // https://fakestoreapi.com/products
+    // \Mapi.json
+      fetch('\Harddisc.json')
+      .then(response => response.json())
+      .then(data => setHarddata(data))
+      .catch(error => console.error('Error fetching products:', error));
+  }, []);
 // ______________________________________________________________________________________________
 // ______________________________________________________________________________________________
 // ______________________________________________________________________________________________
@@ -186,8 +198,9 @@ const sendEmail = (e) => {
             <div className={ testorder ? 'setTestorder':'setTestorderOff'}>
               <div className="setTestorderData">
                 <PacmanLoader  color="yellowgreen" cssOverride={{}} size={120} speedMultiplier={1}/>
-                <h1 className='setTestorderH1' style={{color:'black',textShadow:'0 0 5px yellowgreen'}}>Your order has been sent.</h1>
-                <Link href={'../contactA'} style={{margin:'10px'}}> <button className='botContactGo'><h1 style={{color:'yellowgreen',fontSize:'800'}}> Go to the contact page...</h1></button></Link>
+                <h1 className='setTestorderH1' style={{color:'black',textShadow:'0 0 5px yellowgreen'}}>تم ارسال طلبك بنجاح</h1>
+                <h1 className='setTestorderH1' style={{color:'black',textShadow:'0 0 5px yellowgreen'}}>خدمة الشحن تستغرق من 3 الى 5 ايام عمل</h1>
+                <Link href={'../contactA'} style={{margin:'10px'}}> <button className='botContactGo'><h1 style={{color:'yellowgreen',fontSize:'800'}}> اضغط هنا للذهاب الى صفحة التواصل </h1></button></Link>
               </div>
             </div>
 
@@ -195,7 +208,9 @@ const sendEmail = (e) => {
 
 
       <nav>
+        
       <Link href='/' className='cartOpiner'><IoHome /></Link>
+
         <div className='searchZonecontaner'> 
           <input
             className='searthZone'
@@ -204,6 +219,9 @@ const sendEmail = (e) => {
             onChange={e => setSearch(e.target.value)}
           />
         </div>
+
+
+
         <button className='cartOpiner' onClick={() => setShowCart(!showCart)}>
           {showCart ? 
           <BsBagXFill/> 
@@ -212,10 +230,18 @@ const sendEmail = (e) => {
           // <BsBagCheckFill />
           }
         </button>
+        
+
       </nav>
 
-      <div className='navSpas'></div>
-      
+<div className='switsher'>
+<button className='switsherbutton' onClick={()=>{setGamesdata(true);setHardZone(false)}}>Games</button>
+<button className='switsherbutton' onClick={()=>{setHardZone(true);setGamesdata(false)}}>Hards</button>
+<button className='switsherbutton' onClick={()=>{setGamesdata(false);setHardZone(false)}}>Accessories</button>
+</div>
+
+            <div className='navSpas'></div>
+
       {showCart && (
         <div className="cartZone">
           <div className="cart">
@@ -293,7 +319,11 @@ const sendEmail = (e) => {
           </div>
         </div>
       )}
-      <div className="productListContaner">
+
+
+
+
+      <div className={gamesdata ?"productListContaner" : "gamesdata"}>
       <div className="product-list">
         {products.filter(product => {
           return search.toLocaleLowerCase() === '' ? product : product.title.toLocaleLowerCase().includes(search.toLocaleLowerCase());
@@ -307,6 +337,36 @@ const sendEmail = (e) => {
         ))}
       </div>
       </div>
+
+{/* // ____________________________________________________________________________________________________
+// ____________________________________________________________________________________________________
+// ____________________________________________________________________________________________________ */}
+
+
+      <div className={hardZone ?"productListContaner" : "gamesdata"}>
+      <div className="product-list">
+        {harddata.filter(harddata => {
+          return search.toLocaleLowerCase() === '' ? harddata : harddata.title.toLocaleLowerCase().includes(search.toLocaleLowerCase());
+        }).map(harddata => (
+          <div key={harddata.title} className="product-item">
+            <img className='catrImg' src={harddata.image} loading='lazy' alt={harddata.title} />
+            <h3>{harddata.title}</h3>
+            <p>price: {harddata.priceNow} L.E</p>
+            <button className='orderbutton orderNaw' onClick={() => addToCart(harddata)}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
+          </div>
+        ))}
+      </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
 
     </div>
 }</>
