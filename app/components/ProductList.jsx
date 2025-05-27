@@ -236,7 +236,7 @@ const sendEmail = (e) => {
 
 <div className='switsher'>
 <button className='switsherbutton' onClick={()=>{setGamesdata(true);setHardZone(false)}}>Games</button>
-<button className='switsherbutton' onClick={()=>{setHardZone(true);setGamesdata(false)}}>Hards</button>
+<button className='switsherbutton' onClick={()=>{setHardZone(true);setGamesdata(false)}}>Hard Drive</button>
 <button className='switsherbutton' onClick={()=>{setGamesdata(false);setHardZone(false)}}>Accessories</button>
 </div>
 
