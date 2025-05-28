@@ -1303,3 +1303,17 @@ font-family: cursive;
 }
 
   }
+
+    @media screen and (max-width: 550px) {
+  .setTestorderData{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background-color: #ff66007c;
+    gap: 10px;
+  }
+    }
