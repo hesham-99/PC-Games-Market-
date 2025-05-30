@@ -20,23 +20,40 @@ import Link from 'next/link';
 
 
 const ProductList = () => {
-  const [products, setProducts] = useState([]);
+
+
+// ______________________________________________________________________________________________
+
   const [cart, setCart] = useState([]);
+  const [products, setProducts] = useState([]);
+  const [harddata,setHarddata]=useState([])
+
+  // ______________________________________________________________________________________________
+
+  
+  
   const [showCart, setShowCart] = useState(false);
   const [search, setSearch] = useState('');
   const [loding,setLodong]=useState(false);
 
+  // ______________________________________________________________________________________________
+  // روتنج الالعاب و الهردات والاكسيسوار
+  
   const [gamesdata,setGamesdata]=useState(true)
   const [hardZone,setHardZone]=useState(false)
-  
-  const [harddata,setHarddata]=useState([])
+  const [accessoriesZone,setAccessoriesZone]=useState(false)
+
+  // ______________________________________________________________________________________________
+
 
 useEffect(()=>{
     setLodong(true)
     setTimeout(()=>{setLodong(false)},2500)
 },[])
 
-
+// ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
 
   useEffect(() => {
     // https://fakestoreapi.com/products
@@ -186,7 +203,7 @@ const sendEmail = (e) => {
   cssOverride={{}}
   size={77}
   speedMultiplier={1}
-/> <h1 className='loading000'>Games Loading ...</h1> </div>
+/> <h1 className='loading000'>product Loading ...</h1> </div>
 
      :
 
@@ -233,12 +250,17 @@ const sendEmail = (e) => {
         
 
       </nav>
-
+ 
+ {/* ______________________________________________________________________________________________ */}
+ {/* روتنج الالعاب و الهردات والاكسيسوار */}
 <div className='switsher'>
-<button className='switsherbutton' onClick={()=>{setGamesdata(true);setHardZone(false)}}>Games</button>
-<button className='switsherbutton' onClick={()=>{setHardZone(true);setGamesdata(false)}}>Hard Drive</button>
-<button className='switsherbutton' onClick={()=>{setGamesdata(false);setHardZone(false)}}>Accessories</button>
+<button className={gamesdata ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setGamesdata(true);setHardZone(false);setAccessoriesZone(false)}}>Games</button>
+<button className={hardZone ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setHardZone(true);setGamesdata(false);setAccessoriesZone(false)}}>Hard Drive</button>
+<button className={accessoriesZone ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setAccessoriesZone(true);setGamesdata(false);setHardZone(false)}}>Accessories</button>
 </div>
+ {/* ______________________________________________________________________________________________ */}
+
+
 
             <div className='navSpas'></div>
 
@@ -358,8 +380,12 @@ const sendEmail = (e) => {
       </div>
       </div>
 
-
-
+{/* // ____________________________________________________________________________________________________
+// ____________________________________________________________________________________________________
+// ____________________________________________________________________________________________________ */}
+      <div className={accessoriesZone ?"productListContaner" : "gamesdata"}>
+        <h1>Accessories coming soon...</h1>
+</div>
 
 
 
