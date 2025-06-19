@@ -1,48 +1,63 @@
 [
     {
         "id": 100001,
-        "title": "* hard 1 *",
+        "title": "* Toshiba P300- 500G *",
         "price": 0,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "homebace": "https://m.media-amazon.com/images/M/MV5BYjQ4ZmJmMWUtMGQyYy00MDFlLWEyMzgtYjVhYWI4OTBjM2MxXkEyXkFqcGc@._V1_.jpg",
-        "image": "../app/components/extrafiel/3img/hards/1tera new.png",
+        "image": "https://i.03market.ru/cicon/4410238/img_id9199608039572373446.jpeg/orig",
         "rating": {
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 100
+        ,"priceNow": 380
     }
     ,
     {
         "id": 100002,
-        "title": "* hard 3  *",
+        "title": "* WD Blue 500G *",
         "price": 0,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "homebace": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Sonic-Unleashed.jpg",
-        "image": "../app/components/extrafiel/3img/hards/2tera.png",
+        "image": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-blue-desktop-sata-hdd/gallery/wd-blue-pc-desktop-hard-drive-500gb.png",
         "rating": {
             "rate": 4.5,
             "count": 146
             
         }
-        ,"priceNow": 200
+        ,"priceNow": 400
     }
     ,
     {
         "id": 100003,
-        "title": "* hard 2 *",
+        "title": "* Seagate BarraCuda 1T *",
         "price": 0,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "homebace": "https://gaming-cdn.com/images/products/15516/orig/the-casting-of-frank-stone-pc-game-steam-cover.jpg?v=1725380214",
-        "image": "../app/components/extrafiel/3img/hards/2tera.png",
+        "image": "https://m.media-amazon.com/images/I/71x2h55zNpL._AC_UF894,1000_QL80_.jpg",
         "rating": {
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 300
+        ,"priceNow": 1250
+    }
+     ,
+    {
+        "id": 100003,
+        "title": "* Seagate BarraCuda 500G *",
+        "price": 0,
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "category": "women's clothing",
+        "homebace": "https://gaming-cdn.com/images/products/15516/orig/the-casting-of-frank-stone-pc-game-steam-cover.jpg?v=1725380214",
+        "image": "https://m.media-amazon.com/images/I/81J6ivHEXfL._AC_UF894,1000_QL80_.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+        ,"priceNow": 420
     }
 
 ]
