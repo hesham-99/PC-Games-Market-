@@ -37,11 +37,11 @@
     },
     {
         "id": 4,
-        "title": "Blades of Fire",
+        "title": "",
         "price": 34.7,
         "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
         "category": "men's clothing",
-        "image": "https://cdn1.epicgames.com/spt-assets/23fd5b0e33b6497dbc04b142a8605ec8/project-iron-dme1q.jpg",
+        "image": "",
         "rating": {
             "rate": 2.1,
             "count": 430
