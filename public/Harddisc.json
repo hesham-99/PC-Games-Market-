@@ -11,7 +11,7 @@
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 380
+        ,"priceNow": 350
     }
     ,
     {
@@ -42,7 +42,7 @@
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 1250
+        ,"priceNow": 2150
     }
      ,
     {
@@ -57,7 +57,7 @@
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 420
+        ,"priceNow": 430
     }
  ,
     {
@@ -77,17 +77,17 @@
      ,
     {
         "id": 100006,
-        "title": "* Seagate BarraCuda 1T *",
+        "title": "* Seagate BarraCuda 3T *",
         "price": 0,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "homebace": "https://gaming-cdn.com/images/products/15516/orig/the-casting-of-frank-stone-pc-game-steam-cover.jpg?v=1725380214",
-        "image": "https://ahw.store/image/catalog/Catalog/Products/PC%20Components/Storage/HDD/SGAT-HDD-ST1000DM010/Seagate%20Barracuda%20ST1000DM010%201.0TB%207200%20RPM-1.jpg",
+        "image": "https://c.scdn.gr/images/sku_images/052190/52190058/20211110155856_26cc273a.jpeg",
         "rating": {
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 420
+        ,"priceNow": 2500
     }
      ,
     {
@@ -102,6 +102,6 @@
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 420
+        ,"priceNow": 2550
     }
 ]
