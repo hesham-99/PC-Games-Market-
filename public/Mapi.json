@@ -7610,4 +7610,32 @@
         "count": 146
     }
 } 
+,
+{
+    "id": 595,
+    "title": "* RIDE 5 *",
+    "price": 48.6,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://gametrex.com/wp-content/uploads/2023/08/RIDE-5-Free-Download-768x432.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqhj39TMB1q6SDSBING64p_RhP095th6AVg&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 596,
+    "title": "* Chaos on Wheels *",
+    "price": 27.1,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623120/capsule_616x353.jpg?t=1754765423",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFZwvdxwO-eW5mELy5_AGYdvjzvvwVtK7og&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
 ]
