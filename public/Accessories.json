@@ -1,11 +1,11 @@
 [
     {
         "id": 500001,
-        "title": "* mouse gaming *",
+        "title": "**",
         "price": 0,
         "description": "",
         "category": "accessories",
-        "image": "https://microless.com/cdn/products/e91d339176f751385710396cc98134e8-hi.jpg",
+        "image": "",
         "rating": {
             "rate": 4.5,
             "count": 146
@@ -15,11 +15,11 @@
     ,
     {
         "id": 500002,
-        "title": "* Madcatz R.A.T. 9 Wireless Gaming Muis Zwart PC *",
+        "title": "**",
         "price": 0,
         "description": "",
         "category": "accessories",
-        "image": "https://media.s-bol.com/yQXAo24q5mP/550x767.jpg",
+        "image": "",
         "rating": {
             "rate": 4.5,
             "count": 146
