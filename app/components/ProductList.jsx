@@ -27,6 +27,7 @@ const ProductList = () => {
   const [cart, setCart] = useState([]);
   const [products, setProducts] = useState([]);
   const [harddata,setHarddata]=useState([])
+  const [accessoriesdata,setAccessoriesdata]=useState([])
 
   // ______________________________________________________________________________________________
 
@@ -75,9 +76,17 @@ useEffect(()=>{
       .catch(error => console.error('Error fetching products:', error));
   }, []);
 // ______________________________________________________________________________________________
+  useEffect(() => {
+    // https://fakestoreapi.com/products
+    // \Mapi.json
+      fetch('\Accessories.json')
+      .then(response => response.json())
+      .then(data => setAccessoriesdata(data))
+      .catch(error => console.error('Error fetching products:', error));
+  }, []);
 // ______________________________________________________________________________________________
 // ______________________________________________________________________________________________
-
+// ______________________________________________________________________________________________
 const[inputValueName,setInputValueName]= useState ('')
 const[inputValueEmail,setInputValueEmail]= useState ('')
 const[inputValuePhone,setInputValuePhone]= useState ('')
@@ -384,8 +393,18 @@ const sendEmail = (e) => {
 // ____________________________________________________________________________________________________
 // ____________________________________________________________________________________________________ */}
       <div className={accessoriesZone ?"productListContaner" : "gamesdata"}>
-        <h1>Accessories coming soon...</h1>
-</div>
+      <div className="product-list">
+        {accessoriesdata.filter(accessoriesdata => {
+          return search.toLocaleLowerCase() === '' ? accessoriesdata : accessoriesdata.title.toLocaleLowerCase().includes(search.toLocaleLowerCase());
+        }).map(accessoriesdata => (
+          <div key={accessoriesdata.title} className="product-item">
+            <img className='catrImg' src={accessoriesdata.image} loading='lazy' alt={accessoriesdata.title} />
+            <h3>{accessoriesdata.title}</h3>
+            <p>price: {accessoriesdata.priceNow} L.E</p>
+            <button className='orderbutton orderNaw' onClick={() => addToCart(accessoriesdata)}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
+          </div>
+        ))}
+      </div></div>
 
 
 

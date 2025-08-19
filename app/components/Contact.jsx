@@ -100,7 +100,7 @@ const Contact = () => {
       <div className='EmailAndPhone locetion'><h1 className='EmailAndPhoneip' >phone: </h1><h2>+20 109 488 5787</h2></div>
       <div className='EmailAndPhone locetion'><h1 className='EmailAndPhoneip'>E-mail: </h1><h2>gamesmarketpc@gmail.com</h2></div>
       <div className='EmailAndPhone'><div className='locetion'><h1 className='EmailAndPhoneip'>location</h1>
-      <a target="_blank" href="https://maps.google.com/?q=30.0034588,31.1541049" className="location  animate__animated animate__flash"><i class="bi bi-linkedin"><Image style={{height:'100px'}} className='mediaImg' src={require("./extrafiel/3img/media/location.png")} alt="location" /></i></a>
+      <a target="_blank" href="https://maps.app.goo.gl/qAsNoh4YJScKs8wb8?g_st=awb" className="location  animate__animated animate__flash"><i class="bi bi-linkedin"><Image style={{height:'100px'}} className='mediaImg' src={require("./extrafiel/3img/media/location.png")} alt="location" /></i></a>
       </div></div>
       </div>
 

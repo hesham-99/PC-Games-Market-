@@ -10,7 +10,7 @@ export default function ContactAPage() {
     <div>
       <div style={{width:"100%",height:'100px',background:'#ff99009f',display:'flex',alignItems:'center',justifyContent:'center',gap:'100px'}}> 
       <Link href='/' className='cartOpiner'><IoHome />Home</Link>
-      <Link href='/product' className='cartOpiner'><IoGameController />Games</Link>
+      <Link href='/product' className='cartOpiner'><IoGameController />Product</Link>
       </div>
       <Contact/>
     </div>
