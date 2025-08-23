@@ -1,7 +1,7 @@
 [
     {
         "id": 500001,
-        "title": "**",
+        "title": "",
         "price": 0,
         "description": "",
         "category": "accessories",
@@ -10,12 +10,12 @@
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 1350
+        ,"priceNow": 0
     }
     ,
     {
         "id": 500002,
-        "title": "**",
+        "title": "",
         "price": 0,
         "description": "",
         "category": "accessories",
@@ -25,7 +25,7 @@
             "count": 146
             
         }
-        ,"priceNow": 2400
+        ,"priceNow": 0
     }
 
 ]
