@@ -1141,7 +1141,7 @@
     {
         "id": 91,
         "title": "* Hellblade - Senua's Sacrifice *",
-        "price": 19.6,
+        "price": 18.8,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3367fa99-0ba6-454c-b947-683f1a9f896d/ddwsmkg-42a14f36-4fa3-45aa-b873-ad2c6bf05cfb.png",
@@ -1782,6 +1782,19 @@
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88b6f848-7f22-44b7-a036-8e65d20a4e3d/db0uqso-3abbb575-15be-4ee1-bb73-214a7bf716b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4YjZmODQ4LTdmMjItNDRiNy1hMDM2LThlNjVkMjBhNGUzZFwvZGIwdXFzby0zYWJiYjU3NS0xNWJlLTRlZTEtYmI3My0yMTRhN2JmNzE2YjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CS-KcEaeEY2-z0vMf4KNNBQyjOFCmfKMKCaHYtymaR8",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
+        "id": 616,
+        "title": "* Resident Evil 7 - Gold Edition *",
+        "price": 64.4,
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "category": "women's clothing",
+        "image": "https://cdn2.steamgriddb.com/icon_thumb/d490a5a586b87a4f7c54bff1fcd39317.png",
         "rating": {
             "rate": 4.5,
             "count": 146
@@ -7864,6 +7877,20 @@
 ,
 {
     "id": 613,
+    "title": "* Ori and the Will of the Wisps *",
+    "price": 15,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://clouddosage.com/wp-content/uploads/2025/02/Metal-Gear-Solid-Delta-Snake-Eater-launch-date-feature.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfndj3c-4a48d730-3e57-4626-a3f9-709463d40f81.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZuZGozYy00YTQ4ZDczMC0zZTU3LTQ2MjYtYTNmOS03MDk0NjNkNDBmODEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xYc7l6yf3TfQ1eRwA5k54EByICewk9KSqcfh7bLKHvg",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 614,
     "title": "* Hollow Knight - Silksong *",
     "price": 7.57,
     "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
@@ -7877,7 +7904,7 @@
 } 
 ,
 {
-    "id": 614,
+    "id": 615,
     "title": "* Hell is Us *",
     "price": 20.9,
     "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
@@ -7891,13 +7918,41 @@
 } 
 ,
 {
-    "id": 615,
+    "id": 617,
     "title": "* Cronos - The New Dawn *",
     "price": 22.9,
     "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
     "category": "women's clothing",
     "homebace": "https://pbs.twimg.com/media/GaHp6lvWgAA7t0m.png:medium",
     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dkg3no1-268b0cb2-433e-49c8-9696-b49473dd4a35.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGtnM25vMS0yNjhiMGNiMi00MzNlLTQ5YzgtOTY5Ni1iNDk0NzNkZDRhMzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.klMTJMZ0KsEFUAvaIzJ3N0oRXbfCiCxapS2VwAVfUA0",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 618,
+    "title": "* Lost Soul Aside *",
+    "price": 61.7,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://assets-prd.ignimgs.com/2025/09/08/lostsoulaside-review-blogroll-1757354274468.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dke37mp-b52a3830-46e0-4205-b875-56ce94112a10.png/v1/fill/w_512,h_512/lost_soul_aside_icon_by_hatemtiger_dke37mp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9ka2UzN21wLWI1MmEzODMwLTQ2ZTAtNDIwNS1iODc1LTU2Y2U5NDExMmExMC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.909S45D14SkLEx4gpuzAQXabFk9mRJreQe4zZBOV1Gk",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 619,
+    "title": "* The Crew *",
+    "price": 24.4,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://cdn1.epicgames.com/offer/155b39e2ce7b4ed2855125fb2ef1d1a1/CREW_Store_Landscape_2560x1440_2560x1440-079bafe5596c0b501875b2fd879893fb",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dg8y5ma-b047cc96-5148-4e4f-b474-611d1e7f78b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGc4eTVtYS1iMDQ3Y2M5Ni01MTQ4LTRlNGYtYjQ3NC02MTFkMWU3Zjc4YjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6dFtZoHgBqYzNnCmI3O_u2_qQAZauBgUr4SFWeDitEA",
     "rating": {
         "rate": 4.5,
         "count": 146
