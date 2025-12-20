@@ -11,7 +11,7 @@
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 1350
+        ,"priceNow": 1450
     }
     ,
     {
@@ -27,7 +27,7 @@
             "count": 146
             
         }
-        ,"priceNow": 500
+        ,"priceNow": 550
     }
      ,
     {
@@ -42,26 +42,12 @@
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 2400
+        ,"priceNow": 2500
     }
- ,
-    {
-        "id": 100004,
-        "title": "* WD Black 500G [laptop] *",
-        "price": 0,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
-        "homebace": "https://gaming-cdn.com/images/products/15516/orig/the-casting-of-frank-stone-pc-game-steam-cover.jpg?v=1725380214",
-        "image": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-black-mobile-sata-hdd/gallery/wd-black-mobile-sata-hdd-left-500gb.png.thumb.1280.1280.png",
-        "rating": {
-            "rate": 4.5,
-            "count": 146
-        }
-        ,"priceNow": 530
-    }
+ 
      ,
     {
-        "id": 100005,
+        "id": 100004,
         "title": "Seagate Barracuda 2T",
         "price": 0,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",

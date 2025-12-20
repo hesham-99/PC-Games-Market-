@@ -1503,7 +1503,7 @@
     {
         "id": 122,
         "title": "* Need for Speed Heat *",
-        "price": 30.1,
+        "price": 33.7,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64791bfa-6fff-496b-9561-d2de26583555/ddkr5s6-51104ce9-6023-4c79-83d2-1df19b681e82.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0NzkxYmZhLTZmZmYtNDk2Yi05NTYxLWQyZGUyNjU4MzU1NVwvZGRrcjVzNi01MTEwNGNlOS02MDIzLTRjNzktODNkMi0xZGYxOWI2ODFlODIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M92A0kH1vJyz7vL5RVvaDEcznerS0IfqFhXBeZENUzE",
@@ -3972,7 +3972,7 @@
     {
         "id": 315,
         "title": "* Dead Island 2 *",
-        "price": 45.6,
+        "price": 71.4,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64791bfa-6fff-496b-9561-d2de26583555/dg3281y-9bab1989-1f22-4735-bc8a-bb53d518e333.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0NzkxYmZhLTZmZmYtNDk2Yi05NTYxLWQyZGUyNjU4MzU1NVwvZGczMjgxeS05YmFiMTk4OS0xZjIyLTQ3MzUtYmM4YS1iYjUzZDUxOGUzMzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GfqnSVUHYAD-1e4weShwLBDRlm1af4L7p8jfQ5tkjN4",
@@ -6374,7 +6374,7 @@
     {
         "id": 509,
         "title": "* wwe 2k25 *",
-        "price": 98.2,
+        "price": 102,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "homebace": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878960/extras/WWE2K25-STANDARD_EDITION-METADATA-NA-STATIC-ENUS-ESRB-MAIN_CAPSULE_STEAM-1232x706.jpg?t=1741818330",
@@ -7060,7 +7060,7 @@
 {
     "id": 560,
     "title": "* ELDEN RING NIGHTREIGN *",
-    "price": 20.5,
+    "price": 26.7,
     "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
     "category": "women's clothing",
     "homebace": "https://gaming-cdn.com/images/products/18294/orig/elden-ring-nightreign-pc-steam-cover.jpg?v=1750336104",
@@ -8218,4 +8218,116 @@
         "count": 146
     }
 } 
+,
+{
+    "id": 639,
+    "title": "* The Legacy *",
+    "price": 15.3,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://www.gematsu.com/wp-content/uploads/2025/07/Battlefield-6_07-31-25.jpg",
+    "image": "https://vgdl.ir/wp-content/uploads/2025/10/The_Legacy.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 640,
+    "title": "* Yakuza Kiwami*",
+    "price": 30.2,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://www.gematsu.com/wp-content/uploads/2025/07/Battlefield-6_07-31-25.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dcf2kkq-7b65d7a0-6d51-481d-8685-4447fb37efd1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGNmMmtrcS03YjY1ZDdhMC02ZDUxLTQ4MWQtODY4NS00NDQ3ZmIzN2VmZDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hIAjQLSiAEMY9qhI3SMJWHfdiySTISkJqSAbbn-Zb7s",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 641,
+    "title": "* Bleak Haven *",
+    "price": 23.3,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://www.gematsu.com/wp-content/uploads/2025/07/Battlefield-6_07-31-25.jpg",
+    "image": "https://repack-games.com/wp-content/uploads/2025/10/q6-3-830x467.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 642,
+    "title": "* FIFA 21 *",
+    "price": 41.4,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://i0.wp.com/twistedvoxel.com/wp-content/uploads/2021/01/fifa-21-update.jpg?ssl=1",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a98cff5d-a612-49d8-a0db-175994384b20/de33h26-fb89d176-69f0-4ed2-a351-21bfc518f784.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hOThjZmY1ZC1hNjEyLTQ5ZDgtYTBkYi0xNzU5OTQzODRiMjAvZGUzM2gyNi1mYjg5ZDE3Ni02OWYwLTRlZDItYTM1MS0yMWJmYzUxOGY3ODQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3XazlnkqrY0RtCmAjRbGyqg5yY_DpNyxQizs3-xALZs",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 643,
+    "title": "* Hades II *",
+    "price": 12.4,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/hades-2-confirmed-features.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dhd1zm3-77d150b5-19f2-4e99-9ddc-9c16e3ef039d.png/v1/fill/w_512,h_512/hades_2_icon__by_hatemtiger_dhd1zm3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kaGQxem0zLTc3ZDE1MGI1LTE5ZjItNGU5OS05ZGRjLTljMTZlM2VmMDM5ZC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.UzDEDmYDsmOoJBIEEPiLiVkbTiAwOrTe6TR8OwcZguk",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 644,
+    "title": "* Vampire - The Masquerade - Bloodlines 2 *",
+    "price": 24.6,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://cdn1.epicgames.com/spt-assets/prod-nemesia/vampire-the-masquerade--bloodlines-2-9qd49.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dkr2aha-d0693acf-7acd-42c5-a2a2-7cd611705235.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGtyMmFoYS1kMDY5M2FjZi03YWNkLTQyYzUtYTJhMi03Y2Q2MTE3MDUyMzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TqIARe0E3fhJF0AZntnPnsBOflLaW6A1_5gYsQon6-I",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} ,
+{
+    "id": 645,
+    "title": "* The Outer Worlds 2 *",
+    "price": 84.7,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://cdn.wccftech.com/wp-content/uploads/2023/06/the-outer-worlds-2-HD-1456x819.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dks4kaj-568817ce-ea01-46a0-8fe7-d27541c88578.png/v1/fill/w_512,h_512/the_outer_worlds_2_icon__by_hatemtiger_dks4kaj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9ka3M0a2FqLTU2ODgxN2NlLWVhMDEtNDZhMC04ZmU3LWQyNzU0MWM4ODU3OC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.vU_h3QYo4x11YasAsyAJpTy_rxjudEf6AXWGYZNYZsg",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 646,
+    "title": "* FEROCIOUS *",
+    "price": 52.2,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://assets-prd.ignimgs.com/2025/05/23/ferocious-oo-1747960295437.jpg",
+    "image": "https://cdn.cdkeys.com/496x700/media/catalog/product/f/e/ferocious_pc.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+
 ]
