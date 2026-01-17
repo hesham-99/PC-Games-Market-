@@ -26,7 +26,7 @@
     {
         "id": 1,
         "title": "* Age of Empires II - Definitive Edition *",
-        "price": 38.7,
+        "price": 20.8,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68cb9ede-8bb0-4acc-994c-927e6002ac87/ddlb3iz-8c40bdbf-256f-4eef-aa67-ce1f2631b911.png/v1/fit/w_414,h_414/age_of_empires_2_definitive_edition_icon_by_30011887_ddlb3iz-414w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNjhjYjllZGUtOGJiMC00YWNjLTk5NGMtOTI3ZTYwMDJhYzg3XC9kZGxiM2l6LThjNDBiZGJmLTI1NmYtNGVlZi1hYTY3LWNlMWYyNjMxYjkxMS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wqEDA3w6D6VHEKz-bj198C-bLA5WA3dLVmSkDdW5NeA",
@@ -5442,7 +5442,7 @@
     {
         "id": 435,
         "title": "* The Thing - Remastered *",
-        "price": 0,
+        "price": 4.19,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9b2ca95a-7874-4fdf-9b22-d90792a9234e/dip9che-5e181f80-993f-45e0-99cb-7b38a296d01a.png",
@@ -8355,6 +8355,34 @@
     "rating": {
         "rate": 4.5,
         "count": 146
+    }
+} 
+,
+{
+    "id": 649,
+    "title": "* Dead Space - Remake *",
+    "price": 37.4,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2021/07/DEAD-SPACE-REMAKE.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfk40yx-d9a78268-8410-4200-a05d-7d5c82085bf6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZrNDB5eC1kOWE3ODI2OC04NDEwLTQyMDAtYTA1ZC03ZDVjODIwODViZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H5pBe7S0_EwYnD2Dn46BEsqKZIwmOOXpKkLMMFKqosU",
+    "rating": {
+        "rate": 4.5,
+        "count": 146
+    }
+} 
+,
+{
+    "id": 650,
+    "title": "* Football Life 26 *",
+    "price": 52.2,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "homebace": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/11/18/381594764.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpqBD5CiXBHPHse1cCN8qDdE6B_rD9hvgC7A&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
     }
 } 
 ]
