@@ -75,7 +75,7 @@ body{
   gap: 20px;
   flex-grow: unset;
   position:fixed ;
-  z-index: 1;
+  z-index: 10000;
 
 }
 .navSpase{height: 50px;}
@@ -750,7 +750,74 @@ border-radius: 14px;
 /* __________________________________________________________________________________________________________________ */
 /* __________________________________________________________________________________________________________________ */
 /* صفحة الالعاب E commers */
+.test2026Off{
+  display: none;
+}
+.spaceImgcart{
+  width: 1px;
+  height: 50px;
+}
+.test2026{
+  width: 100%;
+  height: 95%;
+  background-color: rgba(255, 159, 33, 0.815);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  z-index: 200; 
+  top: 60px;
+  flex-direction: column;
+  padding-bottom: 20px;
+}
 
+.liImgcartsmart{
+  width: 100%;
+  height: 100%;
+}
+.dataImgcartsmart{
+  overflow: scroll;
+  height: 100%;
+}
+.test2026Heider{
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  background-color: #000000f1;
+  padding: 10px;
+  gap: 200px;
+    overflow: scroll;
+    padding: 10px;
+}
+
+.Imgcartsmart{
+  height: 400px;
+  width:400px ;
+}
+
+@media screen and (max-width: 968px) {
+  .test2026Heider{
+    flex-direction: column;
+    gap: 20px;
+    overflow: scroll;}
+    .test2026{
+      gap: 100px;
+    }
+    .test2026Heider{
+      gap: 5px;
+      padding-top: 50px;
+      padding-bottom: 20px;
+    }
+    .Imgcartsmart{
+  height: 300px;
+  width:300px ;
+}
+}
+/* __________________________________________________________________________________________________________________ */
+/* __________________________________________________________________________________________________________________ */
+/* __________________________________________________________________________________________________________________ */
 
 .productListContaner{
   width: 100%;
@@ -823,7 +890,7 @@ nav{
   align-items: center;
   justify-content: center;
   position: fixed;
-  z-index: 100;
+  z-index: 1000;
   margin: 210px 0px 0px 0px;
 }
 .cart{

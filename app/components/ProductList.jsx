@@ -45,7 +45,12 @@ const ProductList = () => {
   const [accessoriesZone,setAccessoriesZone]=useState(false)
 
   // ______________________________________________________________________________________________
+    //الكرت التعريفى للالعاب
+  const [imgcart, setImgcart] = useState([]);
+  const [imgcartOner, setImgcartOner] = useState(false);
 
+
+  // ______________________________________________________________________________________________
 
 useEffect(()=>{
     setLodong(true)
@@ -360,8 +365,8 @@ const sendEmail = (e) => {
           return search.toLocaleLowerCase() === '' ? product : product.title.toLocaleLowerCase().includes(search.toLocaleLowerCase());
         }).map(product => (
           <div key={product.title} className="product-item">
-            <img className='catrImg' src={product.image} loading='lazy' alt={product.title} />
-            <h3>{product.title}</h3>
+            <img className='catrImg' src={product.image} loading='lazy' alt={product.title} onClick={()=> {setImgcart([...imgcart, product]);setImgcartOner(true)}} />
+            {/* <h3>{product.title}</h3> */}
             <p>Size: {product.price} GB</p>
             <button className='orderbutton orderNaw' onClick={() => addToCart(product)}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
           </div>
@@ -408,7 +413,34 @@ const sendEmail = (e) => {
 
 
 
+<div className={imgcartOner ?'test2026' :'test2026Off'}>
 
+{/* <img className='catrImg' src={setImgcart} loading='lazy' alt={'nane'} /> */}
+{imgcart.map(product => (
+                <li key={product.id}  className='liImgcartsmart'>
+                  <div className='test2026Heider'>
+                    <div className='spaceImgcart'></div>
+                  <img className='Imgcartsmart' src={product.image} loading='lazy' alt={product.title} />
+                     <div className='dataImgcartsmart'>
+                      <h1 style={{color:'#d7fc71b2',width:'100%',textAlign:'center'}}>{product.title}</h1>
+                      <h1 style={{color:'#ff9900'}}>Description</h1>
+                      <h3>{product.description}</h3>
+                      <hr />
+                      <h1 style={{color:'#ff9900'}}>Requirements</h1>
+                      <h3>{product.category}</h3>
+                      <h1>size by gigabyte</h1>
+                      <span style={{color:'yellowgreen', fontSize:'50px'}}>{product.price} GB</span> 
+                  <hr/>
+                  <button className='orderbutton orderNaw' onClick={() => {addToCart(product);setImgcart([]); setImgcartOner(false)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>           
+                   <button className='orderbutton orderNaw' onClick={() => {setImgcart([]); setImgcartOner(false);}}><span className='checkSend orderbuttonTEXT'> go back</span></button>
+                                        <div className='spaceImgcart'></div>
+                     </div>
+                   </div>
+                  </li>
+                  
+                
+              ))}
+</div>
 
 
 
