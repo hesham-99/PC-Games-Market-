@@ -3,8 +3,13 @@
         "id": 624,
         "title": "* Age of Mythology - Retold *",
         "price": 28.8,
-        "description": "Gamee Strategy  Developer worlds Edge Forgotten Empires Tantalus Media CaptureAge Virtuos GamesPUBLISHER: Xbox Game StudiosRELEASE DATE: September 4 2024 ",
-        "category": "Requires a 64-bit processor and operating systemOS: Windows 10 / 11Processor: Intel® i3-4130 or AMD FX 4350 at 2.4GHZ+ with 2 cores / 4 threads and AVX supportMemory: 8 GB RAMGraphics: NVIDIA® GeForce® GTX 645 or AMD Radeon™ Vega 8 or Intel® Iris Graphics 550 or betterDirectX: Version 12Storage: 31 GB",
+        "description": "From the creators of the award-winning Age of Empires franchise, Age of Mythology: Retold goes beyond history to a mythical age where gods, monsters, and humans collide. Combining the best elements of the beloved Age of Mythology with modern real-time strategy design and visuals, Retold is an epic and innovative experience for old and new players alike. Secure your domain, command legendary monsters, and call upon the power of the gods to crush your enemies.Will you become Mythic?",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11",
+            "Processor":" Intel® i3-4130 or AMD FX 4350 at 2.4GHZ+ with 2 cores / 4 threads and AVX support",
+            "VideoCard":"NVIDIA® GeForce® GTX 645 or AMD Radeon™ Vega 8 or Intel® Iris Graphics 550 or better8 GB",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/5e4ceb59-cd3f-490e-9706-38a9f214991a/dhuk43m-42ce25e2-e33b-44c8-bede-6a999c9bc62d.png",
         "rating": {
             "rate": 3.9,
@@ -16,7 +21,12 @@
         "title": "* Age of Empires - Definitive Edition *",
         "price": 11.6,
         "description": " Age of Empires, the pivotal RTS that launched a 20-year legacy returns in definitive form for Windows 10 PCs.  Bringing together all of the officially released content with modernized gameplay, all-new visuals and a host of other new features Age of Empires: Definitive Edition is the complete RTS package. Engage in over 40 hours of updated campaign content with new narration and pacing, jump online in up to 8-player battles with new competitive features and modes Experience 4K HD visuals with overhauled animations Get creative with the scenario builder and share your creations.There’s never been a better time to jump in to Age of Empires. Welcome back to history.",
-        "category": "OS : Windows 10 (64-bit) Processor : 1.8 Ghz+ Dual Core or greater i5 or AMD equivalent RAM : 4 GB RAM Video card : DirectX 11.0 compatible card with Direct3D Feature Level 11_0 or higher support and 1GB of free memory – Intel: HD 4000 (Ivy Bridge CPU)or better GPU – nVidia: GT 430 or better desktop GPU, or GT 425M or better mobile GPU – AMD: Radeon HD 5500 or better Desktop GPU, or Mobility Radeon 5650 or better mobile GPU DirectX : Version 11",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit)",
+            "Processor":": 1.8 Ghz+ Dual Core or greater i5 or AMD equivalent",
+            "VideoCard":"DirectX 11.0 compatible card with Direct3D Feature Level 11_0 or higher support and 1GB of free memory – Intel: HD 4000 (Ivy Bridge CPU)or better GPU – nVidia: GT 430 or better desktop GPU, or GT 425M or better mobile GPU – AMD: Radeon HD 5500 or better Desktop GPU, or Mobility Radeon 5650 or better mobile GPU",
+            "MemoryRAM":" 4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9eb92786-5e60-46ac-ae2c-d33af137f691/dc5xaq5-2810ddbc-dc92-4b70-9a24-15f6e763d9ce.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85ZWI5Mjc4Ni01ZTYwLTQ2YWMtYWUyYy1kMzNhZjEzN2Y2OTEvZGM1eGFxNS0yODEwZGRiYy1kYzkyLTRiNzAtOWEyNC0xNWY2ZTc2M2Q5Y2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KIoYhzFsT38O3cZ24bi6gzCqSuAdzQf6w1dZoYbjytc",
         "rating": {
             "rate": 3.9,
@@ -28,7 +38,12 @@
         "title": "* Age of Empires II - Definitive Edition *",
         "price": 20.8,
         "description": "ge of Empires II: Definitive Edition celebrates the 20th anniversary of one of the most popular strategy games ever, now with stunning 4K Ultra HD graphics, and a fully remastered soundtrack. Age of Empires II: DE features “The Last Khans” with 3 new campaigns and 4 new Civilizations. Frequent updates include events, additional content, new game modes, and enhanced features with the recent addition of Co-Op mode!Explore all the original Campaigns and the best-selling expansions like never before. With over 200 hours of gameplay and 1,000 years of human history, improved experiences await. Head online to challenge other players in your quest for world domination with 35 different Civilizations. You can also experience new Civilizations and Campaigns with the Lords of the West DLC! Recent updates include a Battle Royale game mode, ongoing support for the Scenario Editor, Quick Play for easy social games, enhancements to the game UI, and more!Choose your path to greatness with an eye-catching and engaging remaster to one of the most beloved strategy games of all time",
-        "category": "SYSTEM REQUIREMENTS:Minimum system requirements: Requires 64-bit processor and operating systemOS: Windows 10Processor: Intel Core 2 Duo or AMD Athlon 64×2 5600+ RAM: 4 GB RAMVideo Card: NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850 or Intel® HD Graphics 3000 or better with 2 GB VRAM, DirectX 11 Disk space: 81.8 GB",
+        "category": {
+            "OpenSYSTEM": "Windows 10",
+            "Processor":"Processor: Intel Core 2 Duo or AMD Athlon 64×2 5600+",
+            "VideoCard":"NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850 or Intel® HD Graphics 3000 or better with 2 GB VRAM",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68cb9ede-8bb0-4acc-994c-927e6002ac87/ddlb3iz-8c40bdbf-256f-4eef-aa67-ce1f2631b911.png/v1/fit/w_414,h_414/age_of_empires_2_definitive_edition_icon_by_30011887_ddlb3iz-414w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNjhjYjllZGUtOGJiMC00YWNjLTk5NGMtOTI3ZTYwMDJhYzg3XC9kZGxiM2l6LThjNDBiZGJmLTI1NmYtNGVlZi1hYTY3LWNlMWYyNjMxYjkxMS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wqEDA3w6D6VHEKz-bj198C-bLA5WA3dLVmSkDdW5NeA",
         "rating": {
             "rate": 3.9,
@@ -51,8 +66,13 @@
         "id": 3,
         "title": "* Age of Empires III - Definitive Edition *",
         "price": 45.3,
-        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-        "category": " Requires 64-bit processor and operating systemOS: Windows 10 version 18362 (64-bit only) Processor: Intel i3-2105 3.1GHz / AMD Phenom II X4 973 RAM: 8 GB of RAM ideo card: GeForce GT 430 / Radeon HD 5570 / Intel HD 4400, DirectX 11",
+        "description": "Age of Empires III: Definitive Edition is a re-release of the classic strategy game in 4K Ultra HD resolution and an all-new soundtrack. Two new modes have been added to the game: [Historical Battles] and Challenge Missions [The Art of War], as well as all the previously released additions and 14 civilizations, plus two new ones – the Swedes and the Incas",
+        "category": {
+            "OpenSYSTEM": "Windows 10  (64-bit only)",
+            "Processor":" Intel i3-2105 3.1GHz / AMD Phenom II X4 973",
+            "VideoCard":"GeForce GT 430 / Radeon HD 5570 / Intel HD 4400",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://cdn2.steamgriddb.com/icon/82dd5a905e59accb6f62295917517991.png",
         "rating": {
             "rate": 4.7,
@@ -64,7 +84,12 @@
         "title": "* Age of Empires IV *",
         "price": 40.2,
         "description": "GENRE: StrategyDEVELOPER: Relic Entertainment, Forgotten Empires, Climax Studios, World’s EdgePUBLISHER: Xbox Game StudiosFRANCHISE: Age of EmpiresRELEASE DATE: 28 Oct, 2021",
-        "category": "MINIMUM SYSTEM REQUIREMENTS Requires a 64-bit processor and operating system OS: Windows 10 64bit | Windows 11 64bit Processor: Intel Core i5-6300U or AMD Ryzen 5 2400G | CPU with AVX support required Memory: 8 GB RAM Graphics: Intel HD 520 or AMD Radeon RX Vega 11 DirectX: Version 12 Storage: 110 GB",
+        "category": {
+            "OpenSYSTEM": "Windows 10 64bit | Windows 11 64bit",
+            "Processor":"Intel Core i5-6300U or AMD Ryzen 5 2400G | CPU with AVX support required",
+            "VideoCard":"cIntel HD 520 or AMD Radeon RX Vega 11 -DirectX: Version 12",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18bd1c7c-87e3-4bda-91ca-d87d13eeb82b/dfa6r79-7ab1525b-a934-471d-bf7a-5a90f156cd46.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE4YmQxYzdjLTg3ZTMtNGJkYS05MWNhLWQ4N2QxM2VlYjgyYlwvZGZhNnI3OS03YWIxNTI1Yi1hOTM0LTQ3MWQtYmY3YS01YTkwZjE1NmNkNDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mdpivejKh46sLKmZCrkMILaI016OFPpQJUJs3nlZtbo",
         "rating": {
             "rate": 2.1,
@@ -88,7 +113,12 @@
         "title": "* Alan Wake 2* ",
         "price": 110,
         "description": "Saga Anderson arrives to investigate ritualistic murders in a small town. Alan Wake pens a dark story to shape the reality around him. These two heroes are somehow connected. Can they become the heroes they need to be?",
-        "category": "jewelery",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11",
+            "Processor":"AMD Ryzen 7 3700 / Intel Core i5-7600K",
+            "VideoCard":"AMD Radeon RX 6600 / NVIDIA GeForce RTX 2060",
+            "MemoryRAM":"16 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dgdvt6i-490eacf7-6b31-4eba-bc83-5d6ad8a398ad.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3N2FmODBhLTRmMzctNGE4Yy04MjI4LTFkYzU3YTMxY2Y2ZlwvZGdkdnQ2aS00OTBlYWNmNy02YjMxLTRlYmEtYmM4My01ZDZhZDhhMzk4YWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7TLoOVhhb2cgNe9ev5gvTzVh31LPsv1aPYJh0ouZt7Y",
         "rating": {
             "rate": 3.9,
@@ -99,8 +129,13 @@
         "id": 7,
         "title": "* Alan Wake Remastered *",
         "price": 37.8,
-        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-        "category": "jewelery",
+        "description": "In this award-winning cinematic action-thriller, troubled author Alan Wake embarks on a desperate search for his missing wife, Alice. Following her mysterious disappearance from the Pacific Northwest town of Bright Falls, he discovers pages of a horror story he has supposedly written, but he has no memory of.Wake is soon forced to question his sanity, as page by page, the story comes true before his eyes: a hostile presence of supernatural darkness is taking over everyone it finds, turning them against him. He has no choice but to confront the forces of darkness armed only with his flashlight, a handgun and what remains of his shredded mind. His nightmarish journey to find answers to the mind-bending mystery he faces will lead him into the terrifying depths of the night.Alan Wake Remastered offers the complete experience, with the main game and its two story expansions – The Signal and The Writer – in stunning new 4K visuals. The tense, episodic story is packed with unexpected twists, heart-stopping cliff hangers, and intense bursts of combat where it takes more than bullets to banish the darkness. The game’s cutscenes, quirky cast of characters, and the majestic Pacific Northwest vistas have been enhanced for an experience that delivers as much on its visual impact as its unnerving atmosphere.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64 bits)",
+            "Processor":"Intel Core i5-3340 or equivalent",
+            "VideoCard":" Nvidia GeForce GTX 960 or equivalent, DirectX 11",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/1e632c3db5602c1e2639897989497ca5/32/512x512.png",
         "rating": {
             "rate": 3,
@@ -111,8 +146,13 @@
         "id": 8,
         "title": "* Alone in the Dark *",
         "price": 28,
-        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-        "category": "jewelery",
+        "description": "Return to Derceto Manor in this reimagination of Alone in the Dark, a love letter to the 90’s cult classic horror game.Alone in the Dark weaves a chilling tapestry of psychological horror and Southern Gothic charm, reimagining the iconic game that set the benchmark for the genre. We invite you to join us on a journey into madness, where each encounter could be your last. With each step you take closer to unravelling Derceto’s mystery, the eyes that watch from the darkness grow hungrier. Every bullet means the difference between survival and an unthinkable end. The next door you unlock could lead to a nightmarish realm offering nothing but slashing claws, grasping tentacles, and frayed sanity. Journey to interbellum Louisiana, where an era of decadence hides a darker tale – of escape from past traumas and an intolerant society, into the waiting grasp of something darker, something that has patiently lurked for impossible eons. This is Alone in the Dark as you’ve never seen it – a skillfully-woven narrative of Southern Gothic elegance and eldritch madness that pays homage to its legendary origins while taking the next step forward in survival horror storytelling",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11",
+            "Processor":"Ryzen 3 3100 / Core i3-8300",
+            "VideoCard":" GeForce GTX 1050 Ti / Radeon RX 570",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1c9ae6e-bf1f-417c-b9b6-80d425a3a207/dh8q3xt-65742bc3-f88a-45f8-b037-f72e2720ece0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxYzlhZTZlLWJmMWYtNDE3Yy1iOWI2LTgwZDQyNWEzYTIwN1wvZGg4cTN4dC02NTc0MmJjMy1mODhhLTQ1ZjgtYjAzNy1mNzJlMjcyMGVjZTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lOPfoBh03Kcq0IoI_XuDOLBji3DyWhoG6t9gHzdZK2E",
         "rating": {
             "rate": 1.9,
@@ -135,8 +175,13 @@
         "id": 10,
         "title": "* Assassin's Creed I *",
         "price": 6.61,
-        "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-        "category": "electronics",
+        "description": "Assassin’s Creed™ is the next-gen game developed by Ubisoft Montreal that redefines the action genre. While other games claim to be next-gen with impressive graphics and physics, Assassin’s Creed merges technology, game design, theme and emotions into a world where you instigate chaos and become a vulnerable, yet powerful, agent of change.The setting is 1191 AD. The Third Crusade is tearing the Holy Land apart. You, Altair, intend to stop the hostilities by suppressing both sides of the conflict.You are an Assassin, a warrior shrouded in secrecy and feared for your ruthlessness. Your actions can throw your immediate environment into chaos, and your existence will shape events during this pivotal moment in history. Be an Assassin – Master the skills, tactics and weapons of history’s deadliest and most secretive clan of warriors. Plan your attacks, strike without mercy and fight your way to escape. Experience exclusive PC content – Four PC-exclusive investigation missions make the game an even better experience than its console predecessors, including the Rooftop Race Challenge, a race to a specified location and the Archer Stealth Assassination Challenge, where the player must assassinate all archers in a certain zone to help out fellow Assassins.Realistic and responsive environments – Experience a living, breathing world in which all your actions have consequences. Crowds react to your moves and will either help or hinder you on your quests.Action with a new dimension-total freedom – Eliminate your targets wherever, whenever and however. Stalk your prey through richly detailed, historically accurate, open-ended environments. Scale buildings, mount horses, blend in with crowds. Do whatever it takes to achieve your objectives.Relive the epic times of the Crusades – Assassin’s Creed immerses you in the realistic and historical Holy Land of the 12th century, featuring life-like graphics, ambience and the subtle, yet detailed nuances of a living world.Intense action rooted in reality – Experience heavy action blended with fluid and precise animations. Use a wide range of medieval weapons, and face your enemies in realistic swordfight duels.Next-gen gameplay – The proprietary engine developed from the ground up for the next-gen console allows organic game design featuring open gameplay, intuitive control scheme, realistic interaction with environment and a fluid, yet sharp, combat mechanic",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":"Intel Core® 2 Duo 2.2 GHz",
+            "VideoCard":"1 GB DirectX® 10.0-compliant video card or DirectX 9.0-compliant card with Shader Model 3.0 or higher",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3boqn-b579891b-64ec-4829-87fd-30ec09c5105f.png/v1/fill/w_512,h_512,strp/assassin_s_creed_icon_by_andonovmarko_da3boqn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvYzc4YmMzZmMtOWYwOC00N2NhLTgxYWUtZDg5MDU1YzdlYzQ5XC9kYTNib3FuLWI1Nzk4OTFiLTY0ZWMtNDgyOS04N2ZkLTMwZWMwOWM1MTA1Zi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.xpbZbvWqaWNr7nliFoXVNSqzoKIM_WN5QPynx568h84",
         "rating": {
             "rate": 2.9,
@@ -159,8 +204,13 @@
         "id": 12,
         "title": "* Assassins Creed Revelations *",
         "price": 6.34,
-        "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-        "category": "electronics",
+        "description": "When a man has won all his battles and defeated his enemies; what is left for him to achieve? Ezio Auditore must leave his life behind in search of answers, In search of the truth.In Assassin’s Creed® Revelations, master assassin Ezio Auditore walks in the footsteps of the legendary mentor Altair, on a journey of discovery and revelation. It is a perilous path – one that will take Ezio to Constantinople, the heart of the Ottoman Empire, where a growing army of Templars threatens to destabilize the region",
+        "category":{
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":" Intel® Core™2 Duo E6700 @ 2.6 GHz or AMD Athlon™ 64 X2 6000+ @ 3.0 GHz or better",
+            "VideoCard":"1 GB DirectX® 9.0–compliant card with Shader Model 5.0 or higher",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://th.bing.com/th/id/R.a27b7ddf96efd70e4a473feb3e9e1b55?rik=qRZ%2bc0aYdPHDtg&pid=ImgRaw&r=0",
         "rating": {
             "rate": 4.8,
@@ -171,8 +221,13 @@
         "id": 13,
         "title": "* Assassins Creed Brotherhood *",
         "price": 5.80,
-        "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-        "category": "electronics",
+        "description": "Live and breathe as Ezio, a legendary Master Assassin, in his enduring struggle against the powerful Templar Order. He must journey into Italy’s greatest city, Rome, center of power, greed and corruption to strike at the heart of the enemy.Defeating the corrupt tyrants entrenched there will require not only strength, but leadership, as Ezio commands an entire Brotherhood who will rally to his side. Only by working together can the Assassins defeat their mortal enemies.And for the first time, introducing an award-winning multiplayer layer that allows you to choose from a wide range of unique characters, each with their own signature weapons and assassination techniques, and match your skills against other players from around the world.It’s time to join the Brotherhood.",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":"Intel Core® 2 Duo 1.8 GHZ or AMD Athlon X2 64 2.4GHZ",
+            "VideoCard":"256 MB DirectX® 9.0–compliant card with Shader Model 3.0 or higher ",
+            "MemoryRAM":"1.5 GB Windows® XP / 2 GB Windows Vista® – Windows 7®"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3bp7j-6ca1d20c-559b-4986-8bef-ca90d0d2733d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZGEzYnA3ai02Y2ExZDIwYy01NTliLTQ5ODYtOGJlZi1jYTkwZDBkMjczM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Sa7sML_pvTq7_MEGpg5FN0dmXOxY8SrFes4SXJgpCsU",
         "rating": {
             "rate": 2.9,
@@ -207,8 +262,13 @@
         "id": 16,
         "title": "* Assassins's Creed 4 - Black Flag *",
         "price": 17.2,
-        "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-        "category": "women's clothing",
+        "description": "The year is 1715. Pirates rule the Caribbean and have established their own lawless Republic where corruption, greediness and cruelty are commonplace.Among these outlaws is a brash young captain named Edward Kenway. His fight for glory has earned him the respect of legends like Blackbeard, but also drawn him into the ancient war between Assassins and Templars, a war that may destroy everything the pirates have built.Welcome to the Golden Age of Piracy",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":"Intel Core2Quad Q8400 @ 2.6 GHz or AMD Athlon II X4 620 @ 2.6 GHz",
+            "VideoCard":"Nvidia Geforce GTX 260 or AMD Radeon HD 4870 (512MB VRAM with shader Model 4.0 or higher)",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfTK2zwhgWzDXPJElM_yddH6kVf9nekDI1cQ&s",
         "rating": {
             "rate": 2.9,
@@ -219,7 +279,7 @@
         "id": 17,
         "title": "* Assassin's Creed -Unity *",
         "price": 49.2,
-        "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+        "description": "Assassin’s Creed® Unity is an action/adventure game set in the city of Paris during one of its darkest hours, the French Revolution. Take ownership of the story by customising Arno’s equipement to make the experience unique to you, both visually and mechanically. In addition to an epic single-player experience, Assassin’s Creed Unity delivers the excitement of playing with up to three friends through online cooperative gameplay in specific missions. Throughout the game, take part in one of the most pivotal moments of French history in a compelling storyline and a breath-taking playground that brought you the city of lights of today",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/146d81d3-58f4-45c2-957e-1dc554a4a869/d8zwra1-9b015b8f-9608-49a6-81d4-ae31a1480373.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0NmQ4MWQzLTU4ZjQtNDVjMi05NTdlLTFkYzU1NGE0YTg2OVwvZDh6d3JhMS05YjAxNWI4Zi05NjA4LTQ5YTYtODFkNC1hZTMxYTE0ODAzNzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wt-El19ZZb2f2mTlUqOBapEkFbENpMRTqnnTz1EMrwU",
         "rating": {
@@ -256,8 +316,13 @@
         "id": 20,
         "title": "* Assassins Creed Odyssey *",
         "price": 89.2,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "n this action-adventure game, set sail for Ancient Greece to alter its fate. Fight in visceral battles on land and sea, shape your destiny from outcast to legend, and uncover secrets of your past",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64bit versions only)",
+            "Processor":" AMD FX 6300 @ 3.8 GHz, Ryzen 3 – 1200, Intel Core i5 2400 @ 3.1 GHz ",
+            "VideoCard":"AMD Radeon R9 285, NVIDIA GeForce GTX 660 (2GB VRAM with Shader Model 5.0)",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/1600b235-52b6-479c-a468-d1d3197d2f0e/ddrnp84-89be8531-75f3-4b69-adaf-6b1c0c7f22c6.png/v1/fill/w_512,h_512/assassin_s_creed_odyssey_icon_by_nyu_one_ddrnp84-fullview.png",
         "rating": {
             "rate": 4.5,
@@ -269,8 +334,13 @@
         "id": 21,
         "title": "* Assassins Creed Valhalla - Complete Edition *",
         "price": 144,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Become Eivor, a legendary Viking raider on a quest for glory.– Lead epic Viking raids against Saxon troops and fortresses.– Relive the visceral fighting style of the Vikings as you dual-wield powerful weapons.– Challenge yourself with the most varied collection of enemies ever in Assassin’s Creed.– Shape the growth of your character and your clan’s settlement with every choice you make.– Explore a Dark Age open world, from the harsh shores of Norway to the beautiful kingdoms of England.– Forgotten Saga, a FREE new rogue-lite game mode",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 8 / 10",
+            "Processor":"AMD Ryzen R3 1200 / Intel Core i5-4460",
+            "VideoCard":"MD Radeon R9 380 / nVidia GeForce GTX 960",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3367fa99-0ba6-454c-b947-683f1a9f896d/ddw4ebl-1e4a6306-4480-429a-b87b-92b4745aa07b.png",
         "rating": {
             "rate": 4.5,

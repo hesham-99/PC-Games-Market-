@@ -17,6 +17,9 @@ import { BsBagXFill } from "react-icons/bs";
 // import { IoCall } from "react-icons/bs";
 import Link from 'next/link';
 
+import { HiBackspace } from "react-icons/hi";
+import { HiArrowNarrowRight } from "react-icons/hi";
+import { FaCartArrowDown } from "react-icons/fa6";
 
 
 const ProductList = () => {
@@ -419,20 +422,22 @@ const sendEmail = (e) => {
 {imgcart.map(product => (
                 <li key={product.id}  className='liImgcartsmart'>
                   <div className='test2026Heider'>
-                    <div className='spaceImgcart'></div>
                   <img className='Imgcartsmart' src={product.image} loading='lazy' alt={product.title} />
                      <div className='dataImgcartsmart'>
-                      <h1 style={{color:'#d7fc71b2',width:'100%',textAlign:'center'}}>{product.title}</h1>
+                      <h1 style={{color:'#d7fc71b2',width:'100%',textAlign:'center'}}>{product.title}<span style={{color:'red'}}>{product.coment}</span></h1>
                       <h1 style={{color:'#ff9900'}}>Description</h1>
                       <h3>{product.description}</h3>
                       <hr />
-                      <h1 style={{color:'#ff9900'}}>Requirements</h1>
-                      <h3>{product.category}</h3>
+                      <h1 style={{color:'#ff9900'}}>System Requirements</h1>
+                      <h3 style={{margin:'5px'}}>OS : {product.category.OpenSYSTEM}</h3>
+                      <h3 style={{margin:'5px'}}>CPU : {product.category.Processor}</h3>
+                      <h3 style={{margin:'5px'}}>GPU : {product.category.VideoCard}</h3>
+                      <h3 style={{margin:'5px'}}>RAM : {product.category.MemoryRAM}</h3>
                       <h1>size by gigabyte</h1>
                       <span style={{color:'yellowgreen', fontSize:'50px'}}>{product.price} GB</span> 
                   <hr/>
-                  <button className='orderbutton orderNaw' onClick={() => {addToCart(product);setImgcart([]); setImgcartOner(false)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>           
-                   <button className='orderbutton orderNaw' onClick={() => {setImgcart([]); setImgcartOner(false);}}><span className='checkSend orderbuttonTEXT'> go back</span></button>
+                  <button className='orderbutton orderNaw'  onClick={() => {addToCart(product);setImgcart([]); setImgcartOner(false)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><FaCartArrowDown /></span></button>           
+                  <button className='orderbutton orderNaw' onClick={() => {setImgcart([]); setImgcartOner(false);}}><span className='checkSend orderbuttonTEXT'> Go back</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><HiBackspace /></span></button>
                                         <div className='spaceImgcart'></div>
                      </div>
                    </div>
