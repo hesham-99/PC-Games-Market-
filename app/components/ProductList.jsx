@@ -20,6 +20,7 @@ import Link from 'next/link';
 import { HiBackspace } from "react-icons/hi";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { FaCartArrowDown } from "react-icons/fa6";
+import { AiOutlineClose } from "react-icons/ai";
 
 
 const ProductList = () => {
@@ -422,6 +423,7 @@ const sendEmail = (e) => {
 {imgcart.map(product => (
                 <li key={product.id}  className='liImgcartsmart'>
                   <div className='test2026Heider'>
+                  <button className='liImgcartsmartOFFeR'  onClick={() => {setImgcart([]); setImgcartOner(false);}}><AiOutlineClose /></button>
                   <img className='Imgcartsmart' src={product.image} loading='lazy' alt={product.title} />
                      <div className='dataImgcartsmart'>
                       <h1 style={{color:'#d7fc71b2',width:'100%',textAlign:'center'}}>{product.title}<span style={{color:'red'}}>{product.coment}</span></h1>
