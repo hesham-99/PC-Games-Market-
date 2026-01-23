@@ -429,10 +429,12 @@ const sendEmail = (e) => {
                       <h3>{product.description}</h3>
                       <hr />
                       <h1 style={{color:'#ff9900'}}>System Requirements</h1>
-                      <h3 style={{margin:'5px'}}>OS : {product.category.OpenSYSTEM}</h3>
-                      <h3 style={{margin:'5px'}}>CPU : {product.category.Processor}</h3>
-                      <h3 style={{margin:'5px'}}>GPU : {product.category.VideoCard}</h3>
-                      <h3 style={{margin:'5px'}}>RAM : {product.category.MemoryRAM}</h3>
+                      <div style={{gap:'5px',display:'flex',flexDirection:'column'}}>
+                      <h3 style={{margin:'5px'}}><span style={{color:'#adff2f'}}>OS : </span>{product.category.OpenSYSTEM}</h3>
+                      <h3 style={{margin:'5px'}}><span style={{color:'#adff2f'}}>CPU : </span>{product.category.Processor}</h3>
+                      <h3 style={{margin:'5px'}}><span style={{color:'#adff2f'}}>GPU : </span>{product.category.VideoCard}</h3>
+                      <h3 style={{margin:'5px'}}><span style={{color:'#adff2f'}}>RAM : </span>{product.category.MemoryRAM}</h3>
+                      </div>
                       <h1>size by gigabyte</h1>
                       <span style={{color:'yellowgreen', fontSize:'50px'}}>{product.price} GB</span> 
                   <hr/>
