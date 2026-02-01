@@ -370,7 +370,7 @@ const sendEmail = (e) => {
         }).map(product => (
           <div key={product.title} className="product-item">
             <img className='catrImg' src={product.image} loading='lazy' alt={product.title} onClick={()=> {setImgcart([...imgcart, product]);setImgcartOner(true)}} />
-            {/* <h3>{product.title}</h3> */}
+            <h3 onClick={()=> {setImgcart([...imgcart, product]);setImgcartOner(true)}}>{product.title}</h3>
             <p>Size: {product.price} GB</p>
             <button className='orderbutton orderNaw' onClick={() => addToCart(product)}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
           </div>
@@ -426,7 +426,7 @@ const sendEmail = (e) => {
                   <button className='liImgcartsmartOFFeR'  onClick={() => {setImgcart([]); setImgcartOner(false);}}><AiOutlineClose /></button>
                   <img className='Imgcartsmart' src={product.image} loading='lazy' alt={product.title} />
                      <div className='dataImgcartsmart'>
-                      <h1 style={{color:'#d7fc71b2',width:'100%',textAlign:'center'}}>{product.title}<span style={{color:'red'}}>{product.coment}</span></h1>
+                      <h1 style={{color:'#d7fc71b2',width:'100%',textAlign:'center'}}>{product.title}</h1>
                       <h1 style={{color:'#ff9900'}}>Description</h1>
                       <h3>{product.description}</h3>
                       <hr />
