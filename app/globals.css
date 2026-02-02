@@ -75,8 +75,7 @@ body{
   gap: 20px;
   flex-grow: unset;
   position:fixed ;
-  z-index: 10000;
-
+  z-index: 100;
 }
 .navSpase{height: 50px;}
 
@@ -907,6 +906,7 @@ nav{
   gap: 10px;
   padding: 0px 0px 5px 0px;
   box-shadow: 0px 5px 5px #e94f08a6;
+  z-index: 100;
 
 }
 
@@ -916,7 +916,7 @@ nav{
   align-items: center;
   justify-content: center;
   position: fixed;
-  z-index: 1000;
+  z-index: 100;
   margin: 210px 0px 0px 0px;
 }
 .cart{

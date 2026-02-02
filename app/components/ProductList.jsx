@@ -126,9 +126,7 @@ const NextDataB = ()=>{
 // };
 
 const [testorder , setTestorder ] = useState(false)
-const handleClickB= ()=>{
-  setTestorder(true)
-};
+const handleClickB= ()=>{setTestorder(true)};
 
 
 
