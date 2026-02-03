@@ -270,17 +270,17 @@
       ,
     {
         "id": 500019,
-        "title": "",
+        "title": "P-Tec 101",
         "price": 0,
         "description": "",
         "category": "accessories",
-        "image": "",
+        "image": "https://i.ibb.co/8g2XpYC5/P-Tec101-Portable-Speaker2-2-removebg-preview.png",
         "rating": {
             "rate": 4.5,
             "count": 146
             
         }
-        ,"priceNow": 0
+        ,"priceNow": 80
     }
       ,
     {
