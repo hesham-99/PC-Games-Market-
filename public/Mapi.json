@@ -55,7 +55,12 @@
         "title": "* Age of Empires II-HD *",
         "price": 5.18,
         "description": "",
-        "category": "men's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP, Vista, 7, 8 Pro+",
+            "Processor":"1.2GHZ CPU",
+            "VideoCard":"edicated GPU with at least 256MB VRAM",
+            "MemoryRAM":"1 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6715fdc1-21de-4bb0-a7ad-117a99972862/d9ckull-6b267af6-1f61-408f-a4c3-3112ffc6b218.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MTVmZGMxLTIxZGUtNGJiMC1hN2FkLTExN2E5OTk3Mjg2MlwvZDlja3VsbC02YjI2N2FmNi0xZjYxLTQwOGYtYTRjMy0zMTEyZmZjNmIyMTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GCEW0yscEWtexvdIyVRXW0DXr7SU4fz2njLjxD7uUKo",
         "rating": {
             "rate": 4.1,
@@ -101,7 +106,12 @@
         "title": "* Alan Wake *",
         "price": 8.77,
         "description": "",
-        "category": "jewelery",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":"Dual Core 2GHz/2.8GHz AMD",
+            "VideoCard":"DirectX 10 compatible GPU (512MB VRAM)",
+            "MemoryRAM":"2GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da8ftb2-b42cdce7-4845-432f-9472-36d56693e3c2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZGE4ZnRiMi1iNDJjZGNlNy00ODQ1LTQzMmYtOTQ3Mi0zNmQ1NjY5M2UzYzIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zhhWm5iPOTpsCxAyFRPPDywD9RaC9MQyRTNE8O5Lq4M",
         "rating": {
             "rate": 4.6,
@@ -164,7 +174,12 @@
         "title": "* Arma 3 *",
         "price": 151,
         "description": "",
-        "category": "electronics",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit)",
+            "Processor":"Intel Core quad-core or AMD Athlon quad-core",
+            "VideoCard":"NVIDIA GeForce GTX 660 or AMD Radeon HD 7850 (1GB VRAM)",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://orig00.deviantart.net/140d/f/2016/131/c/3/arma_3_icon_by_troublem4ker-da25gfi.png",
         "rating": {
             "rate": 3.3,
@@ -174,7 +189,7 @@
     {
         "id": 10,
         "title": "* Assassin's Creed I *",
-        "price": 6.61,
+        "price": 6.64,
         "description": "Assassin’s Creed™ is the next-gen game developed by Ubisoft Montreal that redefines the action genre. While other games claim to be next-gen with impressive graphics and physics, Assassin’s Creed merges technology, game design, theme and emotions into a world where you instigate chaos and become a vulnerable, yet powerful, agent of change.The setting is 1191 AD. The Third Crusade is tearing the Holy Land apart. You, Altair, intend to stop the hostilities by suppressing both sides of the conflict.You are an Assassin, a warrior shrouded in secrecy and feared for your ruthlessness. Your actions can throw your immediate environment into chaos, and your existence will shape events during this pivotal moment in history. Be an Assassin – Master the skills, tactics and weapons of history’s deadliest and most secretive clan of warriors. Plan your attacks, strike without mercy and fight your way to escape. Experience exclusive PC content – Four PC-exclusive investigation missions make the game an even better experience than its console predecessors, including the Rooftop Race Challenge, a race to a specified location and the Archer Stealth Assassination Challenge, where the player must assassinate all archers in a certain zone to help out fellow Assassins.Realistic and responsive environments – Experience a living, breathing world in which all your actions have consequences. Crowds react to your moves and will either help or hinder you on your quests.Action with a new dimension-total freedom – Eliminate your targets wherever, whenever and however. Stalk your prey through richly detailed, historically accurate, open-ended environments. Scale buildings, mount horses, blend in with crowds. Do whatever it takes to achieve your objectives.Relive the epic times of the Crusades – Assassin’s Creed immerses you in the realistic and historical Holy Land of the 12th century, featuring life-like graphics, ambience and the subtle, yet detailed nuances of a living world.Intense action rooted in reality – Experience heavy action blended with fluid and precise animations. Use a wide range of medieval weapons, and face your enemies in realistic swordfight duels.Next-gen gameplay – The proprietary engine developed from the ground up for the next-gen console allows organic game design featuring open gameplay, intuitive control scheme, realistic interaction with environment and a fluid, yet sharp, combat mechanic",
         "category": {
             "OpenSYSTEM": "Windows 7 / 10 / 11",
@@ -193,7 +208,12 @@
         "title": "* Assassin's Creed Chronicles - Trilogy *",
         "price": 6.72,
         "description": "",
-        "category": "electronics",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit)",
+            "Processor":"Intel Core 2 Duo E8200 @ 2.6 GHz or AMD Athlon II X2 240 @ 2.8 GHz",
+            "VideoCard":"nVidia GeForce GTS450 or AMD Radeon HD5770 (1024MB VRAM)",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://image.api.playstation.com/cdn/EP0001/CUSA03440_00/a9EwxcmrSzbMXZERRQEfjpLEmxIXiUdZtmBHGVMG6yftOo1tyf83wybjJltCynzx.png",
         "rating": {
             "rate": 4.8,
@@ -220,7 +240,7 @@
     {
         "id": 13,
         "title": "* Assassins Creed Brotherhood *",
-        "price": 5.80,
+        "price": 5.81,
         "description": "Live and breathe as Ezio, a legendary Master Assassin, in his enduring struggle against the powerful Templar Order. He must journey into Italy’s greatest city, Rome, center of power, greed and corruption to strike at the heart of the enemy.Defeating the corrupt tyrants entrenched there will require not only strength, but leadership, as Ezio commands an entire Brotherhood who will rally to his side. Only by working together can the Assassins defeat their mortal enemies.And for the first time, introducing an award-winning multiplayer layer that allows you to choose from a wide range of unique characters, each with their own signature weapons and assassination techniques, and match your skills against other players from around the world.It’s time to join the Brotherhood.",
         "category": {
             "OpenSYSTEM": "Windows 7 / 10 / 11",
@@ -239,7 +259,12 @@
         "title": "* Assassin's Creed Rogue *",
         "price": 11.6,
         "description": "",
-        "category": "electronics",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit)",
+            "Processor":"Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD Athlon II X4 620 @ 2.6 GHz, or better",
+            "VideoCard":"NVIDIA GeForce GTS 450 (1 GB), AMD Radeon HD 5670 (1 GB), or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3bsoj-4b745b72-cf76-4deb-9337-a64bacf8ce30.png/v1/fill/w_512,h_512/assassin_s_creed___rogue_icon_by_andonovmarko_da3bsoj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvYzc4YmMzZmMtOWYwOC00N2NhLTgxYWUtZDg5MDU1YzdlYzQ5XC9kYTNic29qLTRiNzQ1YjcyLWNmNzYtNGRlYi05MzM3LWE2NGJhY2Y4Y2UzMC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.z4LKbHrbpHAXiKVUritcSAmp700OEARdcZTsbfxdwcM",
         "rating": {
             "rate": 2.2,
@@ -249,9 +274,14 @@
     {
         "id": 15,
         "title": "* Assassin Creed III Remastered *",
-        "price": 38.5,
+        "price": 39.2,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit)",
+            "Processor":"Intel Core i5 2400 @ 3.1 GHz / AMD FX 6350 @ 3.9 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 660 / AMD Radeon R9 270X (2 GB VRAM with Shader Model 5.0)",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aacf7545-f3cd-48d5-b931-28ce4a28db0e/dd3torx-fbf367a4-0948-4275-b2d7-6bebf70800b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhY2Y3NTQ1LWYzY2QtNDhkNS1iOTMxLTI4Y2U0YTI4ZGIwZVwvZGQzdG9yeC1mYmYzNjdhNC0wOTQ4LTQyNzUtYjJkNy02YmViZjcwODAwYjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s5LVnGbJolChWGM8ppvCyfZQj0-Tk5NNv-ByI03AzxY",
         "rating": {
             "rate": 2.6,
@@ -280,7 +310,12 @@
         "title": "* Assassin's Creed -Unity *",
         "price": 49.2,
         "description": "Assassin’s Creed® Unity is an action/adventure game set in the city of Paris during one of its darkest hours, the French Revolution. Take ownership of the story by customising Arno’s equipement to make the experience unique to you, both visually and mechanically. In addition to an epic single-player experience, Assassin’s Creed Unity delivers the excitement of playing with up to three friends through online cooperative gameplay in specific missions. Throughout the game, take part in one of the most pivotal moments of French history in a compelling storyline and a breath-taking playground that brought you the city of lights of today",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit)",
+            "Processor":"Intel Core i5-2500K @ 3.3 GHz or AMD FX 8350 @ 4.0 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 680 (2 GB) or AMD Radeon HD 7970 (2 GB)",
+            "MemoryRAM":"6 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/146d81d3-58f4-45c2-957e-1dc554a4a869/d8zwra1-9b015b8f-9608-49a6-81d4-ae31a1480373.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0NmQ4MWQzLTU4ZjQtNDVjMi05NTdlLTFkYzU1NGE0YTg2OVwvZDh6d3JhMS05YjAxNWI4Zi05NjA4LTQ5YTYtODFkNC1hZTMxYTE0ODAzNzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wt-El19ZZb2f2mTlUqOBapEkFbENpMRTqnnTz1EMrwU",
         "rating": {
             "rate": 3.8,
@@ -292,7 +327,12 @@
         "title": "* Assassin's Creed Syndicate *",
         "price": 62.1,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit versions)",
+            "Processor":"Intel Core i5 2400s @ 2.5 GHz or AMD FX 6350 @ 3.9 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 660 (2 GB) or AMD Radeon R9 270 (2 GB)",
+            "MemoryRAM":"6 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/da3bts0-685eacee-509c-435a-b730-f720e3b4fcaf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZGEzYnRzMC02ODVlYWNlZS01MDljLTQzNWEtYjczMC1mNzIwZTNiNGZjYWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Nx3F07n0zzUaQUxSGhrmwWH5wByGVQqU36ehG4ZWptc",
         "rating": {
             "rate": 4.7,
@@ -304,7 +344,12 @@
         "title": "* Assassin's Creed -Origins *",
         "price": 69.1,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit)",
+            "Processor":"Intel Core i5-2400S @ 2.5 GHz / AMD FX-6350 @ 3.9 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 660 / AMD Radeon R9 270 (2 GB VRAM)",
+            "MemoryRAM":"6 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/146d81d3-58f4-45c2-957e-1dc554a4a869/dbuopuc-f6541dc1-4c89-4c30-a457-3a095122f48a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0NmQ4MWQzLTU4ZjQtNDVjMi05NTdlLTFkYzU1NGE0YTg2OVwvZGJ1b3B1Yy1mNjU0MWRjMS00Yzg5LTRjMzAtYTQ1Ny0zYTA5NTEyMmY0OGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C8o9bHJspcjM7q7Kaq9eNlsCpM_8AN-1fgtZ4zxoLBA",
         "rating": {
             "rate": 4.5,
@@ -353,7 +398,12 @@
         "title": "* Attack on Titan Wings of Freedom *",
         "price": 17.5,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7, 8.1, 10 (64-bit required)",
+            "Processor":"Core i7 870 2.93GHz or higher",
+            "VideoCard":"NVIDIA GeForce GTS 450 (1GB VRAM)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/daai1ei-5ea8fbb1-88d0-4262-ab2c-8dedb2937a9e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZGFhaTFlaS01ZWE4ZmJiMS04OGQwLTQyNjItYWIyYy04ZGVkYjI5MzdhOWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RG6cTFnYmBZnTXXX-XKWRF75tQuewzST6FbetUV9_HA",
         "rating": {
             "rate": 4.5,
@@ -366,7 +416,12 @@
         "title": "* Attack on Titan 2 *",
         "price": 24.3,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7, 8.1, 10 (64-bit)",
+            "Processor":"Core i5 2400 or over",
+            "VideoCard":"NVIDIA GeForce GTX 660 VRAM 1GB or over",
+            "MemoryRAM":"6 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dcitfoj-e9d3c696-67e5-4e39-a98b-d0682e16c726.png/v1/fill/w_512,h_512/attack_on_titan_2_icon_v1_by_andonovmarko_dcitfoj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvYzc4YmMzZmMtOWYwOC00N2NhLTgxYWUtZDg5MDU1YzdlYzQ5XC9kY2l0Zm9qLWU5ZDNjNjk2LTY3ZTUtNGUzOS1hOThiLWQwNjgyZTE2YzcyNi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.z73AIuAiQD0d242J0so9GFfefg4gpOo0_ZFLdk93tEM",
         "rating": {
             "rate": 4.5,
@@ -415,7 +470,12 @@
         "title": "* Blur *",
         "price": 7.31,
         "description": "Racing under tension” in a new project from the creators of the famous Project Gotham Racing series.Welcome to the world of Blur! What happens on the streets of New York, Barcelona, ​​Tokyo, Los Angeles and other cities of the planet will forever change the usual ideas about racing and traffic rules! Controlled drifts, sharp turns, high speeds, battles with rivals – all this on licensed cars of world famous brands.",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP / Vista / 7",
+            "Processor":"Intel Pentium D Dual Core 3.4 GHz or AMD Athlon 64 X2 3800+",
+            "VideoCard":"256MB DirectX 9.0c compliant (NVIDIA GeForce 6600 GT / ATI Radeon X1600 XT or better)",
+            "MemoryRAM":"1 GB (XP), 2 GB (Vista/7)"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d40b89c9-99ce-4f46-bef2-5bb491531ad1/d3dr91h-a11906b3-b1f7-480f-a25f-df28368296cc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q0MGI4OWM5LTk5Y2UtNGY0Ni1iZWYyLTViYjQ5MTUzMWFkMVwvZDNkcjkxaC1hMTE5MDZiMy1iMWY3LTQ4MGYtYTI1Zi1kZjI4MzY4Mjk2Y2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DMy_61Agzea7PaTXaLaJX4jiH_UnKOlowbZQZvBDwoA",
         "rating": {
             "rate": 4.5,
@@ -428,7 +488,12 @@
         "title": "* BPM - Bullets Per Minute *",
         "price": 12.4,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit)",
+            "Processor":"Intel Core i5-4590 or equivalent",
+            "VideoCard":"GTX 960 2GB or equivalent",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1c7c7ab5-fcbf-4682-9f06-38e8da3400b7/decaf51-d8469dee-c4df-4cb3-aaec-6e56c54a77d2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjN2M3YWI1LWZjYmYtNDY4Mi05ZjA2LTM4ZThkYTM0MDBiN1wvZGVjYWY1MS1kODQ2OWRlZS1jNGRmLTRjYjMtYWFlYy02ZTU2YzU0YTc3ZDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CkghKKTBj_TtSQqlCIvbsU4qjSAseAY2DxHY2FgWTgc",
         "rating": {
             "rate": 4.5,
@@ -493,7 +558,7 @@
     {
         "id": 31,
         "title": "* Battlefield 4 *",
-        "price": 28.9,
+        "price": 28.3,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows 8 32-bit (or Vista SP2 32-bit with KB971512 update)",
@@ -565,13 +630,13 @@
     {
         "id": 35,
         "title": "* Call Of Duty 1 *",
-        "price": 2.05,
+        "price": 2.47,
         "description": "Call of Duty® delivers the gritty realism and cinematic intensity of World War II’s epic battlefield moments like never before – through the eyes of citizen soldiers and unsung heroes from an alliance of countries who together helped shape the course of modern history.Play through the chaos of battle as part of a well-trained squad, that lays down covering fire and pulls its wounded to safety. In addition to authentic squad movements and tactics, each soldier’s distinct personality and training comes out on the battlefield.No one soldier or nation single-handedly won the war. For the first time, Call of Duty® captures the war from multiple perspectives, through the eyes of American, British and Russian soldiers. Battle through 24 missions spanning 4 interconnected historical campaigns. Take on mission objectives ranging from sabotage and all-out assault to stealth, vehicle combat and rescue. Authentic weapons, locations, vehicles and sounds of war all contribute to the realism, immersing you in the most intense World War II experience yet.",
         "category": {
-            "OpenSYSTEM": "a",
-            "Processor":"b",
-            "VideoCard":"c",
-            "MemoryRAM":"d"
+            "OpenSYSTEM": "Windows 98/ME/2000/XP/Vista/7",
+            "Processor":"Pentium III or Athlon 600 MHz (Win 98/ME), 700 MHz (Win 2000/XP)",
+            "VideoCard":"32 MB 3D hardware accelerator card (DirectX 9.0b compatible)",
+            "MemoryRAM":"128 MB"
         },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8678cecb-9a26-4eba-91ba-a768c9e7ebf0/d9h5066-770e2946-495d-41c7-8f1c-ea0fba98c945.png",
         "rating": {
@@ -583,7 +648,7 @@
     {
         "id": 36,
         "title": "* Call of Duty 4 Modern Warfare *",
-        "price": 6.44,
+        "price": 6.45,
         "description": "The new action-thriller from the award-winning team at Infinity Ward, the creators of the Call of Duty® series, delivers the most intense and cinematic action experience ever. Call of Duty 4: Modern Warfare arms gamers with an arsenal of advanced and powerful modern day firepower and transports them to the most treacherous hotspots around the globe to take on a rogue enemy group threatening the world.As both a U.S Marine and British S.A.S. soldier fighting through an unfolding story full of twists and turns, players use sophisticated technology, superior firepower and coordinated land and air strikes on a battlefield where speed, accuracy and communication are essential to victory. The epic title also delivers an added depth of multiplayer action providing online fans an all-new community of persistence, addictive and customizable gameplay",
         "category": {
             "OpenSYSTEM": "Windows 7 / 10 / 11",
@@ -603,7 +668,12 @@
         "title": "* Call OF Duty Modern Warfare 2 *",
         "price": 5.84,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP, Windows Vista, or Windows 7",
+            "Processor":"ntel Pentium 4 3.2 GHz or AMD Athlon 64 3200+",
+            "VideoCard":"256 MB NVIDIA GeForce 6600GT or ATI Radeon 1600XT",
+            "MemoryRAM":"1 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d55ae41-e76d-4375-b2d9-5b40b36a2f82/dehmb4p-07d4dfa3-fb5e-4d12-8458-227ec65fc95e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkNTVhZTQxLWU3NmQtNDM3NS1iMmQ5LTViNDBiMzZhMmY4MlwvZGVobWI0cC0wN2Q0ZGZhMy1mYjVlLTRkMTItODQ1OC0yMjdlYzY1ZmM5NWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SNIw2OUccquP6NMNwTpjYh-kguIkmyp8zSdDU7QyM7Q",
         "rating": {
             "rate": 4.5,
@@ -616,7 +686,12 @@
         "title": "* Call of Duty - Modern Warfare 3 *",
         "price": 17.2,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows® XP/ Windows® Vista / Windows® 7",
+            "Processor":"Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better",
+            "VideoCard":"Shader 3.0 or better 256 MB NVIDIA® GeForce™ 8600GT / ATI® Radeon™ X1950 or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfc7kq3-cf0b4487-f59a-4881-8e29-a4c93110714f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZjN2txMy1jZjBiNDQ4Ny1mNTlhLTQ4ODEtOGUyOS1hNGM5MzExMDcxNGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.csB8iXfxGzlNmS-r7b0bySDIEVKasywNCkQ2UQnDBpc",
         "rating": {
             "rate": 4.5,
@@ -683,7 +758,12 @@
         "title": "* Call of Duty Black Ops *",
         "price": 7.85,
         "description": "1The biggest first-person action series of all time and the follow-up to last year’s blockbuster Call of Duty®: Modern Warfare 2 returns with Call of Duty®: Black Ops.Call of Duty®: Black Ops will take you behind enemy lines as a member of an elite special forces unit engaging in covert warfare, classified operations, and explosive conflicts across the globe. With access to exclusive weaponry and equipment, your actions will tip the balance during the most dangerous time period mankind has ever known.",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows® Vista / XP / 7",
+            "Processor":"Intel® Core™2 Duo E6600 or AMD Phenom™ X3 8750 or better",
+            "VideoCard":"Shader 3.0 or better 256MB NVIDIA® GeForce® 8600GT / ATI Radeon® X1950Pro or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8678cecb-9a26-4eba-91ba-a768c9e7ebf0/d9gfn65-39ecb111-e20e-4d48-8b00-825d40f19698.png",
         "rating": {
             "rate": 4.5,
@@ -696,7 +776,12 @@
         "title": "* Call of Duty Black Ops II *",
         "price": 22.2,
         "description": "Pushing the boundaries of what fans have come to expect from the record-setting entertainment franchise, Call of Duty®: Black Ops II propels players into a near future, 21st Century Cold War, where technology and weapons have converged to create a new generation of warfare.",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows Vista SP2 / Windows 7 (XP not supported)",
+            "Processor":"Intel Core 2 Duo E8200 @ 2.66 GHz or AMD Phenom X3 8750 @ 2.4 GHz",
+            "VideoCard":"NVIDIA GeForce 8800GT 512 MB or ATI Radeon HD 3870 512 MB",
+            "MemoryRAM":"2GB for 32-bit OS, 4GB for 64-bit OS"
+        },
         "image": "https://cdn2.steamgriddb.com/thumb/853695e4fd475d6b482d94895c6b595d.jpg",
         "rating": {
             "rate": 4.5,
@@ -763,7 +848,12 @@
         "title": "* Call of Duty Advanced Warfare *",
         "price": 43.5,
         "description": " developed by Sledgehammer Games (co-developers of Call of Duty®: Modern Warfare® 3), harnesses the first three-year, all next-gen development cycle in franchise history. Call of Duty®: Advanced Warfare envisions a powerful future, where both technology and tactics have evolved to usher in a new era of combat for the franchise. Delivering a stunning performance, Academy Award® winning actor Kevin Spacey stars as Jonathan Irons – one of the most powerful men in the world – shaping this chilling vision of the future of war.",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": " Windows 7/8/8.1 64-bit",
+            "Processor":"Intel Core i3-530 @ 2.93 GHz / AMD Phenom II X4 810 @ 2.80 GHz",
+            "VideoCard":"NVIDIA GeForce GTS 450 / ATI Radeon HD 5870 (1 GB VRAM)",
+            "MemoryRAM":"6 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9eb92786-5e60-46ac-ae2c-d33af137f691/d7gvrca-2c6d827c-c4d3-44c8-b3e5-d80a84828ab1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllYjkyNzg2LTVlNjAtNDZhYy1hZTJjLWQzM2FmMTM3ZjY5MVwvZDdndnJjYS0yYzZkODI3Yy1jNGQzLTQ0YzgtYjNlNS1kODBhODQ4MjhhYjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WGaJ2QRvNuzEla8dJIJVM2N9zm0OjY-4mS91wboqx-k",
         "rating": {
             "rate": 4.5,
@@ -830,7 +920,12 @@
         "title": "* Counter-Strike 1.6 *",
         "price": 1.46,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/ME/2000/98/7/8/10/11",
+            "Processor":"500 MHz Processor",
+            "VideoCard":"16 MB Video Card",
+            "MemoryRAM":"96 MB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b1f444f5-ca6c-4df3-8c44-ec6e0276f5ac/d7f0049-a816d6ab-034c-4c2e-8091-82b8486000ea.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IxZjQ0NGY1LWNhNmMtNGRmMy04YzQ0LWVjNmUwMjc2ZjVhY1wvZDdmMDA0OS1hODE2ZDZhYi0wMzRjLTRjMmUtODA5MS04MmI4NDg2MDAwZWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SNCH_x2DIDh1lSd4GYC7msN0A8x4GSv2CQHvlw741mQ",
         "rating": {
             "rate": 4.5,
@@ -841,7 +936,7 @@
     {
         "id": 53,
         "title": "* Crash Team Racing Nitro-Fueled *",
-        "price": 10,
+        "price": 14.5,
         "description": "",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3367fa99-0ba6-454c-b947-683f1a9f896d/ddvgjmp-04c4c626-b1a6-4d8d-b9ca-2368691bfb35.png/v1/fill/w_734,h_768/crash_team_racing_nitro_fueled_icon_ico_by_momen221_ddvgjmp-fullview.png",
@@ -892,7 +987,12 @@
         "title": "* Dark Souls III *",
         "price": 18.7,
         "description": "1Winner of gamescom award 2015 “”Best RPG”” and over 35 E3 2015 Awards and Nominations –The DARK SOULS™ III Deluxe Edition includes the full game & the Season Pass. Expand your experience with the Season Pass featuring new maps, bosses, enemies and additional weapon and armor sets.DARK SOULS™ III continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series.As fires fade and the world falls into ruin, journey into a universe filled with more colossal enemies and environments. Players will be immersed into a world of epic atmosphere and darkness through faster gameplay and amplified combat intensity.Now only embers remain… Prepare yourself once more and Embrace The Darkness!",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7 SP1 (64-bit), Windows 8.1 (64-bit), Windows 10 (64-bit)",
+            "Processor":"Intel Core i3-2100 / AMD FX-6300",
+            "VideoCard":"NVIDIA GeForce GTX 750 Ti / ATI Radeon HD 7950",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfj725v-8a99fb9c-d6cc-4e05-9d00-8878da210d84.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZqNzI1di04YTk5ZmI5Yy1kNmNjLTRlMDUtOWQwMC04ODc4ZGEyMTBkODQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wnAicJJRDxohOtv_SrGqR8yVmmVUakK3L2rVq8H1JfM",
         "rating": {
             "rate": 4.5,
@@ -905,7 +1005,12 @@
         "title": "* Dead Space *",
         "price": 9.25,
         "description": "A massive deep-space mining ship goes dark after unearthing a strange artifact on a distant planet. Engineer Isaac Clarke embarks on the repair mission, only to uncover a nightmarish blood bath  the ship’s crew horribly slaughtered and infected by alien scourge. Now Isaac is cut off, trapped, and engaged in a desperate fight for survival.",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP (SP2), Vista, or Windows 7/10/11",
+            "Processor":"2.8 GHz or faster processor",
+            "VideoCard":"NVIDIA: GeForce 6800 or better (7300, 7600 GS, and 8500 are below minimum)-ATI: X1600 Pro or better (X1300, X1300 Pro and HD2400 are below minimum)",
+            "MemoryRAM":"1 GB RAM (XP), 2 GB RAM (Vista/Windows 7 or later)"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfk40yx-d9a78268-8410-4200-a05d-7d5c82085bf6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZrNDB5eC1kOWE3ODI2OC04NDEwLTQyMDAtYTA1ZC03ZDVjODIwODViZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MeivTachx_4o62l8YJ0TJ1iLNs-5z6JGsotb8yBpoWI",
         "rating": {
             "rate": 4.5,
@@ -918,7 +1023,12 @@
         "title": "* Dead Space 2 *",
         "price": 9.36,
         "description": "you join Isaac Clarke, the Systems Engineer from Dead Space, as he wakes up three years after the horrific events on the USG Ishimura. The Ishimura was a Planetcracker-class starship besieged by grotesque reanimations of its dead crew, known as “Necromorphs.”After unearthing a strange artifact known as the Marker, Isaac finds himself on the Sprawl, a giant space station in orbit around Saturn. Unable to remember how he got here and plagued with demented visions of his dead girlfriend Nicole, he must survive another nightmarish outbreak of Necromorphs as he fights his way towards an answer he hopes will end all the chaos.",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP (SP2), Windows Vista, or Windows 7",
+            "Processor":"2.8 GHz processor or equivalent (Pentium 4 2.8 GHz, AMD Athlon64 3000+)",
+            "VideoCard":"256 MB Video Card with Shader Model 3.0 (NVIDIA GeForce 6800, ATI X1600 Pro)",
+            "MemoryRAM":"1 GB (XP), 2 GB (Vista/Win7)"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfqpdzm-bdfc35d6-b0d0-4afe-9245-27f1ffc4de01.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZxcGR6bS1iZGZjMzVkNi1iMGQwLTRhZmUtOTI0NS0yN2YxZmZjNGRlMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vXWYI9ZGyF0yeN1JR3ZnuR_S3-3lVtxlpb0-_z8ggcs",
         "rating": {
             "rate": 4.5,
@@ -931,7 +1041,12 @@
         "title": "* Dead Space 3 *",
         "price": 12.2,
         "description": "Journey across space to the icy planet of Tau Volantis with Isaac Clarke and Sgt. John Carver to discover and destroy the source of the Necromorph outbreak. Comb the harsh environment for raw materials and scavenge parts to create the ultimate customized weapons and survival tools — you’ll need them if Isaac and Carver hope to make it off the planet alive. And Necromorphs are just one of many enemies they’ll face this time around. Overcome avalanches, treacherous ice climbs, violent wilderness, and an army of deadlier, more evolved enemies on your mission to save mankind from the impending apocalypse.",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP (SP3), Vista (SP1), or Windows 7/8/10",
+            "Processor":"2.8 GHz processor or equivalent (Intel Pentium D 840 3.2GHz, AMD Athlon 64 X2 Dual Core BE-2300)",
+            "VideoCard":"NVIDIA GeForce 6800 or better (7300, 7600 GS, and 8500 are below minimum), ATI X1600 Pro or better (X1300, X1300 Pro and HD2400 are below minimum)",
+            "MemoryRAM":"1 GB RAM (XP), 2 GB (Vista/Windows 7)"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/cc1bd5fb-962a-4b90-8331-39c2681c0802/d5tx2ov-00b7646c-d594-499a-b4d5-d54dd9af6e70.png",
         "rating": {
             "rate": 4.5,
@@ -960,7 +1075,7 @@
     {
         "id": 61,
         "title": "* Dragon Ball Z Kakarot *",
-        "price": 33.6,
+        "price": 40.2,
         "description": "Relive the story of Goku and other Z Fighters in DRAGON BALL Z: KAKAROT! Beyond the epic battles, experience life in the DRAGON BALL Z world as you fight, fish, eat, and train with Goku, Gohan, Vegeta and others. Explore the new areas and adventures as you advance through the story and form powerful bonds with other heroes from the DRAGON BALL Z universe",
         "category": {
             "OpenSYSTEM": "Windows 7 SP1 64-bit",
@@ -998,7 +1113,12 @@
         "title": "* Dreamfall Chapters Book Five Redux *",
         "price": 20.8,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7 64-bit or higher",
+            "Processor":"Core 2 Duo 2GHz or equivalent",
+            "VideoCard":"ntel HD Graphics 4000 or better",
+            "MemoryRAM":"3 GB (4 GB recommended for better performance)"
+        },
         "image": "https://www.giantbomb.com/a/uploads/scale_medium/10/103881/2937287-image.jpg",
         "rating": {
             "rate": 4.5,
@@ -1065,7 +1185,12 @@
         "title": "* Erica *",
         "price": 27.2,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10 64-bit",
+            "Processor":"Intel Core i3 or later",
+            "VideoCard":"NVIDIA GeForce GTX 970 or AMD Radeon R9 390",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11882_00/5/i_435a3bb225d3460637415b33f4a4a2a5f5b648982557e20c8e69d7e650d2bf57/i/icon0.png",
         "rating": {
             "rate": 4.5,
@@ -1096,7 +1221,12 @@
         "title": "* Fade to Silence *",
         "price": 10.5,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7/8/10 64-bit",
+            "Processor":"Intel Core i5-2400 / AMD FX-8320 or better",
+            "VideoCard":"NVIDIA GeForce GTX 760 / AMD Radeon R9 270 (2 GB or more)",
+            "MemoryRAM":"12 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfdg3ct-bd6c6000-de37-457d-972b-e1bbd7c68e76.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZkZzNjdC1iZDZjNjAwMC1kZTM3LTQ1N2QtOTcyYi1lMWJiZDdjNjhlNzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Zqm6aq7HKaJimJ1Ak1Q8L_voVli4pKFL3e0dhZzDVfg",
         "rating": {
             "rate": 4.5,
@@ -1109,7 +1239,12 @@
         "title": "* Far Cry 3 *",
         "price": 7.76,
         "description": "Far Cry 3 is an open world first-person shooter set on an island unlike any other. A place where heavily armed warlords traffic in slaves. Where outsiders are hunted for ransom. And as you embark on a desperate quest to rescue your friends, you realize that the only way to escape this darkness… is to embrace it",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit), Windows 7, 8, Vista, or XP",
+            "Processor":"Intel Core 2 Duo E6700 @ 2.6 GHz or AMD Athlon 64 X2 6000+ @ 3.0 GHz",
+            "VideoCard":"NVIDIA GeForce 8800 (512MB) or AMD Radeon HD 2900 (512MB)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfcyf9q-4a75a6bc-5c4a-4925-9b2b-e0287ec5f874.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZjeWY5cS00YTc1YTZiYy01YzRhLTQ5MjUtOWIyYi1lMDI4N2VjNWY4NzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fgih_RUqR8kg257C-5AQ4gVsozFDGudTneQwOgSbq7c",
         "rating": {
             "rate": 4.5,
@@ -1122,7 +1257,12 @@
         "title": "* Far Cry 4 *",
         "price": 27.4,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7 SP1 (64-bit) or Windows 8/8.1/10 (64-bit)",
+            "Processor":"Intel Core i5-750 @ 2.6 GHz or AMD Phenom II X4 955 @ 3.2 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 460 (1GB) or AMD Radeon HD 5850 (1GB)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e455095e-82fd-47f0-891f-3f95ce221850/d7lw380-76b4ada2-2b93-4574-90db-b143e1c1f272.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0NTUwOTVlLTgyZmQtNDdmMC04OTFmLTNmOTVjZTIyMTg1MFwvZDdsdzM4MC03NmI0YWRhMi0yYjkzLTQ1NzQtOTBkYi1iMTQzZTFjMWYyNzIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DSllC4j_noEOt0CM-IcP9OZc9nq1HhkVJtCuzmRwnek",
         "rating": {
             "rate": 4.5,
@@ -1169,7 +1309,7 @@
     {
         "id": 74,
         "title": "* Far Cry Primal *",
-        "price": 16.6,
+        "price": 16.7,
         "description": "Welcome to the Stone Age, a time of extreme danger and limitless adventure, when giant mammoths and sabretooth tigers ruled the Earth and humanity is at the bottom of the food chain. As the last survivor of your hunting group, you will learn to craft a deadly arsenal, fend off fierce predators, and outsmart enemy tribes to conquer the land of Oros and become the Apex Predator.",
         "category": {
             "OpenSYSTEM": "Windows 10 / 11 (64-bit versions only)",
@@ -1261,7 +1401,12 @@
         "title": "* FIFA 17 *",
         "price": 31,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7/8.1/10 - 64-Bit",
+            "Processor":"Intel Core i3-2100 @ 3.1GHz or AMD Phenom II X4 965 @ 3.4 GHz",
+            "VideoCard":"NVIDIA GTX 460 or AMD Radeon R7 260 (VRAM): 1024 MB",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/146d81d3-58f4-45c2-957e-1dc554a4a869/dah5idx-9460f89e-af1f-4a3b-b087-fbb743cd176c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0NmQ4MWQzLTU4ZjQtNDVjMi05NTdlLTFkYzU1NGE0YTg2OVwvZGFoNWlkeC05NDYwZjg5ZS1hZjFmLTRhM2ItYjA4Ny1mYmI3NDNjZDE3NmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HXyMZSL1vKYTWhjxfNsKtB-y-omnhui6zBfd4qN0BYo",
         "rating": {
             "rate": 4.5,
@@ -1274,7 +1419,12 @@
         "title": "* Fira *",
         "price": 6.92,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10 - 64bits",
+            "Processor":"2.4GHz CPU Dual Core",
+            "VideoCard":"GeForce GTX 750ti",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://howlongtobeat.com/games/106734_Fira.jpg",
         "rating": {
             "rate": 4.5,
@@ -1359,7 +1509,12 @@
         "title": "* Friday the 13th - The Game *",
         "price": 8.20,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7, 8, 10 (64-bit required)",
+            "Processor":"Intel Core i3-530 (2 * 2930), AMD Athlon II X2 270 (2 * 3400)",
+            "VideoCard":"GeForce GTX 650 Ti (1024 MB), Radeon HD 7770 (1024 MB)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aacf7545-f3cd-48d5-b931-28ce4a28db0e/dbvuw7m-1646fed9-8520-42a1-960d-c6c5c1bbf914.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhY2Y3NTQ1LWYzY2QtNDhkNS1iOTMxLTI4Y2U0YTI4ZGIwZVwvZGJ2dXc3bS0xNjQ2ZmVkOS04NTIwLTQyYTEtOTYwZC1jNmM1YzFiYmY5MTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aqsemSikY0Z-69GiHQQDK4RxIZEHaTR0WG5x23DT07s",
         "rating": {
             "rate": 4.5,
@@ -1498,7 +1653,12 @@
         "title": "* HITMAN 3 *",
         "price": 55,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "64-bit Windows 10",
+            "Processor":"Intel Core i5-2500K 3.3GHz / AMD Phenom II X4 940",
+            "VideoCard":"NVIDIA GeForce GTX 660 / Radeon HD 7870",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfqczx0-e5125c1f-908e-4262-aad9-b0ce3a0c7e01.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZxY3p4MC1lNTEyNWMxZi05MDhlLTQyNjItYWFkOS1iMGNlM2EwYzdlMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.APyBdopv81I02ozBgpRSFG2lfu8083cqSVh-4qGDrv0",
         "rating": {
             "rate": 4.5,
@@ -1527,7 +1687,7 @@
     {
         "id": 97,
         "title": "* Horizon Zero Dawn *",
-        "price": 70.4,
+        "price": 71,
         "description": "NO LONGER OUR LAND -Together with Aloy go on a journey through the mysterious world of deadly machines.The outcast young huntress seeks to discover her destiny … and stop the disaster.Use devastating attacks against unique machines and representatives of hostile tribes while exploring dangerous wildlife.The Complete PC Edition includes the award-winning Horizon Zero Dawn RPG and The Frozen Wilds DLC with new lands, skills, weapons and vehicles ..",
         "category": {
             "OpenSYSTEM": "Windows 10 (64-bit only)",
@@ -1581,9 +1741,14 @@
     {
         "id": 100,
         "title": "* Injustice - Gods Among Us *",
-        "price": 18.7,
+        "price": 18.8,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "32-bit/64-bit Windows 7 / Windows 8 / Vista",
+            "Processor":"Intel Core 2 Duo 2.4 GHz or AMD Athlon X2 2.8 GHz",
+            "VideoCard":"NVIDIA GeForce 8800 GTS or AMD Radeon HD 3850",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/02a33d6b-c1ba-4f3c-8bc9-f1d602aeeb1d/d6uuugj-2e7b66eb-be1e-4083-a6ea-0e82f30677d3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAyYTMzZDZiLWMxYmEtNGYzYy04YmM5LWYxZDYwMmFlZWIxZFwvZDZ1dXVnai0yZTdiNjZlYi1iZTFlLTQwODMtYTZlYS0wZTgyZjMwNjc3ZDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zAhV3Pj09xjD3XwGbQ7wQTJlYv2ODHV7PNyaNEEKZms",
         "rating": {
             "rate": 4.5,
@@ -1632,7 +1797,12 @@
         "title": "* Medal Of Honor-Allied Assault *",
         "price": 7.66,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 95/98/ME/2000/XP (Works on modern Windows 10/11)",
+            "Processor":"450 MHz Intel Pentium II or 500 MHz AMD Athlon",
+            "VideoCard":"16 MB OpenGL capable video card (NVIDIA TNT+ / ATI Rage 128/Radeon+)",
+            "MemoryRAM":"128 MB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b1f444f5-ca6c-4df3-8c44-ec6e0276f5ac/d7n7zoa-6dfc887f-1aa7-4f74-a400-df95ed160297.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IxZjQ0NGY1LWNhNmMtNGRmMy04YzQ0LWVjNmUwMjc2ZjVhY1wvZDduN3pvYS02ZGZjODg3Zi0xYWE3LTRmNzQtYTQwMC1kZjk1ZWQxNjAyOTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D29d-Rji2MZqab_VyBWxW7uGCYIJBRNO71NQJmrPMMU",
         "rating": {
             "rate": 4.5,
@@ -1645,7 +1815,12 @@
         "title": "* Medal of Honor - Pacific Assault *",
         "price": 3.55,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 2000/XP (Works on newer systems with tweaks)",
+            "Processor":"Pentium 4 or Athlon XP at 1.5 GHz",
+            "VideoCard":"64 MB DirectX 8.1 compatible (GeForce3 / Radeon 8500 or better)",
+            "MemoryRAM":"512 MB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1c9ae6e-bf1f-417c-b9b6-80d425a3a207/dclspqh-a5fae311-36ff-4070-a284-305a86c088f7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MxYzlhZTZlLWJmMWYtNDE3Yy1iOWI2LTgwZDQyNWEzYTIwN1wvZGNsc3BxaC1hNWZhZTMxMS0zNmZmLTQwNzAtYTI4NC0zMDVhODZjMDg4ZjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qpXTK9VIEapYHIlyJ21k1P6SJPHJbVkMgmh0bvtp05E",
         "rating": {
             "rate": 4.5,
@@ -1658,7 +1833,12 @@
         "title": "* Medal of Honor 2010 *",
         "price": 4.84,
         "description": "Operating directly under the National Command Authority, a relatively unknown entity of handpicked warriors are selected when it is crucial that a mission must not fail. They are the Tier 1 Operators. There are over 2 million active soldiers. Of those, approximately 50 thousand fall under the direct control of the Special Operations Command. The Tier 1 Operator functions on a level above and beyond even the most highly trained Special Operations Forces. Their exact numbers, while classified, hover in the low hundreds. They are living, breathing, precision instruments of war. They are experts in the application of violence. The new Medal of Honor™ is inspired by and developed with actual Tier 1 Operators from this elite community. Players step into the boots of these warriors and apply their unique skill sets to fight a new enemy in the most unforgiving and hostile conditions of present day Afghanistan.",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP (SP3), Windows Vista (SP2), Windows 7",
+            "Processor":"Pentium D, 3.2GHz / Core 2 Duo, 2.0GHz / Athlon 64 X2",
+            "VideoCard":"256MB, NVIDIA GeForce 7800 GT; ATI X1900",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d94d7026-9f38-4f3e-8358-e984147e21fe/d4fqmn1-490a7ce1-b2b7-466c-9f75-2c5b3b74c185.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q5NGQ3MDI2LTlmMzgtNGYzZS04MzU4LWU5ODQxNDdlMjFmZVwvZDRmcW1uMS00OTBhN2NlMS1iMmI3LTQ2NmMtOWY3NS0yYzViM2I3NGMxODUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.l5pgdSaz-M1AWseuR2ZPb2zeL1t5-q2-FfokxTVS9BQ",
         "rating": {
             "rate": 4.5,
@@ -1671,7 +1851,12 @@
         "title": "* Medal of Honor-Warfighter *",
         "price": 15.9,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7",
+            "Processor":"Intel Core 2 Duo 2.4 GHz or AMD Athlon X2 2.7 GHz",
+            "VideoCard":"Nvidia GeForce 8800 GTS or ATI Radeon 3870 (512MB VRAM)",
+            "MemoryRAM":" 2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3dc5c6a9-d8a3-42d5-98e0-37162dcf94e7/d5upeei-55a4c751-eecc-4f71-ad56-1b1afd90366a.png/v1/fill/w_256,h_256,q_80,strp/medal_of_honor_warfighter_icon_by_warriotox_d5upeei-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvM2RjNWM2YTktZDhhMy00MmQ1LTk4ZTAtMzcxNjJkY2Y5NGU3XC9kNXVwZWVpLTU1YTRjNzUxLWVlY2MtNGY3MS1hZDU2LTFiMWFmZDkwMzY2YS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.OP9gm5v4YUipKpgwDhmOavYCriCmNlL4T-GJAWOpxlY",
         "rating": {
             "rate": 4.5,
@@ -1684,7 +1869,12 @@
         "title": "* Metro Redux *",
         "price": 17,
         "description": "Metro 2033 Redux and Metro: Last Light Redux included",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7, 8, or 10 (64-bit)",
+            "Processor":"Dual Core CPU (2.2+ GHz Dual Core or better)",
+            "VideoCard":" DirectX 10, Shader Model 4 compliant (GeForce 8800 GT, GTS 250)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/557703a2-f0df-4e9e-8006-f1a8a0666122/d7ucug3-2138c1df-d087-41f9-8d98-386c76a05577.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1NzcwM2EyLWYwZGYtNGU5ZS04MDA2LWYxYThhMDY2NjEyMlwvZDd1Y3VnMy0yMTM4YzFkZi1kMDg3LTQxZjktOGQ5OC0zODZjNzZhMDU1NzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Duj4hokQ7yZzr_X33YjbFGdZ7Y7FPnnlmEIDEFFgv9g",
         "rating": {
             "rate": 4.5,
@@ -1715,7 +1905,12 @@
         "title": "* Middle-Earth - Shadow of Mordor *",
         "price": 39.2,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "64-bit: Vista SP2, Win 7 SP1, Win 8.1",
+            "Processor":"Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 460 | AMD Radeon HD 5850",
+            "MemoryRAM":"3 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/d805c8h-82b0d4da-c5f9-4a89-bc86-f01f03164fc3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZDgwNWM4aC04MmIwZDRkYS1jNWY5LTRhODktYmM4Ni1mMDFmMDMxNjRmYzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._OSUNUEXCU1xHccye92bjUPWlaAPbMwvEUzN4leKVTE",
         "rating": {
             "rate": 4.5,
@@ -1744,9 +1939,14 @@
     {
         "id": 113,
         "title": "* Mortal Kombat XL *",
-        "price": 37.1,
+        "price": 37.2,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "64-bit: Vista, Win 7, Win 8, Win 10",
+            "Processor":"Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 460 / AMD Radeon HD 5850",
+            "MemoryRAM":"3 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/db2s3pr-543c3c23-abc8-46ad-8d84-853a7cbb3408.png/v1/fill/w_512,h_512/mortal_kombat_xl_icon_by_andonovmarko_db2s3pr-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvYzc4YmMzZmMtOWYwOC00N2NhLTgxYWUtZDg5MDU1YzdlYzQ5XC9kYjJzM3ByLTU0M2MzYzIzLWFiYzgtNDZhZC04ZDg0LTg1M2E3Y2JiMzQwOC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8RWcIwcTx1aWcxc0z2mMWrsGYFGuqo8_IhYmDKSUC0E",
         "rating": {
             "rate": 4.5,
@@ -1777,7 +1977,12 @@
         "title": "* Mount and Blade Warband *",
         "price": 4.60,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/Vista/7/8/10/11",
+            "Processor":"Intel Pentium 4 2.0 GHz or AMD 2.5 GHz",
+            "VideoCard":"NVIDIA GeForce FX 5200, ATI Radeon 9600, or better",
+            "MemoryRAM":"512 MB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/efd55d2f-11a4-4df1-9bf7-1eccd3ebb813/dcwvtuk-ba34913b-1984-46cd-8291-75453f60ad87.png",
         "rating": {
             "rate": 4.5,
@@ -1788,7 +1993,7 @@
     {
         "id": 116,
         "title": "* Mount & Blade 2 - Bannerlord *",
-        "price": 49.8,
+        "price": 50.3,
         "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system",
         "category": {
             "OpenSYSTEM": "Windows 7 / 10 / 11",
@@ -1806,9 +2011,14 @@
     {
         "id": 117,
         "title": "* Need for Speed - Most Wanted 2012 *",
-        "price": 6.24,
+        "price": 5.09,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/Vista/7/8/10/11",
+            "Processor":"2 GHz Dual Core processor",
+            "VideoCard":"DirectX 10.1 compatible graphics card with 512 MB VRAM",
+            "MemoryRAM":" 2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d04d46d-481e-452a-9bfd-75a8c1cc65a3/dfj2kgk-e08d8eac-069b-47cc-8f24-261630a30f34.png",
         "rating": {
             "rate": 4.5,
@@ -1821,7 +2031,12 @@
         "title": "* Need for Speed Rivals *",
         "price": 10.7,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7 (SP2) 32-bit",
+            "Processor":"Intel 2.4 GHz Core 2 Duo or AMD 2.8 GHz Athlon X2",
+            "VideoCard":"NVIDIA GeForce 8800 GT (512MB) or AMD Radeon 3870 (512MB) or Intel HD 4000",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/60b676b0-10d9-49d8-9dc0-239fe3d318df/d6y5d8t-5ba8cbe5-1424-4790-a632-641122243158.png",
         "rating": {
             "rate": 4.5,
@@ -1832,9 +2047,14 @@
     {
         "id": 120,
         "title": "* Need For Speed The Run *",
-        "price": 15.2,
+        "price": 17.2,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows Vista SP2 (32-bit) or newer",
+            "Processor":"2.4 GHz Intel Core 2 Duo or AMD equivalent",
+            "VideoCard":"512 MB VRAM ATI Radeon HD 4870 / NVIDIA GeForce 9800 GT (DX10 compatible)",
+            "MemoryRAM":"3 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b63d34c6-b693-4373-bfc9-99dae82536e1/d97nw9z-389b283c-983f-4f7e-a8ca-38eae7691c94.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I2M2QzNGM2LWI2OTMtNDM3My1iZmM5LTk5ZGFlODI1MzZlMVwvZDk3bnc5ei0zODliMjgzYy05ODNmLTRmN2UtYThjYS0zOGVhZTc2OTFjOTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7F9ral2djYoDNSftkjHBhnX6tZYiTX7ludDcIr06AgE",
         "rating": {
             "rate": 4.5,
@@ -1845,7 +2065,7 @@
     {
         "id": 121,
         "title": "* Need for Speed - Payback *",
-        "price": 27,
+        "price": 27.7,
         "description": "Set in the underworld of Fortune Valley, you and your crew were divided by betrayal and reunited by revenge to take down The House, a nefarious cartel that rules the city’s casinos, criminals and cops. In this corrupt gambler’s paradise, the stakes are high and The House always wins.Craft unique rides with deeper performance and visual customization than ever before. Push them to the limit when you narrowly escape the heat in epic cop battles. From insane heist missions to devastating car battles to jaw-dropping set piece moments, Need for Speed Payback delivers an edge-of-your-seat, adrenaline-fueled action-driving fantasy.",
         "category": {
             "OpenSYSTEM": "64-bit Windows 7 / 10 / 11",
@@ -1883,7 +2103,12 @@
         "title": "* Obscure *",
         "price": 3.20,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP",
+            "Processor":"Pentium III 1 GHz or better",
+            "VideoCard":"DirectX 9.0c compatible 3D card",
+            "MemoryRAM":"256 MB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f37c91cf-dcdd-4a10-8e2e-2d2ea625f8d2/d5kzwhw-de2b63e8-47c7-4f73-ac9c-5d878b659619.png",
         "rating": {
             "rate": 4.5,
@@ -1896,7 +2121,12 @@
         "title": "* Obscure 2 *",
         "price": 2.60,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/7",
+            "Processor":"Pentium IV 2.4 GHz",
+            "VideoCard":"DirectX 9.0c compatible 3D card with 128 MB VRAM",
+            "MemoryRAM":"1 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b5934f29-20aa-495a-92be-5fde7de31bec/d61egv1-268c230d-8409-48f2-a056-ece485566b65.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I1OTM0ZjI5LTIwYWEtNDk1YS05MmJlLTVmZGU3ZGUzMWJlY1wvZDYxZWd2MS0yNjhjMjMwZC04NDA5LTQ4ZjItYTA1Ni1lY2U0ODU1NjZiNjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2cKpibQwLDPsKb4YohInmat9IEw93xd-Ym_w5GaHCoU",
         "rating": {
             "rate": 4.5,
@@ -1927,14 +2157,19 @@
         "title": "* ONE PIECE - World Seeker *",
         "price": 17.5,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7 64-bit",
+            "Processor":"Intel Core i5-2300 or AMD A10-7850K",
+            "VideoCard":"GeForce GTX 660 or Radeon HD 7950",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfmbd11-03d49a2b-51ea-4f04-9dcd-7e07a0e27b9f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZtYmQxMS0wM2Q0OWEyYi01MWVhLTRmMDQtOWRjZC03ZTA3YTBlMjdiOWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z3G9GsFamnwobFMyquJb5h5Vb1DJUiL0KEXESlBT0-k",
         "rating": {
             "rate": 4.5,
             "count": 146
         }
     }
-      ,
+     ,
     {
         "id": 651,
         "title": "* PES-2010 *",
@@ -1958,7 +2193,12 @@
         "title": "* Pro Evolution Soccer 2013 *",
         "price": 5.68,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP SP3, Vista SP2, Windows 7",
+            "Processor":"Intel Pentium 4 2.4 GHz or Core 2 Duo 1.8 GHz",
+            "VideoCard":"NVIDIA GeForce 6200 or ATI Radeon X1300 or Intel HD Graphics 2000/3000",
+            "MemoryRAM":"1 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae925b31-0c8d-4b02-87a2-e6e061c8d7cc/d5fsnt4-a965e169-60ed-453c-9a9e-792c8fe4259b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlOTI1YjMxLTBjOGQtNGIwMi04N2EyLWU2ZTA2MWM4ZDdjY1wvZDVmc250NC1hOTY1ZTE2OS02MGVkLTQ1M2MtOWE5ZS03OTJjOGZlNDI1OWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YF6fhcscoM21PsF1WKpbdwvjkNqnI1bZvtL7Fsp43U0",
         "rating": {
             "rate": 4.5,
@@ -1969,9 +2209,14 @@
     {
         "id": 129,
         "title": "* Pro Evolution Soccer 2017 *",
-        "price": 21.2,
+        "price": 26.8,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10, 8.1, 8, 7 SP1, Vista SP2",
+            "Processor":"Intel Core2 Duo 1.8GHz / AMD Athlon Ⅱ X2 240 or equivalent",
+            "VideoCard":"DirectX 9.0c compatible video card. 1024MB Pixel Shader 3.0 (NVIDIA GeForce 8800 / AMD/ATI Radeon X1600 / Intel HD Graphics 3000)",
+            "MemoryRAM":"1 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8939caba-2c60-4aeb-bb20-d61b0458b178/dahoeqb-ca6ecb89-c132-42d6-92b5-d478068ca089.png",
         "rating": {
             "rate": 4.5,
@@ -1982,9 +2227,14 @@
     {
         "id": 130,
         "title": "* Pro Evolution Soccer 2018 *",
-        "price": 28.2,
+        "price": 21.3,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7 SP1/8.1/10 (64-bit)",
+            "Processor":"Intel Core i5-3450 (3.10GHz) / AMD FX 4100 (3.60GHz)",
+            "VideoCard":"NVIDIA GTX 650 / AMD Radeon HD 7750 (2GB VRAM)",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef02abe3-63cc-4dfa-8eab-5543cf3bcf4f/dbob7hl-582179e9-aead-4262-9084-c13c191df23d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmMDJhYmUzLTYzY2MtNGRmYS04ZWFiLTU1NDNjZjNiY2Y0ZlwvZGJvYjdobC01ODIxNzllOS1hZWFkLTQyNjItOTA4NC1jMTNjMTkxZGYyM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wXe8dw7cxRl21iyXVQJ1zCerotNHEIWGBcEJEl1NfqE",
         "rating": {
             "rate": 4.5,
@@ -1995,9 +2245,14 @@
     {
         "id": 131,
         "title": "* Pro Evolution Soccer 2019 *",
-        "price": 29.8,
+        "price": 29.7,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7 SP1/8.1/10 (64-bit)",
+            "Processor":"Intel Core i5-3470 (3.10 GHz) or AMD FX 4100 (3.60 GHz)",
+            "VideoCard":"NVIDIA GeForce GTX 670 or AMD Radeon HD 7870 (2GB VRAM)",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16838f52-75db-405f-85ec-e1844e2f4709/dclu2gr-0d259159-747f-4ba3-814b-177ab3448351.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2ODM4ZjUyLTc1ZGItNDA1Zi04NWVjLWUxODQ0ZTJmNDcwOVwvZGNsdTJnci0wZDI1OTE1OS03NDdmLTRiYTMtODE0Yi0xNzdhYjM0NDgzNTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8P7JlBafwxgrfmAcoz5mf1CUTuMCkXlLlHi6ALoh4W4",
         "rating": {
             "rate": 4.5,
@@ -2136,7 +2391,12 @@
         "title": "* Resident Evil - Operation Raccoon City *",
         "price": 9.37,
         "description": "It‘s September 1998 and Raccoon City is being consumed by Umbrella’s deadly T-virus outbreak. With a cover up required, Umbrella orders an elite squad into Raccoon City to destroy all evidence of the outbreak and eliminate any survivors. Meanwhile, the US Government has quarantined the city and dispatched its own team of elite Spec-Ops soldiers to track down the source of the mysterious outbreak.Gear up as a member of the Umbrella Security Service and battle against all of the forces at play in Raccoon City. You’ll come face-to-face with horrifying Resident Evil enemies like hunters and lickers as you navigate the Raccoon City Streets in search of your targets which include series icons like Claire Redfield and Leon S. Kennedy.One thing is for sure, in Raccoon City, all roads lead to hell.",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/Vista/7/10",
+            "Processor":"Intel Core 2 Duo 2.4 Ghz or better, AMD Athlon X2 2.8 Ghz or better",
+            "VideoCard":"NVIDIA GeForce 8800GTS or better, ATI Radeon HD 3850 or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fce9a0eb-b44a-42b3-86bd-4ab48b463da5/d4yxb98-b47c33df-b16d-43b0-8b5f-3b7074358b19.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZjZTlhMGViLWI0NGEtNDJiMy04NmJkLTRhYjQ4YjQ2M2RhNVwvZDR5eGI5OC1iNDdjMzNkZi1iMTZkLTQzYjAtOGI1Zi0zYjcwNzQzNThiMTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8D_ypIrfAg2uRcvTs7hi6jpklrtYgapRBTx55o__vpc",
         "rating": {
             "rate": 4.5,
@@ -2182,8 +2442,8 @@
     ,
     {
         "id": 143,
-        "title": "* Resident Evil 4 Remake-Gold Edition *",
-        "price": 69.7,
+        "title": "* Resident Evil 4 Remake - Gold Edition *",
+        "price": 69.6,
         "description": "ix years have passed since the biological disaster in Raccoon City.Agent Leon S. Kennedy, one of the survivors of the incident, has been sent to rescue the president’s kidnapped daughter.He tracks her to a secluded European village, where there is something terribly wrong with the locals.And the curtain rises on this story of daring rescue and grueling horror where life and death, terror and catharsis intersect.",
         "category": {
             "OpenSYSTEM": "Windows 10 (64 bit)",
@@ -2191,7 +2451,7 @@
             "VideoCard":"AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAM",
             "MemoryRAM":"8 GB"
         },
-        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dfrg1kz-fc504d67-5cc7-425c-b73b-ceb35948658d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGZyZzFrei1mYzUwNGQ2Ny01Y2M3LTQyNWMtYjczYi1jZWIzNTk0ODY1OGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fUEHzCIf-_fbibFZfTvR_Z4gUryIyCnnl7jN1K8nx0k",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dfrg1kz-fc504d67-5cc7-425c-b73b-ceb35948658d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZGZyZzFrei1mYzUwNGQ2Ny01Y2M3LTQyNWMtYjczYi1jZWIzNTk0ODY1OGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.j1OKeSK00GxOndM08UWpCx7rPbqs5igOkHYXj5zNLqI",
         "rating": {
             "rate": 4.5,
             "count": 146
@@ -2203,7 +2463,12 @@
         "title": "* Resident Evil 5 *",
         "price": 20.2,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10",
+            "Processor":"Intel Core™ 2 Quad 2.4GHz or better, AMD Phenom™ II x4 3.4GHZ or better",
+            "VideoCard":"512 MB VRAM, NVIDIA® GeForce 9800 series or better, ATI Radeon HD 7770 or better",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/d7xhgz9-5b9f882d-723c-4e4c-a1da-bbb45b1a35da.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZDd4aGd6OS01YjlmODgyZC03MjNjLTRlNGMtYTFkYS1iYmI0NWIxYTM1ZGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HfCwTObGDaFzvgBoqx4x5ZXYWXanBSLTM89DtkK4X3U",
         "rating": {
             "rate": 4.5,
@@ -2216,7 +2481,12 @@
         "title": "* Resident Evil 6 *",
         "price": 14,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows Vista®, Windows 7, Windows 8, Windows 10",
+            "Processor":"Intel® Core™2 Duo 2.4 Ghz or better, AMD Athlon™ X2 2.8 Ghz or better",
+            "VideoCard":"NVIDIA® GeForce® 8800GTS or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/d7zv8i4-5b371d33-7d50-4d3a-a321-a492a0ee802e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZDd6djhpNC01YjM3MWQzMy03ZDUwLTRkM2EtYTMyMS1hNDkyYTBlZTgwMmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R0NNYeHPwRDo-ih0gv_g86HlhWh0_zjBfwAFhX0Uw4I",
         "rating": {
             "rate": 4.5,
@@ -2229,7 +2499,12 @@
         "title": "* Resident Evil 7 - Biohazard *",
         "price": 26.5,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10",
+            "Processor":"Intel Core i5-4460 / AMD FX-6300",
+            "VideoCard":"NVIDIA GeForce GTX 960 / AMD Radeon RX 460, DirectX 11",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88b6f848-7f22-44b7-a036-8e65d20a4e3d/db0uqso-3abbb575-15be-4ee1-bb73-214a7bf716b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4YjZmODQ4LTdmMjItNDRiNy1hMDM2LThlNjVkMjBhNGUzZFwvZGIwdXFzby0zYWJiYjU3NS0xNWJlLTRlZTEtYmI3My0yMTRhN2JmNzE2YjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CS-KcEaeEY2-z0vMf4KNNBQyjOFCmfKMKCaHYtymaR8",
         "rating": {
             "rate": 4.5,
@@ -2278,7 +2553,12 @@
         "title": "* Resident Evil - Revelations *",
         "price": 7.11,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows® 10",
+            "Processor":"Intel® Core™ 2 Duo 2.4Ghz or better, AMD Athlon™ X2 2.8 Ghz or better",
+            "VideoCard":"NVIDIA® GeForce® 8800GTS or better, ATI Radeon™ HD3850 or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://cdn2.steamgriddb.com/icon/cef1b938860dd6718de5eaae697b60e5.ico",
         "rating": {
             "rate": 4.5,
@@ -2289,9 +2569,14 @@
     {
         "id": 149,
         "title": "* Resident Evil Revelations 2 *",
-        "price": 17.9,
+        "price": 16.5,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows® 7 / 8 / 10 (64-bit)",
+            "Processor":"ntel® Core™ 2 Duo E6700, AMD Athlon X2 2.8 GHz or better",
+            "VideoCard":"NVIDIA® GeForce® 8800 GTS, AMD Radeon HD 3850 or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://cdn2.steamgriddb.com/icon/abcc5329cfe5846db63ff4dee74eb906.ico",
         "rating": {
             "rate": 4.5,
@@ -2322,7 +2607,12 @@
         "title": "* Rocket League *",
         "price": 12.1,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 7 (64-bit) or Newer (64-bit)",
+            "Processor":"2.5 GHz Dual Core",
+            "VideoCard":"NVIDIA GeForce GTX 760, AMD Radeon R7 270X, or better",
+            "MemoryRAM":"4 GB "
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfqp1w8-71e868bb-3c61-4a94-912b-f574485138dc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZxcDF3OC03MWU4NjhiYi0zYzYxLTRhOTQtOTEyYi1mNTc0NDg1MTM4ZGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gQuLWyxdKG1uWUeAmSVZ-4_6gQ2vXFQbET3iojaN3A4",
         "rating": {
             "rate": 4.5,
@@ -2371,7 +2661,12 @@
         "title": "* Silent Hill Homecoming - New Edition *",
         "price": 8.72,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/Vista",
+            "Processor":"Dual Core CPU (Intel Core 2 Duo E6400/AMD Athlon 64 X2 4200+)",
+            "VideoCard":"256 MB DirectX 9.0c compatible graphics card (NVIDIA GeForce 7800/ATI Radeon HD series)",
+            "MemoryRAM":"2 GB "
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8939caba-2c60-4aeb-bb20-d61b0458b178/d8xsv6o-9b2f844d-b825-422d-b616-351dd0724bfb.png",
         "rating": {
             "rate": 4.5,
@@ -2384,7 +2679,12 @@
         "title": "* Sim American Truck *",
         "price": 10.6,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10 64-bit",
+            "Processor":"Quad-core Intel Core i5-6400 or AMD Ryzen 3 1200",
+            "VideoCard":"NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM)",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/daf5wab-2bc48036-d64a-48ba-a4ff-607a094b5bd3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZGFmNXdhYi0yYmM0ODAzNi1kNjRhLTQ4YmEtYTRmZi02MDdhMDk0YjViZDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iwK7KpY8OZAPbceehHsdAPGcsXRoKwMaWSxk7lxJM_I",
         "rating": {
             "rate": 4.5,
@@ -2395,7 +2695,7 @@
     {
         "id": 156,
         "title": "* Singularity *",
-        "price": 7.14,
+        "price": 7.11,
         "description": "FIGHT THE PAST TO SAVE THE FUTURE. STOP THE SINGULARITY.Learn the truth behind a massive cover-up of the catastrophic SINGULARITY, an event that fractured time and threatens the world as we know it. Armed with powerful, advanced weaponry and the experimental Time Manipulation Device, fight enemies from the past, the present, and abominations caught somewhere in between.",
         "category": {
             "OpenSYSTEM": " Windows 7 / 10 / 11",
@@ -2415,7 +2715,12 @@
         "title": "* Sleeping Dogs *",
         "price": 10,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows Vista SP2 / 7 / 8",
+            "Processor":"Core 2 Duo 2.4 GHz / Athlon X2 2.7 GHz",
+            "VideoCard":"DirectX 10/11 (Nvidia GeForce 8800 GT / ATI Radeon 3870 or higher)",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f56fe3e-72c3-4400-a377-7b1216e9afec/d82vxek-24ade563-4422-4fe2-999a-d0329b9eb1e7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmNTZmZTNlLTcyYzMtNDQwMC1hMzc3LTdiMTIxNmU5YWZlY1wvZDgydnhlay0yNGFkZTU2My00NDIyLTRmZTItOTk5YS1kMDMyOWI5ZWIxZTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KjjGzEKCBUM2xEh6rY0PYmD0dDcXbbH2Bbr4c1ER8XE",
         "rating": {
             "rate": 4.5,
@@ -2426,9 +2731,14 @@
     {
         "id": 158,
         "title": "* Sniper Elite 4 *",
-        "price":62.4,
+        "price":65.7,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "64-bit Windows 7, 8.1, or 10",
+            "Processor":"Intel Core i3-2100 or AMD equivalent",
+            "VideoCard":"NVIDIA GeForce GTX 660 (2GB) or AMD Radeon HD 7870 (2GB)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfro6vo-9539eca6-f538-4124-acb4-62c22c611d0a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZybzZ2by05NTM5ZWNhNi1mNTM4LTQxMjQtYWNiNC02MmMyMmM2MTFkMGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m9ljcZWevfnZdp4uJDnGpeK1xfR5RyYk6FYVwlsmjVU",
         "rating": {
             "rate": 4.5,
@@ -2439,7 +2749,7 @@
     {
         "id": 159,
         "title": "* Sniper Ghost Warrior 3 *",
-        "price": 44.2,
+        "price": 57.4,
         "description": "Sniper Ghost Warrior 3 tells the story of brotherhood, faith and betrayal in the most complete sniper experience ever. Take the role of an American sniper named Jonathan North, who is dropped into enemy territory in northern Georgia, nearby Russian borders. Explore large open-world maps with dynamic weather and a day and night cycle that actually impacts play and decisions. Customize weapon equipment, accessories, vehicles and a drone, and utilize the three pillars of gameplay to your liking: Sniper, Ghost and Warrior.Go behind enemy lines with the ultimate modern military shooter. Play as an American sniper dropped in Georgia, near Russian border. Choose your own path to accomplish your missions across an unforgiving open world.",
         "category": {
             "OpenSYSTEM": "Windows 7/8.1/10 64-bit",
@@ -2477,7 +2787,12 @@
         "title": "* Star Wars - Galactic Battlegrounds *",
         "price": 1.01,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/Vista/7/8/10/11",
+            "Processor":"1.8 GHz Processor",
+            "VideoCard":"3D graphics card compatible with DirectX 7 (DirectX 9 recommended)",
+            "MemoryRAM":"1 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa905e08-e78e-4479-b3a9-81d4c444ce69/d8jc1v1-9168ec7c-a3db-4d88-8cc7-ddb0236e846b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhOTA1ZTA4LWU3OGUtNDQ3OS1iM2E5LTgxZDRjNDQ0Y2U2OVwvZDhqYzF2MS05MTY4ZWM3Yy1hM2RiLTRkODgtOGNjNy1kZGIwMjM2ZTg0NmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0tR1FrhW-pmrSS6-_IXueDSe12KyUxaMDCgm3QkCvCM",
         "rating": {
             "rate": 4.5,
@@ -2506,7 +2821,7 @@
     {
         "id": 164,
         "title": "* STAR WARS - Battlefront *",
-        "price": 52.2,
+        "price": 52.5,
         "description": "The Star Wars™ Battlefront™ Ultimate Edition has everything fans need to live out their Star Wars™ battle fantasies. In addition to the Star Wars Battlefront Deluxe Edition, Rebels and Imperials alike will be able to expand their galaxy with the Star Wars Battlefront Season Pass, which includes 4 expansion packs filled with new content and an exclusive Shoot First emote.",
         "category": {
             "OpenSYSTEM": "64-bit Windows 7, Windows 8.1 and Windows 10",
@@ -2598,7 +2913,12 @@
         "title": "* Strange Brigade Digital Deluxe Edition *",
         "price": 37.3,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "64-bit Windows 7, 8.1, or 10",
+            "Processor":"Intel Core i3-2100 or AMD Ryzen 3 2200G",
+            "VideoCard":"NVIDIA GeForce 750 Ti (2GB) or AMD Radeon HD 7870 (2GB)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef02abe3-63cc-4dfa-8eab-5543cf3bcf4f/dcj01w8-356cf79b-560c-4a94-9a32-a86c9513b5cf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmMDJhYmUzLTYzY2MtNGRmYS04ZWFiLTU1NDNjZjNiY2Y0ZlwvZGNqMDF3OC0zNTZjZjc5Yi01NjBjLTRhOTQtOWEzMi1hODZjOTUxM2I1Y2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.g3EQjFErrtrgepTSeR9CsuGOQwQel5QfGtQiQc4jaxs",
         "rating": {
             "rate": 4.5,
@@ -2611,7 +2931,12 @@
         "title": "* Stronghold Crusader Extreme HD *",
         "price": 1,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/Vista/7/8/10/11",
+            "Processor":"Intel Pentium 4 1.6Ghz or equivalent",
+            "VideoCard":"64MB DirectX 8.1 Compatible",
+            "MemoryRAM":"512 MB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d55ae41-e76d-4375-b2d9-5b40b36a2f82/deihe0j-e8ed5004-4aa9-470c-8c1d-5b5bd1715614.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkNTVhZTQxLWU3NmQtNDM3NS1iMmQ5LTViNDBiMzZhMmY4MlwvZGVpaGUwai1lOGVkNTAwNC00YWE5LTQ3MGMtOGMxZC01YjViZDE3MTU2MTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wLtnVq4UMTEZKIJe9hYm_XzaqVSWsizE6TUsZjOc4tE",
         "rating": {
             "rate": 4.5,
@@ -2624,7 +2949,12 @@
         "title": "* Stronghold Crusader 2 - The Jackal and The Khan *",
         "price": 3.41,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/Vista/7/8/10/11",
+            "Processor":"Intel Core2 Duo 2Ghz or equivalent",
+            "VideoCard":"NVIDIA GeForce 8800GT 512MB or AMD Radeon HD 2900XT 512MB or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d33ad47f-2e6c-4eee-be7a-ec3265a3ba83/d8r3klj-ec00af77-ba0d-4fb6-821b-e7cbbd45deed.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QzM2FkNDdmLTJlNmMtNGVlZS1iZTdhLWVjMzI2NWEzYmE4M1wvZDhyM2tsai1lYzAwYWY3Ny1iYTBkLTRmYjYtODIxYi1lN2NiYmQ0NWRlZWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mxmeD7lykL0zUMfOFnBSgjsPyJCZ6PlbhmzmJkhmKoU",
         "rating": {
             "rate": 4.5,
@@ -2649,26 +2979,19 @@
             "count": 146
         }
     }
-    ,
-    {
-        "id": 174,
-        "title": "* Stronghold 2-Steam Edition *",
-        "price": 1.37,
-        "description": "",
-        "category": "women's clothing",
-        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84d32af8-c369-41d2-bfa5-616f0e76b0a2/d5nlif1-cf6676e8-58f1-44da-931e-ca8d4be80197.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZDMyYWY4LWMzNjktNDFkMi1iZmE1LTYxNmYwZTc2YjBhMlwvZDVubGlmMS1jZjY2NzZlOC01OGYxLTQ0ZGEtOTMxZS1jYThkNGJlODAxOTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7D7BudSm2a1ZCGXPH8N-qZwBnbfdgoH83tHGZmG40f0",
-        "rating": {
-            "rate": 4.5,
-            "count": 146
-        }
-    }
+    
     ,
     {
         "id": 175,
         "title": "* Stronghold 3 *",
         "price": 4.24,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows XP/Vista/7/8/10/11",
+            "Processor":"2.0 GHz Dual Core",
+            "VideoCard":"256 MB ATI HD2600 XT / NVIDIA 7900 GS or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f8830f0-679a-4974-977c-bd5802617c82/d83983i-7c06c7c6-ca9b-4502-8028-c4026d56419b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhmODgzMGYwLTY3OWEtNDk3NC05NzdjLWJkNTgwMjYxN2M4MlwvZDgzOTgzaS03YzA2YzdjNi1jYTliLTQ1MDItODAyOC1jNDAyNmQ1NjQxOWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bqSQOcCOXPXxgfxoxAJwzzOxoscvQwg71tTdIUkzAXQ",
         "rating": {
             "rate": 4.5,
@@ -2681,7 +3004,12 @@
         "title": "* The Beast Inside *",
         "price": 25.3,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "64-bit Windows 7 / 8 / 10",
+            "Processor":"Intel Core i3-4160 or AMD Phenom II X4 955",
+            "VideoCard":"GB VRAM / Radeon R9 200 Series or Nvidia GeForce GTX660",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/246930ec-f255-4d2d-ab3b-ffe775a6f445/dhqhp6a-0dafc1bb-f0f5-4004-adaa-e830590fd4a7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI0NjkzMGVjLWYyNTUtNGQyZC1hYjNiLWZmZTc3NWE2ZjQ0NVwvZGhxaHA2YS0wZGFmYzFiYi1mMGY1LTQwMDQtYWRhYS1lODMwNTkwZmQ0YTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VVeZerOj6vD5tt_oqWpv-jjviF4kT_RpIkLUpO_6XYw",
         "rating": {
             "rate": 4.5,
@@ -2712,7 +3040,12 @@
         "title": "* Wolfenstein The Old Blood *",
         "price": 36.4,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "64-bit Windows 7/8/10",
+            "Processor":"Intel Core i5-2500 3.3 GHz / AMD FX-8320 3.5 GHz or higher",
+            "VideoCard":"NVIDIA GeForce GTX 560 / AMD Radeon HD 6870 with 1GB VRAM",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://cdn2.steamgriddb.com/icon_thumb/e7c26e48b7ee853cbf5e49de5d800745.png",
         "rating": {
             "rate": 4.5,
@@ -2743,7 +3076,12 @@
         "title": "* Wolfenstein II *",
         "price": 58.7,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Win7, 8.1, or 10 (64-Bit)",
+            "Processor":"Intel Core i5-3570/i7-3770 or AMD FX-8350/Ryzen 5 1400",
+            "VideoCard":"Nvidia GTX 770 4GB/AMD Radeon R9 290 4GB or better",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/557703a2-f0df-4e9e-8006-f1a8a0666122/dbrdznq-6db3ce5f-e9af-4a89-922d-97347e364216.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1NzcwM2EyLWYwZGYtNGU5ZS04MDA2LWYxYThhMDY2NjEyMlwvZGJyZHpucS02ZGIzY2U1Zi1lOWFmLTRhODktOTIyZC05NzM0N2UzNjQyMTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gL--cOUjuCOd62iwewVTX2bGVi06XlWThO1V5Wng78U",
         "rating": {
             "rate": 4.5,
@@ -2756,7 +3094,12 @@
         "title": "* WWE 2K19 *",
         "price": 49.3,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Win7, 8.1, or 10 (64-Bit)",
+            "Processor":"Intel Core i5-3550 / AMD FX 8150",
+            "VideoCard":"GeForce GTX 670 / Radeon HD 7850 (At least 2 GB DDR Video Memory)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/541e72b1-84eb-4c5a-88d2-ccdde1a9b9f8/ddmigg8-4a314979-644b-49c3-8550-331f03f074e2.png",
         "rating": {
             "rate": 4.5,
@@ -2803,7 +3146,7 @@
     {
         "id": 187,
         "title": "* WWE 2K24 *",
-        "price": 85.4,
+        "price": 94.3,
         "description": "Experience a gripping retelling of WrestleMania’s greatest moments in 2K Showcase of the Immortals in WWE 2K24, where you can relive a collection of some of the most unforgettable, career-defining matches.",
         "category": {
             "OpenSYSTEM": " 64-bit: Windows 10 / 11",
@@ -2983,7 +3326,7 @@
     {
         "id": 198,
         "title": "* Batman - The Telltale Series *",
-        "price": 12.5,
+        "price": 12.6,
         "description": "Enter the fractured psyche of Bruce Wayne and discover the powerful and far-reaching consequences of your choices as the Dark Knight.",
         "category": {
             "OpenSYSTEM": "Windows 7 64-bit",
@@ -3019,7 +3362,7 @@
     {
         "id": 200,
         "title": "* BioShock *",
-        "price": 5.37,
+        "price": 5.39,
         "description": "1",
         "category": {
             "OpenSYSTEM": "Windows XP SP2 / Vista.",
@@ -3037,7 +3380,7 @@
     {
         "id": 202,
         "title": "* BioShock Infinite *",
-        "price": 17,
+        "price": 17.1,
         "description": "Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia. Forced to trust one another, Booker and Elizabeth form a powerful bond during their daring escape. Together, they learn to harness an expanding arsenal of weapons and abilities, as they fight on zeppelins in the clouds, along high-speed Sky-Lines, and down in the streets of Columbia, all while surviving the threats of the air-city and uncovering its dark secret.",
         "category": {
             "OpenSYSTEM": "Windows 7 SP1 (64-bit) or later",
@@ -3163,7 +3506,7 @@
     {
         "id": 209,
         "title": "* Dakar Desert Rally *",
-        "price": 65.4,
+        "price": 65.5,
         "description": "Dakar Desert Rally is the biggest off-road rally racing adventure ever developed. Experience the speed and excitement of the largest rally race on the planet, featuring a wide variety of licensed vehicles from motorcycles, cars, trucks, quads and SSVs.",
         "category": {
             "OpenSYSTEM": " Windows 10 / 11",
@@ -3181,7 +3524,7 @@
     {
         "id": 210,
         "title": "* Days Gone *",
-        "price": 47.7,
+        "price": 47.4,
         "description": "Days Gone is an open-world action-adventure game set in a harsh wilderness two years after a devastating global pandemic.  Step into the dirt flecked shoes of former outlaw biker Deacon St. John, a bounty hunter trying to find a reason to live in a land surrounded by death. Scavenge through abandoned settlements for equipment to craft valuable items and weapons, or take your chances with other survivors trying to eke out a living through fair trade… or more violent means.",
         "category": {
             "OpenSYSTEM": "Windows 10 / 11",
@@ -3578,7 +3921,7 @@
     {
         "id": 228,
         "title": "* Halo Infinite *",
-        "price": 35.2,
+        "price": 35.3,
         "description": "When all hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. Step inside the armor of humanity’s greatest hero to experience an epic adventure and explore the massive scale of the Halo ring",
         "category": {
             "OpenSYSTEM": "Windows 10",
@@ -3596,7 +3939,7 @@
     {
         "id": 229,
         "title": "* Hard Reset - Extended Edition *",
-        "price": 4.34,
+        "price": 4.35,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows XP/Vista/7",
@@ -3614,7 +3957,7 @@
     {
         "id": 230,
         "title": "* High on Life *",
-        "price": 49,
+        "price": 41.9,
         "description": "If you don’t know what you’re getting into, here’s the deal: High On Life is an action-packed comedy-adventure FPS filled with unhinged talking guns, an evil alien drug cartel selling humans on the black market, and an impressive variety of gorgeous and seedy spacefaring locales to explore. You wanna buy goop from a back-alley salesman? You wanna tell some construction workers that their dad will never love them? You wanna rescue a talking knife from a bunch of a gang of ant clones? You can do ALL of those things in High On Life, trust me. And a lot more. I didn’t even mention a lot of the other stuff you can do.",
         "category": {
             "OpenSYSTEM": "Windows 10 64-bit",
@@ -3686,7 +4029,7 @@
     {
         "id": 234,
         "title": "* Just Cause 4 *",
-        "price": 45,
+        "price": 53.9,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows 7 SP1 with Platform Update for Windows 7 (64-bit versions only)",
@@ -3722,7 +4065,7 @@
     {
         "id": 236,
         "title": "* Kena Bridge of Spirits *",
-        "price": 21.1,
+        "price": 21.3,
         "description": "Kena, a young Spirit Guide, travels to an abandoned village in search of the sacred mountain shrine. She struggles to uncover the secrets of this forgotten community hidden in an overgrown forest where wandering spirits are trapped.",
         "category": {
             "OpenSYSTEM": "Windows 7, 8.1, 10",
@@ -3758,7 +4101,7 @@
     {
         "id": 238,
         "title": "* LEGO 2K Drive *",
-        "price": 7.56,
+        "price": 10.4,
         "description": "Welcome to Bricklandia, home of a massive open-world LEGO® driving adventure. Race anywhere, play with anyone, build your dream rides, and defeat a cast of wild racing rivals for the coveted Sky Trophy!",
         "category": {
             "OpenSYSTEM": "Windows 10 64-bit, Windows 11 64-bit",
@@ -3794,7 +4137,7 @@
     {
         "id": 240,
         "title": "* Little Nightmares *",
-        "price": 9.23,
+        "price": 9.24,
         "description": "ake on the role of Six, a lone child lost in a massive metal vessel known as the Maw, surrounded by dangerous, distorted versions of adults. You’ll need to do your best to escape in one piece or your fate will be worse than you ever dared dream.",
         "category": {
             "OpenSYSTEM": "Windows 7 / 10 / 11",
@@ -3812,7 +4155,7 @@
     {
         "id": 241,
         "title": "* Little Nightmares II - Enhanced Edition *",
-        "price": 12.5,
+        "price": 21.3,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows 10",
@@ -3866,7 +4209,7 @@
     {
         "id": 244,
         "title": "* Mafia II *",
-        "price": 5.77,
+        "price": 10.7,
         "description": "Vito Scaletta has started to make a name for himself on the streets of Empire Bay as someone who can be trusted to get a job done. Together with his buddy Joe, he is working to prove himself to the Mafia, quickly escalating up the family ladder with crimes of larger reward, status and consequence… the life as a wise guy isn’t quite as untouchable as it seems.",
         "category": {
             "OpenSYSTEM": "Windows XP (SP2 or later) / Windows Vista / Windows 7",
@@ -3902,7 +4245,7 @@
     {
         "id": 246,
         "title": "* Manor Lords *",
-        "price": 12.7,
+        "price": 12.8,
         "description": "Manor Lords is a medieval strategy game featuring in-depth city building, large-scale tactical battles, and complex economic and social simulations. Rule your lands as a medieval lord – the seasons pass, the weather changes, and cities rise and fall",
         "category": {
             "OpenSYSTEM": "Windows® 10 (64-bit)",
@@ -3994,7 +4337,12 @@
         "title": "* Marvel SpiderMan 2 *",
         "price": 235,
         "description": "",
-        "category": "women's clothing",
+        "category": {
+            "OpenSYSTEM": "Windows 10/11 64-bit",
+            "Processor":"Intel Core i7-8700K or AMD Ryzen 5 2600X",
+            "VideoCard":"16 GB -SSD required",
+            "MemoryRAM":"NVIDIA GeForce GTX 1650 Super or AMD Radeon RX 5500"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dgad0sk-09ade31c-366c-42c1-a603-76853bf8755c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3OGJjM2ZjLTlmMDgtNDdjYS04MWFlLWQ4OTA1NWM3ZWM0OVwvZGdhZDBzay0wOWFkZTMxYy0zNjZjLTQyYzEtYTYwMy03Njg1M2JmODc1NWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nAcA81vR39qEGhNnDzHHm3wQtKYHXeAQ5H2OKv9rx_4",
         "rating": {
             "rate": 4.5,
@@ -4095,7 +4443,7 @@
     {
         "id": 258,
         "title": "* Outlast *",
-        "price": 5.98,
+        "price": 6.10,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows XP / Vista / 7 / 8 / 10 (64-bit)",
@@ -4113,7 +4461,7 @@
     {
         "id": 259,
         "title": "* Outlast 2 *",
-        "price": 25.2,
+        "price": 25,
         "description": "You are Blake Langermann, a cameraman working with your wife, Lynn. The two of you are investigative journalists willing to take risks and dig deep to uncover the stories no one else will dare touch.",
         "category": {
             "OpenSYSTEM": "Windows Vista / 7 / 8 / 10, 64-bits",
@@ -4149,7 +4497,7 @@
     {
         "id": 261,
         "title": "* Prey *",
-        "price": 30.3,
+        "price": 42.2,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows 7/8/10 (64-bit)",
@@ -4221,7 +4569,7 @@
     {
         "id": 265,
         "title": "* Sekiro - Shadows Die Twice *",
-        "price": 14.8,
+        "price": 15.7,
         "description": "n Sekiro: Shadows Die Twice, you will become a “one-armed wolf,” a disfigured rogue warrior who was saved from certain death. Vowing to protect the young master, who is the heir to an ancient clan, you make a lot of dangerous opponents, among them the ruthless Asina clan. When a young master is captured, you embark on a dangerous path to save him, and nothing will stop you from regaining your honor.",
         "category": {
             "OpenSYSTEM": "Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit",
@@ -4257,7 +4605,7 @@
     {
         "id": 267,
         "title": "* Sim Microsoft Flight 2020 *",
-        "price": 95.2,
+        "price": 95.5,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows 10 64-bit",
@@ -4275,7 +4623,7 @@
     {
         "id": 268,
         "title": "* State of Decay - Year-One Survival Edition *",
-        "price": 2.99,
+        "price": 3.02,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows 10 64-bit",
@@ -4329,7 +4677,7 @@
     {
         "id": 272,
         "title": "* Stray *",
-        "price": 6.45,
+        "price": 6.54,
         "description": "Stray is a third-person cat adventure game set amidst the detailed, neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly. Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by curious droids and dangerous creatures.",
         "category": {
             "OpenSYSTEM": "Windows 10",
@@ -4455,7 +4803,7 @@
     {
         "id": 279,
         "title": "* The Last of Us *",
-        "price": 67.3,
+        "price": 66.3,
         "description": "In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey.",
         "category": {
             "OpenSYSTEM": "Windows 10 (Version 1909 or Newer)",
@@ -4491,7 +4839,7 @@
     {
         "id": 281,
         "title": "* The Mortuary Assistant *",
-        "price": 3.29,
+        "price": 3.32,
         "description": "Late one night, you are called into work to handle some embalmings. Death doesn’t keep day time hours. But there is something different about these bodies because there is something different about you. The phone rings with the Mortician on the other end. The rumors are true, and you can not leave.",
         "category": {
             "OpenSYSTEM": "Windows 7 / 10 / 11",
@@ -4905,7 +5253,7 @@
     {
         "id": 303,
         "title": "* Child of Light *",
-        "price": 3.31,
+        "price": 3.67,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows 7/10 (32-bit or 64-bit)",
@@ -5192,7 +5540,7 @@
     {
         "id": 319,
         "title": "* Despair - Blood Curse *",
-        "price": 7.86,
+        "price": 7.96,
         "description": "",
         "category": {
             "OpenSYSTEM": "Windows 10 (64-bit)",
@@ -5481,8 +5829,13 @@
         "id": 336,
         "title": "* King of Fighters XV *",
         "price": 36.6,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Since its debut in 1994, the KOF fighting game series has been driving the world to new heights of excitement with its appealing characters and unique game system. Six years have passed since the last title in the series, and now KOF XV surpasses all of its predecessors in terms of graphics, systems, and online experience!",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":"Intel Core i5",
+            "VideoCard":"Nvidia GeForce GTX 770 2 GB / AMD Radeon R9 280 3 GB, DirectX: 11",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef02abe3-63cc-4dfa-8eab-5543cf3bcf4f/df08s9a-ee86ca28-7b19-4238-bad2-3f19be43c846.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmMDJhYmUzLTYzY2MtNGRmYS04ZWFiLTU1NDNjZjNiY2Y0ZlwvZGYwOHM5YS1lZTg2Y2EyOC03YjE5LTQyMzgtYmFkMi0zZjE5YmU0M2M4NDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U8JxOlBSGtOUeBdgkFoMtWHAhC6oSyXBMloqD4c8nN4",
         "rating": {
             "rate": 4.5,
@@ -5494,8 +5847,13 @@
         "id": 337,
         "title": "* Kona II - Brume *",
         "price": 28.4,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Northern Québec, 1970. A bizarre mist —the Brume— is disconnecting a rural mining village from its quiet reality. Step into the shoes of Detective Carl Faubert as he unfolds the mysteries haunting the region while battling for his own survival.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 64-bit",
+            "Processor":"Intel Core i3-6100 | AMD FX 8350",
+            "VideoCard":"NVIDIA Geforce GTX 760 / 965M | AMD Radeon HD 7850 with 2gb of VRAM",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://cdn2.steamgriddb.com/grid/49b93a973721c15325840bc625572b16.png",
         "rating": {
             "rate": 4.5,
@@ -5507,8 +5865,13 @@
         "id": 338,
         "title": "* Last Train Home *",
         "price": 20.3,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "The Great War is over – the fight continues. Command a legion of soldiers, desperately trying to make their way home amidst the chaos of civil war. Lead them through the unforgiving wilderness onboard an armored train. Manage your crew and resources and try to survive.",
+        "category": {
+            "OpenSYSTEM": "Windows® 10 64 bit",
+            "Processor":"3 GHz Quad-Core",
+            "VideoCard":"Nvidia® GeForce™ GTX 1050-Ti (4GB) / AMD® Radeon™ RX 570 (4GB)",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dgnskrn-a7242209-92dc-4ba3-9575-d9d1c98c51d7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGduc2tybi1hNzI0MjIwOS05MmRjLTRiYTMtOTU3NS1kOWQxYzk4YzUxZDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.epMX8gGy_6kDefvJZ-AxlvPe__VxGAQFYJYb7YTrdVs",
         "rating": {
             "rate": 4.5,
@@ -5520,8 +5883,13 @@
         "id": 340,
         "title": "* Left 4 Dead 2 *",
         "price": 13.7,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "You have to play for one of the four new survivors, using a variety of furious guns to fight the enemies, including updated copies from the first part of the game. In addition, you can pour your aggression on those infected with terrible melee weapons, such as a chainsaw, ax and death pan.You will have to use all these toys against three terribly scary new special infected ones (or they will already be used against you). In addition, you will be able to meet with five “non-standard” ordinary zombies, including the frightening Gryazevik.",
+        "category": {
+            "OpenSYSTEM": "Windows XP / Windows Vista / Windows 7 / Windows 8 / Windows 10",
+            "Processor":"Pentium 4 3.0GHz",
+            "VideoCard":"128 MB, Shader model 2.0. ATI X800, NVidia 6600 or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6a848273-6e1e-4625-90b4-4cdb41532710/d4krnwx-04ea8e0b-e8c0-4015-b703-4c66158414a6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZhODQ4MjczLTZlMWUtNDYyNS05MGI0LTRjZGI0MTUzMjcxMFwvZDRrcm53eC0wNGVhOGUwYi1lOGMwLTQwMTUtYjcwMy00YzY2MTU4NDE0YTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nzvEdGjANgY8nRnnDx10s8ZcztNS4F9amepEwB9w8ug",
         "rating": {
             "rate": 4.5,
@@ -5533,8 +5901,13 @@
         "id": 341,
         "title": "* Life is Strange Remastered *",
         "price": 41.7,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Play as Max Caulfield, a photography senior who discovers she can rewind time while saving her best friend Chloe Price from a violent altercation.",
+        "category": {
+            "OpenSYSTEM": "Windows 10",
+            "Processor":"AMD Phenom II X4 965, 3.2 GHz / Intel Core i3-2100, 3.1 GHz",
+            "VideoCard":"Radeon R7 360, 2 GB / GeForce GTX 660, 2 GB, DirectX 11",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3272da6e-fea1-4af6-9ab9-7dccb2413ff0/df0pkr2-34b99edd-02f4-4e53-a509-59e4322c22c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyNzJkYTZlLWZlYTEtNGFmNi05YWI5LTdkY2NiMjQxM2ZmMFwvZGYwcGtyMi0zNGI5OWVkZC0wMmY0LTRlNTMtYTUwOS01OWU0MzIyYzIyYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zhemCYQjtJeBrcI3CZjb8MeXSAHsWzKf3H5Y4SnPhG8",
         "rating": {
             "rate": 4.5,
@@ -5546,8 +5919,13 @@
         "id": 342,
         "title": "* Lost Planet *",
         "price": 7.18,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 8 / 10 / 11",
+            "Processor":"Intel(R) Pentium(R) 4 processor supporting HT Technology or higher, or AMD Athlon(TM) 64 or higher",
+            "VideoCard":"DirectX 9.0c/Shader3.0 compatible, VRAM256MB, NVIDIA GeForce 6600 series or higher, or ATI Radeon(TM) X1600 or higher (excluding NVIDIA GeForce 7300 series)",
+            "MemoryRAM":"1 GB"
+        },
         "image": "https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-30/512/Lost-Planet-Extreme-Condition-1-icon.png",
         "rating": {
             "rate": 4.5,
@@ -5559,8 +5937,13 @@
         "id": 343,
         "title": "* Lost Planet 3 *",
         "price": 15.1,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Lost Planet 3 introduces Jim Peyton, a rig pilot who leaves Earth to take on a hazardous but lucrative contract on E.D.N. III. Working for Neo-Venus Construction (NEVEC) who are preparing the planet for colonisation, Jim joins his fellow pioneers at the Coronis base and begins surveying the uncharted terrain and obtaining samples of the planet’s energy supply – Thermal Energy.",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":"Dual core CPU 2.5 GHz",
+            "VideoCard":"NVIDIA® GeForce® 9800 or better, ATI Radeon™ HD 4770 or better",
+            "MemoryRAM":"3 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dh7srdd-94daaf4a-f5b1-4179-b824-2b7e3c074cd7.png/v1/fill/w_512,h_512/lost_planet_3_icon_by_hatemtiger_dh7srdd-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNzMyMDZiZDktMjU3Yy00ZjUwLWIxZjMtNTlhMzA2ZTI0MDg0XC9kaDdzcmRkLTk0ZGFhZjRhLWY1YjEtNDE3OS1iODI0LTJiN2UzYzA3NGNkNy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.pq_QeL63GJC9vbgqzUsEpy5xgMMEwh8iWPkNDNXJ19M",
         "rating": {
             "rate": 4.5,
@@ -5572,8 +5955,13 @@
         "id": 344,
         "title": "* Lucius III *",
         "price": 28.2,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 7 64-bit",
+            "Processor":"Intel i5",
+            "VideoCard":"NVIDIA GeForce GTX 660",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3A52_GY7WpTJ1MKR9nspBzqKNMFFRz2SrOw&s",
         "rating": {
             "rate": 4.5,
@@ -5585,8 +5973,13 @@
         "id": 345,
         "title": "* Martha Is Dead *",
         "price": 16.8,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Martha Is Dead is a dark first-person psychological thriller, set in 1944 Italy, that blurs the lines between reality, superstition and the tragedy of war.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 64-bit",
+            "Processor":"Intel Core i5 or equivalent AMD",
+            "VideoCard":"NVIDIA GeForce GTX 670 or AMD R9 270X",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfkujj5-8711e98c-a89a-4f80-b3ca-d0c6683b32c0.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZrdWpqNS04NzExZTk4Yy1hODlhLTRmODAtYjNjYS1kMGM2NjgzYjMyYzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZYspArYtCTEcCRk4p4Jpf6YNA1-L2DBfvh-6STTYbvU",
         "rating": {
             "rate": 4.5,
@@ -5598,8 +5991,13 @@
         "id": 346,
         "title": "* Mass Effect Andromeda *",
         "price": 51.1,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "1Play as the Pathfinder – a leader of a squad of military-trained explorers – with deep progression and customization systems. This is the story of humanity’s next chapter, and your choices throughout the game will ultimately determine our survival in the Andromeda Galaxy.",
+        "category": {
+            "OpenSYSTEM": "Windows 7 64 bit, Windows 8.1 or Windows 10",
+            "Processor":"Intel Core i5 3570 or AMD FX-6350",
+            "VideoCard":"NVIDIA GTX 660 2 GB, AMD Radeon 7850 2 GB",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/657be565-f4b2-4e47-841f-1b0711b0205b/dazm79k-58093491-dd9a-40c0-a7ce-a4d68b80191e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY1N2JlNTY1LWY0YjItNGU0Ny04NDFmLTFiMDcxMWIwMjA1YlwvZGF6bTc5ay01ODA5MzQ5MS1kZDlhLTQwYzAtYTdjZS1hNGQ2OGI4MDE5MWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.M_kNUqDO3xHsPfOnCFQY-HxxiWu6k3or3LQ-M8eTJiE",
         "rating": {
             "rate": 4.5,
@@ -5611,8 +6009,13 @@
         "id": 347,
         "title": "* Max Payne 3 - Complete Edition *",
         "price": 32.4,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Max Payne experienced a lot: his family and friends were dying before his eyes, and these tragedies left an indelible mark on his soul. He left the police, became addicted to drinking and painkillers, more and more immersed in the abyss of despair. In an attempt to escape from his past, Max moves to Brazil and becomes the bodyguard of a wealthy real estate dealer from Sao Paulo – Rodrigo Branco. But events unfold in such a way that Max finds himself on the streets of an unfamiliar city face to face with mortal danger. He must survive – and find out what is happening.",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / Windows 8.1 / Windows 10",
+            "Processor":"Intel Core 2 Duo 3.0 GHz",
+            "VideoCard":"NVIDIA 8600 GT with 512 MB of video memory / ATI Radeon HD 3400 with 512 MB or better",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f5329c51-7516-4e9f-88c4-42e94e2dde30/d528jo4-cd43e86d-7fd7-43e6-99ea-7b1842b77b74.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y1MzI5YzUxLTc1MTYtNGU5Zi04OGM0LTQyZTk0ZTJkZGUzMFwvZDUyOGpvNC1jZDQzZTg2ZC03ZmQ3LTQzZTYtOTllYS03YjE4NDJiNzdiNzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dUaYodrqJ1K1hOMz42h2FmAzELSpaZ4SyYHclLMlK2M",
         "rating": {
             "rate": 4.5,
@@ -5624,8 +6027,13 @@
         "id": 348,
         "title": "* Metal Gear Solid V The Phantom Pain *",
         "price": 22.6,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "ine years after the events of MGSV: GROUND ZEROES and the fall of Mother Base, Snake a.k.a. Big Boss, awakens from a nine year coma. The year is 1984. The Cold War serves as the backdrop as nuclear weapons continue to shape a global crisis. Driven by revenge, Snake establishes a new private army and returns to the battlefield in pursuit of the shadow group, XOF.",
+        "category": {
+            "OpenSYSTEM": "Windows 7, Windows 8, Windows 10 (64-bit OS Required)",
+            "Processor":"Intel Core i5-4460 (3.40 GHz) or better; Quad-core or better",
+            "VideoCard":"NVIDIA GeForce GTX 650 (2GB) or better (DirectX 11 card Required)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9eb92786-5e60-46ac-ae2c-d33af137f691/d981k5k-3e402346-84f2-4d1a-abed-59e0215bce5a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllYjkyNzg2LTVlNjAtNDZhYy1hZTJjLWQzM2FmMTM3ZjY5MVwvZDk4MWs1ay0zZTQwMjM0Ni04NGYyLTRkMWEtYWJlZC01OWUwMjE1YmNlNWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CkfvzmCEa3w6wIX4aE_Dbx2kCI0DmmUlnWfEz91FOg4",
         "rating": {
             "rate": 4.5,
@@ -5637,8 +6045,13 @@
         "id": 349,
         "title": "* NieR - Automata *",
         "price": 27,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 8.1 / 10 64 bit",
+            "Processor":"Intel Core i3 2100 or AMD A8-6500",
+            "VideoCard":"NVIDIA GeForce GTX 770 (2GB) or AMD Radeon R9 270X (2GB)",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88b6f848-7f22-44b7-a036-8e65d20a4e3d/db1bdp9-44ee6ee4-0f0c-44f5-b961-f708eb81acd3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4YjZmODQ4LTdmMjItNDRiNy1hMDM2LThlNjVkMjBhNGUzZFwvZGIxYmRwOS00NGVlNmVlNC0wZjBjLTQ0ZjUtYjk2MS1mNzA4ZWI4MWFjZDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wFworM7QnbWoYzD4JnT4TEnnbKeao8VAvK6SkzajcKs",
         "rating": {
             "rate": 4.5,
@@ -5650,8 +6063,13 @@
         "id": 350,
         "title": "* NieR Replicant *",
         "price": 25.2,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "The protagonist is a kind young man living in a remote village. In order to save his sister Yonah, who fell terminally ill to the Black Scrawl, he sets out with Grimoire Weiss, a strange talking tome, to search for the “Sealed verses.”",
+        "category": {
+            "OpenSYSTEM": "Windows 10",
+            "Processor":"AMD Ryzen 3 1300X / Intel Core i5-6400",
+            "VideoCard":"MD Radeon R9 270X / NVIDIA GeForce GTX 960, DirectX 11",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31184640-b024-47d1-b392-50174b836348/dfl2m76-3cda4e43-ca2a-4cbd-9a99-fcbf79dedbf6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMxMTg0NjQwLWIwMjQtNDdkMS1iMzkyLTUwMTc0YjgzNjM0OFwvZGZsMm03Ni0zY2RhNGU0My1jYTJhLTRjYmQtOWE5OS1mY2JmNzlkZWRiZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RNdi8C2oe2jxPZ0DN1_mqS1I5sR58Es_eHBB6I3lLII",
         "rating": {
             "rate": 4.5,
@@ -5663,8 +6081,13 @@
         "id": 351,
         "title": "* Nobody Wants to Die *",
         "price": 26.5,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Lose yourself in the dystopian world of New York, 2329; immortality comes at a price that someone has to pay. In this interactive noir story, lead the investigation using advanced technology, as Detective James Karra who risks it all in pursuit of a serial killer targeting the city’s elite.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11",
+            "Processor":"Intel Core I3-8100 or AMD Ryzen 5 2600X",
+            "VideoCard":"NVIDIA GeForce GTX 1660 Super or AMD Radeon RX VEGA 56 ",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4d746fa-7f3e-4dce-a950-9cba1ce026c5/dht0pnq-ae4b672b-dd4b-4895-a8f6-92f6af48f5fc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I0ZDc0NmZhLTdmM2UtNGRjZS1hOTUwLTljYmExY2UwMjZjNVwvZGh0MHBucS1hZTRiNjcyYi1kZDRiLTQ4OTUtYThmNi05MmY2YWY0OGY1ZmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SrPBDeR-urzPvGT0MOhGEhH14xzWbIG0D553v4kc3lo",
         "rating": {
             "rate": 4.5,
@@ -5676,8 +6099,13 @@
         "id": 352,
         "title": "* PAYDAY 2 *",
         "price": 18.2,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew – Dallas, Hoxton, Wolf and Chains – as they descend on Washington DC for an epic crime spree.",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / Windows 8.1 / Windows 10 (64-bit versions)",
+            "Processor":"Dual-core 2.0 GHz",
+            "VideoCard":"512 MB",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6715fdc1-21de-4bb0-a7ad-117a99972862/d8yumsn-0515f51f-d7f2-4f19-adff-122063090cb5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MTVmZGMxLTIxZGUtNGJiMC1hN2FkLTExN2E5OTk3Mjg2MlwvZDh5dW1zbi0wNTE1ZjUxZi1kN2YyLTRmMTktYWRmZi0xMjIwNjMwOTBjYjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a3xKqznFQZM3GN4v-KJ4415JDjCb8U-PtEWRFz1Jgb0",
         "rating": {
             "rate": 4.5,
@@ -5689,8 +6117,13 @@
         "id": 353,
         "title": "* Planet Zoo *",
         "price": 9.14,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Build a world for wildlife in Planet Zoo. Meet the new zoo simulator from the developers of Planet Coaster and Zoo Tycoon, in which realistic animals interact with their environment. Travel around the world in campaign mode, or get creative with sandbox mode. You have to build and manage the world’s largest zoos: create unique animal habitats, change the landscape, make important decisions and take care of your pets.",
+        "category": {
+            "OpenSYSTEM": "Windows 7  / 8.1 / 10 64bit",
+            "Processor":"Intel i5-2500 / AMD FX-6350",
+            "VideoCard":" NVIDIA GeForce GTX 770 (2GB) / AMD Radeon R9 270X (2GB)",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/557703a2-f0df-4e9e-8006-f1a8a0666122/ddmllz3-5f4bf06f-b9eb-4a42-9ef2-f8b12d7109a1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1NzcwM2EyLWYwZGYtNGU5ZS04MDA2LWYxYThhMDY2NjEyMlwvZGRtbGx6My01ZjRiZjA2Zi1iOWViLTRhNDItOWVmMi1mOGIxMmQ3MTA5YTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P02MRs0qX0r7HPx63BtRbQcapRnt6kBz9VhaaMwLMQU",
         "rating": {
             "rate": 4.5,
@@ -5702,8 +6135,13 @@
         "id": 354,
         "title": "* Police Simulator - Patrol Officers *",
         "price": 11.4,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Welcome to Brighton! Join the police force of this fictitious American city and experience the day to day life of a Police Officer. Start with citing violations and giving out parking tickets, then work your way towards shouldering more responsibilities. Be part of the community of Brighton, get to know your neighborhood and handle daily police work to fight crime during your shift. Always be tough, but fair: respect the law and gain more experience to unlock more neighborhoods, districts and duties.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11",
+            "Processor":"Intel® Core™ i3-2120 or higher",
+            "VideoCard":"NVIDIA GeForce GTX 760 (2 GB VRAM) or higher",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/32cae943-6dc3-44a9-b1d5-ccd1e02e06de/dgfmcv1-1ac536d1-a418-4462-86aa-4c901da436e7.png/v1/fill/w_512,h_548/police_simulator___patrol_officers_by_r3djok3r1_dgfmcv1-fullview.png",
         "rating": {
             "rate": 4.5,
@@ -5715,8 +6153,13 @@
         "id": 355,
         "title": "* Portal 2 *",
         "price": 11.4,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "The single-player portion of Portal 2 introduces a cast of dynamic new characters, a host of fresh puzzle elements, and a much larger set of devious test chambers. Players will explore never-before-seen areas of the Aperture Science Labs and be reunited with GLaDOS, the occasionally murderous computer companion who guided them through the original game. The game’s two-player cooperative mode features its own entirely separate campaign with a unique story, test chambers, and two new player characters. This new mode forces players to reconsider everything they thought they knew about portals. Success will require them to not just act cooperatively, but to think cooperatively.",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / Vista / XP",
+            "Processor":"3.0 GHz P4, Dual Core 2.0 (or higher)",
+            "VideoCard":"128MB+ & Pixel Shader 2.0b (ATI Radeon X800 / NVIDIA GeForce 7600 or higher / Intel HD Graphics 2000)",
+            "MemoryRAM":"2 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e558db9c-ca9a-4fb7-af65-60c6c53244b8/dgncovr-a615796f-5a71-44b7-8e98-cc64b0610daa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1NThkYjljLWNhOWEtNGZiNy1hZjY1LTYwYzZjNTMyNDRiOFwvZGduY292ci1hNjE1Nzk2Zi01YTcxLTQ0YjctOGU5OC1jYzY0YjA2MTBkYWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ixnlu9Ab0PgQWKMdE2IPPi6aQuLCEoiqkq1_HmJMpAo",
         "rating": {
             "rate": 4.5,
@@ -5728,8 +6171,13 @@
         "id": 356,
         "title": "* Prince of Persia The Forgotten Sands *",
         "price": 6.11,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows XP/Vista/7/10 ",
+            "Processor":"2.6 GHz Dual Core processor (Athlon 64 X2 or Pentium D)",
+            "VideoCard":"256MB DirectX 9.0c-compliant graphics card (NVIDIA GeForce 6800 or ATI Radeon X1600)",
+            "MemoryRAM":"2GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfp8v63-ace1f162-715a-4611-bd7d-35b24a1f1bda.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZwOHY2My1hY2UxZjE2Mi03MTVhLTQ2MTEtYmQ3ZC0zNWIyNGExZjFiZGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X50dBHD6tJxsiWxYjkf3NGlu6n5kqLVyhDUx8uk1NW8",
         "rating": {
             "rate": 4.5,
@@ -5741,8 +6189,13 @@
         "id": 357,
         "title": "* Psychonauts 2 *",
         "price": 29.6,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Razputin “Raz” Aquato, trained acrobat and powerful young psychic, has realized his lifelong dream of joining the international psychic espionage organization known as the Psychonauts! But these psychic super spies are in trouble. Their leader hasn’t been the same since he was rescued from a kidnapping, and what’s worse, there’s a mole hiding in headquarters.",
+        "category": {
+            "OpenSYSTEM": "Windows 7",
+            "Processor":" Intel Core i3-3225 / AMD Phenom II X6 1100T",
+            "VideoCard":"Nvidia GeForce GTX 1050, AMD Radeon RX 560, DirectX 11",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3faeb805-2526-429a-b432-2ff664efb15f/dfnm5nk-541872e2-ce9d-4743-8a92-7ea9f28fd17f.png",
         "rating": {
             "rate": 4.5,
@@ -5754,8 +6207,13 @@
         "id": 358,
         "title": "* Tomb Raider - Definitive Edition *",
         "price": 16.2,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. Download the Turning Point trailer to see the beginning of Lara’s epic adventure.",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 8 / 10 / 11",
+            "Processor":"Dual core CPU: AMD Athlon64 X2 2.1 Ghz (4050+), Intel Core2 Duo 1.86 Ghz (E6300)",
+            "VideoCard":"1 GB Video RAM: AMD Radeon HD 2600 XT, nVidia 8600",
+            "MemoryRAM":"4 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfsumtq-d51cb8d5-840c-421c-b659-05dd0cb01c2b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NFwvZGZzdW10cS1kNTFjYjhkNS04NDBjLTQyMWMtYjY1OS0wNWRkMGNiMDFjMmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-hFJsXTyco_2yRGeQzcetAWjDfS9RtDdd4W0iP4k7rU",
         "rating": {
             "rate": 4.5,
@@ -5767,8 +6225,13 @@
         "id": 359,
         "title": "* Rise of the Tomb Raider *",
         "price": 22.3,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "Explore Croft Manor in the new “Blood Ties” story, then defend it against a zombie invasion in “Lara’s Nightmare”. Survive extreme conditions with a friend in the new online Co-Op Endurance mode, and brave the new “Extreme Survivor” difficulty. Also features an outfit and weapon inspired by Tomb Raider III, and 5 classic Lara skins. Existing DLC will challenge you to explore a new tomb that houses an ancient terror in Baba Yaga: The Temple of the Witch, and combat waves of infected predators in Cold Darkness Awakened.",
+        "category": {
+            "OpenSYSTEM": "Windows 7",
+            "Processor":"Intel Core i3-2100 or AMD equivalen",
+            "VideoCard":"NVIDIA GTX 650 2GB or AMD HD7770 2GB, DirectX 11",
+            "MemoryRAM":"6 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/3367fa99-0ba6-454c-b947-683f1a9f896d/ddwuyya-30b804db-cb8b-4c38-8673-0424401db229.png",
         "rating": {
             "rate": 4.5,
@@ -5780,8 +6243,13 @@
         "id": 360,
         "title": "* Shadow of the Tomb Raider *",
         "price": 37.4,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
+        "description": "experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be. Combining the base game, all seven DLC challenge tombs, as well as all downloadable weapons, outfits, and skills, Shadow of the Tomb Raider Definitive Edition is the ultimate way to experience Lara’s defining moment.",
+        "category": {
+            "OpenSYSTEM": "Windows 7",
+            "Processor":"i3-3220 INTEL / AMD Equivalent",
+            "VideoCard":"Nvidia GTX 660 / GTX 1050 / AMD Radeon HD 7770, DirectX 11",
+            "MemoryRAM":"8 GB"
+        },
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a98cff5d-a612-49d8-a0db-175994384b20/dcd7v3c-87d86d8a-8609-4ef8-9e0e-42f70c9894cb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E5OGNmZjVkLWE2MTItNDlkOC1hMGRiLTE3NTk5NDM4NGIyMFwvZGNkN3YzYy04N2Q4NmQ4YS04NjA5LTRlZjgtOWUwZS00MmY3MGM5ODk0Y2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dgrzIj9gts8mxxgLnTK0DwzA2Vnmq6qDCjX9v0PHeE0",
         "rating": {
             "rate": 4.5,
@@ -5905,19 +6373,7 @@
             "count": 146
         }
     }
-    ,
-    {
-        "id": 374,
-        "title": "* Supernormal *",
-        "price": 7.05,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
-        "image": "https://sm.ign.com/ign_me/cover/s/supernorma/supernormal_447q.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 146
-        }
-    }
+    
     ,
     {
         "id": 376,
@@ -5961,7 +6417,7 @@
     {
         "id": 379,
         "title": "* The Dark Pictures Anthology Man of Medan *",
-        "price": 50,
+        "price": 59,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aacf7545-f3cd-48d5-b931-28ce4a28db0e/ddfxyqy-2c0f2d10-9375-476f-8d28-9f302287320d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhY2Y3NTQ1LWYzY2QtNDhkNS1iOTMxLTI4Y2U0YTI4ZGIwZVwvZGRmeHlxeS0yYzBmMmQxMC05Mzc1LTQ3NmYtOGQyOC05ZjMwMjI4NzMyMGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7ioP453O4wCu2mSFKihzYmI1TdS8KQdaycQg1PqmnrE",
@@ -6182,7 +6638,7 @@
     {
         "id": 396,
         "title": "* Unravel *",
-        "price": 3.15,
+        "price": 3.10,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6715fdc1-21de-4bb0-a7ad-117a99972862/d9oea5t-5104543e-4f40-4e84-b4ea-ec3d2b8aef39.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3MTVmZGMxLTIxZGUtNGJiMC1hN2FkLTExN2E5OTk3Mjg2MlwvZDlvZWE1dC01MTA0NTQzZS00ZjQwLTRlODQtYjRlYS1lYzNkMmI4YWVmMzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aGWsxMpwhNc4lEML4zXistGT_1woDYgt1hZJjXNZmF8",
@@ -6312,7 +6768,7 @@
     {
         "id": 406,
         "title": "* Lempo *",
-        "price": 8.67,
+        "price": 8.68,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://assets-prd.ignimgs.com/2023/01/07/lempo-1673122353245.jpg",
@@ -6338,7 +6794,7 @@
     {
         "id": 408,
         "title": "* A Quiet Place - The Road Ahead *",
-        "price": 37.5,
+        "price": 37.6,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1308/370454545572b19855f64cee5ba39cf53ac1ae8cb818e04c.png",
@@ -6377,7 +6833,7 @@
     {
         "id": 411,
         "title": "* Sniper Elite 3 *",
-        "price": 25,
+        "price": 26.6,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e455095e-82fd-47f0-891f-3f95ce221850/d7pneu4-f7c73366-27a2-43c3-b7ab-f4c8f1790977.png/v1/fill/w_512,h_512/sniper_elite_3_icon_by_kikofakiko_d7pneu4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvZTQ1NTA5NWUtODJmZC00N2YwLTg5MWYtM2Y5NWNlMjIxODUwXC9kN3BuZXU0LWY3YzczMzY2LTI3YTItNDNjMy1iN2FiLWY0YzhmMTc5MDk3Ny5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.EyJ1EqWDTCgDSRY6O-yxKqtlwXTaGcoHJAhc0Nb7haM",
@@ -6611,7 +7067,7 @@
     {
         "id": 429,
         "title": "* Assassin's Creed Mirage *",
-        "price": 38,
+        "price": 38.3,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a98cff5d-a612-49d8-a0db-175994384b20/dfdhccp-8b24215c-2109-4207-b019-c3d636995fef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E5OGNmZjVkLWE2MTItNDlkOC1hMGRiLTE3NTk5NDM4NGIyMFwvZGZkaGNjcC04YjI0MjE1Yy0yMTA5LTQyMDctYjAxOS1jM2Q2MzY5OTVmZWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zGROBkYMySRyYn7ZNKEopj21MGmJWyAYKE1mXSY-o0w",
@@ -6650,7 +7106,7 @@
     {
         "id": 432,
         "title": "* Red Dead Redemption *",
-        "price": 12,
+        "price": 10,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://cdn2.steamgriddb.com/icon_thumb/9acf1b76f369030270de8f98f84d6707.png",
@@ -6781,7 +7237,7 @@
     {
         "id": 442,
         "title": "* Dragon Age: The Veilguard *",
-        "price": 90,
+        "price": 81,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4d746fa-7f3e-4dce-a950-9cba1ce026c5/dhkt6hl-be1020c6-7f74-4144-8a9b-1eddfdb4ffc8.png/v1/fill/w_512,h_512/dragon_age_4_the_veilguard___icone_by_sirmalgache_dhkt6hl-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvYjRkNzQ2ZmEtN2YzZS00ZGNlLWE5NTAtOWNiYTFjZTAyNmM1XC9kaGt0NmhsLWJlMTAyMGM2LTdmNzQtNDE0NC04YTliLTFlZGRmZGI0ZmZjOC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Bj1voBOt8q9Sy11-lqu82dT5EJDxV3Xev_XVp0tJ6eI",
@@ -9512,7 +9968,6 @@
 {
     "id": 642,
     "title": "* FIFA 21 *",
-    "coment": "",
     "price": 41.4,
     "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
     "category": "women's clothing",
@@ -9624,7 +10079,6 @@
 {
     "id": 649,
     "title": "* Dead Space - Remake *",
-    "coment": "",
     "price": 37.4,
     "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
     "category": "women's clothing",
@@ -9639,8 +10093,7 @@
 {
     "id": 650,
     "title": "* Football Life 26 *",
-    "coment": "",
-    "price": 115,
+    "price": 116,
     "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
     "category": "women's clothing",
     "homebace": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/11/18/381594764.jpg",
@@ -9649,7 +10102,7 @@
         "rate": 4.5,
         "count": 116
     }
-} 
+    }
 ,
 {
     "id": 652,
