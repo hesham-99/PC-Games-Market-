@@ -523,7 +523,7 @@
         "id": 29,
         "title": "* Battlefield 1 *",
         "price": 30.8,
-        "description": "",
+        "description": "Battlefield™ 1 takes you back to The Great War, WW1, where new technology and worldwide conflict changed the face of warfare forever.",
         "category": {
             "OpenSYSTEM": "64-bit Windows 7, 8.1, or 10",
             "Processor":"Intel Core i5-6600K or AMD FX-6350",
@@ -10080,8 +10080,13 @@
     "id": 649,
     "title": "* Dead Space - Remake *",
     "price": 37.4,
-    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-    "category": "women's clothing",
+    "description": "Isaac Clarke is an everyman engineer on a mission to repair a vast mining ship, the USG Ishimura, only to discover something has gone horribly wrong. The ship’s crew has been slaughtered and Isaac’s beloved partner, Nicole, is lost somewhere on board.",
+    "category": {
+            "OpenSYSTEM": "Window 10 / 11",
+            "Processor":"Ryzen 5 2600x, Core i5 8600",
+            "VideoCard":"AMD RX 5700, GTX 1070",
+            "MemoryRAM":"16 GB"
+        },
     "homebace": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2021/07/DEAD-SPACE-REMAKE.jpg",
     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dfndkc0-899bcaf1-7d88-4d79-b3ba-5302e27d5178.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82NzdhZjgwYS00ZjM3LTRhOGMtODIyOC0xZGM1N2EzMWNmNmYvZGZuZGtjMC04OTliY2FmMS03ZDg4LTRkNzktYjNiYS01MzAyZTI3ZDUxNzgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9gk8HeJYClT2jtUd0B_xyHTJIdl0Ch0DgqNdmkfEeGM",
     "rating": {
@@ -10094,7 +10099,7 @@
     "id": 650,
     "title": "* Football Life 26 *",
     "price": 116,
-    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "description": "",
     "category": "women's clothing",
     "homebace": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/11/18/381594764.jpg",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpqBD5CiXBHPHse1cCN8qDdE6B_rD9hvgC7A&s",
@@ -10109,10 +10114,99 @@
     "title": "* Fear The Timeloop *",
     "coment": "",
     "price": 19.3,
-    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "description": "",
     "category": "women's clothing",
     "homebace": "https://i0.wp.com/thesurvivalhorror.com/wp-content/uploads/2026/01/FTTL_Cover_2.webp?fit=800%2C450&ssl=1",
     "image": "https://assets-prd.ignimgs.com/2026/01/29/fearthetimeloop-1769702918532.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+    }
+    ,
+{
+    "id": 653,
+    "title": "* Northgard *",
+    "coment": "",
+    "price": 4.62,
+    "description": "",
+    "category": "women's clothing",
+    "homebace": "https://i0.wp.com/thesurvivalhorror.com/wp-content/uploads/2026/01/FTTL_Cover_2.webp?fit=800%2C450&ssl=1",
+    "image": "https://i.ibb.co/1fcyxNTh/6c096eda6cf330cfd1a0fce80d316cf1-removebg-preview.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+     }
+,
+{
+    "id": 654,
+    "title": "* Sonic Frontiers *",
+    "coment": "",
+    "price": 31.6,
+    "description": "Worlds are colliding in Sonic the Hedgehog’s newest high-speed adventure! In search of the missing Chaos emeralds, Sonic becomes stranded on an ancient island teeming with unusual creatures. Battle hordes of powerful enemies as you explore a breathtaking world of action, adventure, and mystery. Accelerate to new heights and experience the thrill of high-velocity, open-zone platforming freedom as you race across the five massive Starfall Islands. Jump into adventure, wield the power of the Ancients, and fight to stop these new mysterious foes",
+    "category": {
+            "OpenSYSTEM": "Windows 10 / 11",
+            "Processor":"Intel Core i5-3470 or AMD Ryzen 5 1400",
+            "VideoCard":"NVIDIA GeForce GTX 660, 2 GB or AMD Radeon HD 7870, 2 GB",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://i0.wp.com/thesurvivalhorror.com/wp-content/uploads/2026/01/FTTL_Cover_2.webp?fit=800%2C450&ssl=1",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfimi5b-4ec32196-aceb-407e-ac18-1a2237ef2454.png/v1/fill/w_512,h_506/sonic_frontiers_v2_icon_ico_by_hatemtiger_dfimi5b-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA2IiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kZmltaTViLTRlYzMyMTk2LWFjZWItNDA3ZS1hYzE4LTFhMjIzN2VmMjQ1NC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.bNE70bH2DLNhvMBkV7T4VVol9RfYWNXatj1ooeo8RNs",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    } 
+     }
+,
+{
+    "id": 655,
+    "title": "* Anno 1800*",
+    "coment": "",
+    "price": 92.1,
+    "description": "Anno 1800™ – Lead the Industrial Revolution! Welcome to the dawn of the Industrial Age. The path you choose will define your world. Are you an innovator or an exploiter? A conqueror or a liberator? How the world remembers your name is up to you",
+    "category": {
+            "OpenSYSTEM": "Windows 10(64-bit versions only)",
+            "Processor":" Intel i5 3470, AMD FX 6350",
+            "VideoCard":"NVIDIA GeForce 670 GTX or AMD Radeon R9 285 (2 GB of VRAM, Shader Model 5.0)",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://cdn1.epicgames.com/offer/oregano/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b_1920x1080-cea85f12443da424bef2a30a20be060b",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/557703a2-f0df-4e9e-8006-f1a8a0666122/ddsj5le-92c419d3-6bd6-446c-b4eb-fffb2da109a8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NTc3MDNhMi1mMGRmLTRlOWUtODAwNi1mMWE4YTA2NjYxMjIvZGRzajVsZS05MmM0MTlkMy02YmQ2LTQ0NmMtYjRlYi1mZmZiMmRhMTA5YTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O56oUTj0FJXQKTTW6GBTXtlN1tAbhsIWLvkJCbPMKmo",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+    }
+    ,
+{
+    "id": 656,
+    "title": "* Sonic Colors - Ultimate *",
+    "coment": "",
+    "price": 22.4,
+    "description": "",
+    "category": "women's clothing",
+    "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjT62G4sw9XX8T6_JNJJWmpAmuByrTWju7Ug&s",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfn4y38-ba1f1bcb-dcff-45d9-a87d-febf8f5de3dd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZuNHkzOC1iYTFmMWJjYi1kY2ZmLTQ1ZDktYTg3ZC1mZWJmOGY1ZGUzZGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.I63yBWs95EdyZcKVZQ8IBkk5hPQ2EfXV-LoI5SZVMFM",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+} ,
+{
+    "id": 657,
+    "title": "* Cities - Skylines II *",
+    "coment": "",
+    "price": 4.62,
+    "description": "Raise a city from the ground up and transform it into a thriving metropolis with the most realistic city builder ever. Push your creativity and problem-solving to build on a scale you’ve never experienced. With deep simulation and a living economy, this is world-building without limits.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 Home 64 Bit",
+            "Processor":"Intel® Core™ i7-6700K | AMD® Ryzen™ 5 2600X",
+            "VideoCard":"Nvidia® GeForce™ GTX 970 (4 GB) | AMD® Radeon™ RX 480 (8 GB)",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://gameluster.com/wp-content/uploads/2023/03/Cities-Skylines-II-key-art.png",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b3b0acac-e503-41ef-872d-97713b6f87c5/dg759jt-8346fdfb-0e14-49fc-aca9-a68c54f51006.png",
     "rating": {
         "rate": 4.5,
         "count": 116
@@ -10121,16 +10215,42 @@
 ,
 {
     "id": 653,
-    "title": "* Anno 1800*",
+    "title": "* DIRT 5 *",
     "coment": "",
-    "price": 92.1,
-    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-    "category": "women's clothing",
-    "homebace": "https://cdn1.epicgames.com/offer/oregano/ANNO_Store_Landscape_1920x1080_1920x1080-cea85f12443da424bef2a30a20be060b_1920x1080-cea85f12443da424bef2a30a20be060b",
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/557703a2-f0df-4e9e-8006-f1a8a0666122/ddsj5le-92c419d3-6bd6-446c-b4eb-fffb2da109a8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NTc3MDNhMi1mMGRmLTRlOWUtODAwNi1mMWE4YTA2NjYxMjIvZGRzajVsZS05MmM0MTlkMy02YmQ2LTQ0NmMtYjRlYi1mZmZiMmRhMTA5YTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O56oUTj0FJXQKTTW6GBTXtlN1tAbhsIWLvkJCbPMKmo",
+    "price": 38.9,
+    "description": "DIRT 5 is a fun, amplified, off-road arcade racing experience created by Codemasters. Blaze a trail on routes across the world, covering gravel, ice, snow and sand, with a roster of cars ranging from rally icons to trucks, to GT heroes. With a star-studded Career, four-player split-screen, innovative online modes, livery editor and more new features, DIRT 5 is the next generation of extreme racing.",
+    "category": {
+            "OpenSYSTEM": "Windows 10 ",
+            "Processor":"AMD FX 4300 / Intel Core i3 2130",
+            "VideoCard":"AMD RX 480 / NVIDIA GTX 970, DirectX 12",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ85rP_INJoPXjKeoKHawuHQ5JAfcIje3Tr7A&s",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfq2ua3-dae5465a-d40e-460b-91ed-5d48bd26466e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZxMnVhMy1kYWU1NDY1YS1kNDBlLTQ2MGItOTFlZC01ZDQ4YmQyNjQ2NmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3A-Az2yrKHiyiFWOLPFSvx3ud5c0JIt67RKuIQC7hRE",
     "rating": {
         "rate": 4.5,
         "count": 116
     }
+} 
+,
+{
+    "id": 653,
+    "title": "* Nioh 3*",
+    "coment": "",
+    "price": 113,
+    "description": "In the third game in the dark samurai action RPG series Nioh, you will need to use both Samurai and Ninja combat styles in your battles against formidable yokai as you explore a thrilling open field",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-10400, AMD Ryzen 5 2600",
+            "VideoCard":"NVIDIA GeForce GTX 1060 VRAM 6GB, AMD Radeon RX 5600 XT (Rev. 2.0) VRAM 6GB",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-8QSBesOUIjELpBu-H_kIyP56nSoB0yeUQ&s",
+    "image": "https://i.ibb.co/4Z4zj3Sx/images-removebg-preview-1.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
 } 
 ]
