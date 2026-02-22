@@ -10278,9 +10278,9 @@
 {
     "id": 671,
     "title": "* REANIMAL*",
-    "coment": "The creators of Little Nightmares™ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home",
+    "coment": "",
     "price": 14.4,
-    "description": "In the third game in the dark samurai action RPG series Nioh, you will need to use both Samurai and Ninja combat styles in your battles against formidable yokai as you explore a thrilling open field",
+    "description": "The creators of Little Nightmares™ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home",
     "category": {
             "OpenSYSTEM": "Windows® 10 / 11",
             "Processor":"Ryzen 5 2400G / Core i5-9400F",
@@ -10289,6 +10289,27 @@
         },
     "homebace": "https://images.gog-statics.com/ea4309ea1aa5c84cbe43b51408cf1916f96e6fe23fca6d9f08151f85607cfaad.jpg",
     "image": "https://images.gog-statics.com/661c0bcf2de769321773d65b4441b0217a3525b047d93b7d51f5b5c25d2d4de3.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 672,
+    "title": "* High On Life 2*",
+    "coment": "The creators of Little Nightmares™ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home",
+    "price": 87.2,
+    "description": "An intergalactic conspiracy threatens the fate of humanity! Team up with a wide cast of talking alien guns as you shoot, stab, and skate your way through the exotic locales to take down the bad guys and save your favorite species (humans)!",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i7-8700K / AMD Ryzen 5 1600X",
+            "VideoCard":"NVIDIA GeForce GTX 1060 6 GB / AMD Radeon RX 5600 XT 6 GB ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/Screenshot-2025-06-08-at-1.29.29%E2%80%AFPM.png?w=1600&h=900&fit=crop",
+    "image": "https://cdn1.epicgames.com/spt-assets/fddca3dd6a7b48ae85ccef9fa68a76df/high-on-life-2-1ulnb.jpg",
     "rating": {
         "rate": 4.5,
         "count": 116
