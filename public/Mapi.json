@@ -10108,6 +10108,27 @@
         "count": 116
     }
     }
+    ,
+{
+    "id": 670,
+    "title": "* Pro Evolution Soccer 2016*",
+    "coment": "",
+    "price": 8.36,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows 8.1 / 8 / 7",
+            "Processor":"Intel Core 2 Duo @ 1.8 GHz / AMD Athlon II X2 240 or equivalent",
+            "VideoCard":"NVIDIA GeForce 7800 / ATI Radeon X1300 / Intel HD Graphics 2000 or better",
+            "MemoryRAM":"1 GB"
+        },
+    "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-8QSBesOUIjELpBu-H_kIyP56nSoB0yeUQ&s",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8939caba-2c60-4aeb-bb20-d61b0458b178/d9a7bsm-2dca3940-42f3-44b5-aa2d-b72d9006fb83.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
 ,
 {
     "id": 652,
@@ -10214,7 +10235,7 @@
 } 
 ,
 {
-    "id": 653,
+    "id": 658,
     "title": "* DIRT 5 *",
     "coment": "",
     "price": 38.9,
@@ -10234,7 +10255,7 @@
 } 
 ,
 {
-    "id": 653,
+    "id": 659,
     "title": "* Nioh 3*",
     "coment": "",
     "price": 113,
@@ -10247,6 +10268,27 @@
         },
     "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd-8QSBesOUIjELpBu-H_kIyP56nSoB0yeUQ&s",
     "image": "https://cdn2.steamgriddb.com/icon_thumb/8ccdf4b1001867a8dea29e70a7abc3e6.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 671,
+    "title": "* REANIMAL*",
+    "coment": "The creators of Little Nightmares™ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home",
+    "price": 14.4,
+    "description": "In the third game in the dark samurai action RPG series Nioh, you will need to use both Samurai and Ninja combat styles in your battles against formidable yokai as you explore a thrilling open field",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Ryzen 5 2400G / Core i5-9400F",
+            "VideoCard":"GeForce GTX 1060 / Radeon RX 480",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://images.gog-statics.com/ea4309ea1aa5c84cbe43b51408cf1916f96e6fe23fca6d9f08151f85607cfaad.jpg",
+    "image": "https://images.gog-statics.com/661c0bcf2de769321773d65b4441b0217a3525b047d93b7d51f5b5c25d2d4de3.jpg",
     "rating": {
         "rate": 4.5,
         "count": 116
