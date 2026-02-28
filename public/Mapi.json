@@ -10299,7 +10299,7 @@
 {
     "id": 672,
     "title": "* High On Life 2*",
-    "coment": "The creators of Little Nightmares™ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home",
+    "coment": "",
     "price": 87.2,
     "description": "An intergalactic conspiracy threatens the fate of humanity! Team up with a wide cast of talking alien guns as you shoot, stab, and skate your way through the exotic locales to take down the bad guys and save your favorite species (humans)!",
     "category": {
@@ -10310,6 +10310,27 @@
         },
     "homebace": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/Screenshot-2025-06-08-at-1.29.29%E2%80%AFPM.png?w=1600&h=900&fit=crop",
     "image": "https://cdn1.epicgames.com/spt-assets/fddca3dd6a7b48ae85ccef9fa68a76df/high-on-life-2-1ulnb.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 673,
+    "title": "* Styx - Blades of Greed*",
+    "coment": "",
+    "price": 23.4,
+    "description": "The master of stealth is back! Explore the dizzying heights of the Iserian Continent and cunningly eliminate your enemies. Thanks to your Quartz powers, you are freer than ever. Be creative: Never has it felt so good to be greedy",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i7-8700K / AMD Ryzen 5 1600X",
+            "VideoCard":"NVIDIA GeForce GTX 1060, 6 GB or AMD Radeon RX 590, 8 GB  ",
+            "MemoryRAM":"12 GB"
+        },
+    "homebace": "https://cdn1.epicgames.com/spt-assets/e2ff983e56ab4a5b978a203bc4cf76c2/styx-blades-of-greed-ukmm9.jpg",
+    "image": "https://cdn1.epicgames.com/spt-assets/e2ff983e56ab4a5b978a203bc4cf76c2/styx-blades-of-greed-9ff43.jpg",
     "rating": {
         "rate": 4.5,
         "count": 116
