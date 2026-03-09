@@ -6823,7 +6823,7 @@
         "price": 67.9,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
-        "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3008670/ss_086db356e31871294fd6d6d4fec75ba4598342cd.1920x1080.jpg?t=1738434588",
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfz8rc0-db413c4d-61a1-4769-be61-6534feb00567.png/v1/fill/w_512,h_512/poppy_playtime_icon_by_hatemtiger_dfz8rc0-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kZno4cmMwLWRiNDEzYzRkLTYxYTEtNDc2OS1iZTYxLTY1MzRmZWIwMDU2Ny5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-lC7Ir146NfRCWDB3_Lrx-C089mUNRxJShYdlQTGhQI",
         "rating": {
             "rate": 4.5,
             "count": 146
@@ -7067,7 +7067,7 @@
     {
         "id": 429,
         "title": "* Assassin's Creed Mirage *",
-        "price": 38.3,
+        "price": 62.1,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a98cff5d-a612-49d8-a0db-175994384b20/dfdhccp-8b24215c-2109-4207-b019-c3d636995fef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E5OGNmZjVkLWE2MTItNDlkOC1hMGRiLTE3NTk5NDM4NGIyMFwvZGZkaGNjcC04YjI0MjE1Yy0yMTA5LTQyMDctYjAxOS1jM2Q2MzY5OTVmZWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zGROBkYMySRyYn7ZNKEopj21MGmJWyAYKE1mXSY-o0w",
@@ -10331,6 +10331,27 @@
         },
     "homebace": "https://cdn1.epicgames.com/spt-assets/e2ff983e56ab4a5b978a203bc4cf76c2/styx-blades-of-greed-ukmm9.jpg",
     "image": "https://cdn1.epicgames.com/spt-assets/e2ff983e56ab4a5b978a203bc4cf76c2/styx-blades-of-greed-9ff43.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 674,
+    "title": "* Pathologic 3*",
+    "coment": "",
+    "price": 41.6,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i7-8700K / AMD Ryzen 5 1600X",
+            "VideoCard":"NVIDIA GeForce GTX 1060, 6 GB or AMD Radeon RX 590, 8 GB  ",
+            "MemoryRAM":"12 GB"
+        },
+    "homebace": "https://cdn2.steamgriddb.com/grid/60b48fc41714190a8d1b7d5dbf04d0dd.png",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dl9de15-04a7b4fd-37d5-42fe-8985-198019be115f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGw5ZGUxNS0wNGE3YjRmZC0zN2Q1LTQyZmUtODk4NS0xOTgwMTliZTExNWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zz5PXNdKkd0X-ORNnhmqWgu5HzU5f3rAp0chPthgdts",
     "rating": {
         "rate": 4.5,
         "count": 116
