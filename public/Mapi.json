@@ -10358,4 +10358,46 @@
     }
 
 } 
+,
+{
+    "id": 676,
+    "title": "* Half Life Alyx*",
+    "coment": "",
+    "price": 67.9,
+    "description": "Playing as Alyx Vance, you are humanity’s only chance for survival. The Combine’s control of the planet since the Black Mesa incident has only strengthened as they corral the remaining population in cities. Among them are some of Earth’s greatest scientists: you and your father, Dr. Eli Vance.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Core i5-7500 / Ryzen 5 1600",
+            "VideoCard":"GTX 1060 / RX 580 – 6GB VRAM  ",
+            "MemoryRAM":"12 GB"
+        },
+    "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl6PpiLwmzVjxnL36BQH85RXJ-zcDC2G3nBQ&s",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-03-dec-2024-10-36-pm-2145.jpg?q=50&fit=contain&w=480&dpr=1.5",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 677,
+    "title": "* GreedFall - The Dying World*",
+    "coment": "",
+    "price": 64.1,
+    "description": "Return to the GreedFall universe in a thrilling new adventure, where every choice has consequences. Ripped away from your island, you will travel across the war-torn, disease-ravaged Old Continent, forging alliances, and fighting to regain your freedom!",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i7-4790 or AMD Ryzen 5 1500X",
+            "VideoCard":"NVIDIA GeForce GTX 1060, 6GB or AMD Radeon RX 5500 XT, 8GB  ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://media.nacongaming.com/media/wysiwyg/home/2026/GreedFall/Greedfall2_Landscape_2.webp",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcadbK4NNrGrqv8V6Qya5eGBZLlUHzuKawQ&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
 ]
