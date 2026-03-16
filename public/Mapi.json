@@ -10400,4 +10400,25 @@
     }
 
 } 
+,
+{
+    "id": 678,
+    "title": "* DOOM - The Dark Ages*",
+    "coment": "",
+    "price": 82.7,
+    "description": "DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and DOOM Eternal that tells an epic cinematic story worthy of the DOOM Slayer’s legend. Players will step into the blood-stained boots of the DOOM Slayer, in this never-before-seen dark and sinister medieval war against Hell",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"AMD Zen 2 or Intel 10th Generation CPU @3.2Ghz with 8 cores / 16 threads or better (examples: AMD Ryzen 7 3700X or better, or Intel Core i7 10700K or better)",
+            "VideoCard":"NVIDIA or AMD hardware Raytracing-capable GPU with 8GB dedicated VRAM  ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/djp1xwc-75c646dd-da23-4dde-a4da-78d65cd417b9.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
 ]
