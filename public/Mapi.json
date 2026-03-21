@@ -10403,22 +10403,904 @@
 ,
 {
     "id": 678,
-    "title": "* DOOM - The Dark Ages*",
+    "title": "* DOOM Eternal*",
     "coment": "",
-    "price": 82.7,
-    "description": "DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and DOOM Eternal that tells an epic cinematic story worthy of the DOOM Slayer’s legend. Players will step into the blood-stained boots of the DOOM Slayer, in this never-before-seen dark and sinister medieval war against Hell",
+    "price": 90,
+    "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear… is you.",
     "category": {
-            "OpenSYSTEM": "Windows® 10 / 11",
-            "Processor":"AMD Zen 2 or Intel 10th Generation CPU @3.2Ghz with 8 cores / 16 threads or better (examples: AMD Ryzen 7 3700X or better, or Intel Core i7 10700K or better)",
-            "VideoCard":"NVIDIA or AMD hardware Raytracing-capable GPU with 8GB dedicated VRAM  ",
-            "MemoryRAM":"16 GB"
+            "OpenSYSTEM": "64-bit Windows 7 / 64-Bit Windows 10 / 64-Bit Windows 11",
+            "Processor":"Intel Core i5 @ 3.3 GHz or better, or AMD Ryzen 3 @ 3.1 GHz or better",
+            "VideoCard":"NVIDIA GeForce GTX 1050Ti (4GB), GTX 1060 (3GB), GTX 1650 (4GB) or AMD Radeon R9 280(3GB), AMD Radeon R9 290 (4GB), RX 470 (4GB)  ",
+            "MemoryRAM":"8 GB"
         },
     "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/djp1xwc-75c646dd-da23-4dde-a4da-78d65cd417b9.png",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/ddb5rqk-ae5f4f74-fd27-40d3-a1db-bbcbb14cf739.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGRiNXJxay1hZTVmNGY3NC1mZDI3LTQwZDMtYTFkYi1iYmNiYjE0Y2Y3MzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Fl9kqp8mHgO2qZTX-50t4Uzhxn3g0cMM9QZglTbpI9E",
     "rating": {
         "rate": 4.5,
         "count": 116
     }
 
 } 
+,
+{
+    "id": 679,
+    "title": "* A.I.L.A*",
+    "coment": "",
+    "price": 20.4,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "WINDOWS® 10 (64-BIT Required)",
+            "Processor":"Intel Core i5-10600K or AMD Ryzen 5 2600",
+            "VideoCard":"NVIDIA GeForce GTX 1660 Ti 6GB or AMD Radeon RX Vega 64 8GB ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qv6.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 680,
+    "title": "* Atelier Yumia*",
+    "coment": "",
+    "price": 22.6,
+    "description": "“Atelier Yumia” is a story about “memory”. Explore the field to gather materials and synthesis items. The items you create can be key to advancing the story and can also be used in battles and exploration. Additionally, you can create your own base with “Building” in the field.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10, Windows® 11 64bit",
+            "Processor":"Intel Core i3 8100 以上, AMD Ryzen 3 3200G",
+            "VideoCard":"NVIDIA GeForce GTX 1650 , AMD Radeon RX 570 , VRAM 4GB  ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/djeqdlj-8b65ebda-dfa9-4158-9f98-0f91c57ac74c.png/v1/fill/w_512,h_512/atelier_yumiag_icon__by_hatemtiger_djeqdlj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kamVxZGxqLThiNjVlYmRhLWRmYTktNDE1OC05Zjk4LTBmOTFjNTdhYzc0Yy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.WJL01M1DgUilbnsmC3eH7WnhOKV-P682R3Extzf5KBc",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 681,
+    "title": "* Blood of Mehran*",
+    "coment": "",
+    "price": 34.6,
+    "description": "Blood of Mehran tells a story of love, loss and loyalty, drawn from “Arabian Nights” folk tales .The legendary warrior Mehran sets down his sword in search of peace – but his restful existence is set ablaze by the cruel ambitions of others, leaving him no choice but to take up his blade once more.",
+    "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":"Intel Core i5 6600/AMD Ryzen 5 3400G",
+            "VideoCard":"Nvidia GeForce GTX 780 Ti (3 GB)/AMD Radeon R9 290 (4 GB) ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://store-images.s-microsoft.com/image/apps.45153.14102864112812738.c67241fa-8757-4cb9-930d-4efa0dba9194.0f324cce-c38b-4a65-82e4-eb76dd7e5161",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 683,
+    "title": "* Bloodface*",
+    "coment": "",
+    "price": 14.4,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-7400 / AMD Ryzen 3 3300X",
+            "VideoCard":"NVIDIA GeForce GTX 1080 Ti / AMD Radeon RX 5700 XT. ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://steamunlocked.com.br/wp-content/uploads/2025/11/Bloodface.webp",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 684,
+    "title": "* BLOODKILL - Goreblast Overkill*",
+    "coment": "",
+    "price": 9.39,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"4 cores / 8 threads",
+            "VideoCard":"GTX 1060 / RX 5600 XT / 6GB VRAM  ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4AreG7E9cfmundzruSnhYQIH9lDk3hCrjwA&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 685,
+    "title": "* Bounty Star*",
+    "coment": "",
+    "price": 5.19,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-3470 or AMD Ryzen 3 1200",
+            "VideoCard":"NVIDIA GeForce GTX 1650, 4GB  ",
+            "MemoryRAM":"12 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://cdn1.epicgames.com/spt-assets/9490a6eed8584a7eb30f28f999a40d31/bounty-star-i7otl.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 686,
+    "title": "* Burkina Faso - Radical Insurgency*",
+    "coment": "",
+    "price": 33.8,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Processor: Intel i7 8700",
+            "VideoCard":"NVIDIA GTX 1060 6GB / AMD RX 6600 8GB ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNhGuMKUhNPrw2h9o5bsEu32iYJuiJx5TYw&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 687,
+    "title": "* City of Springs*",
+    "coment": "",
+    "price": 7.40,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"AIntel® Core™ i5, AMD Ryzen™ 5 5600X or better",
+            "VideoCard":"NVIDIA® GeForce® GTX 3060 4 GB VRAM, AMD Radeon™ RX 6700 XT 4 GB Vram or better ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://www.dutchgamesindustry.nl/images/uploaded/game-city-of-springs.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 688,
+    "title": "* Contraband Police*",
+    "coment": "",
+    "price": 12,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows 10 (64-bit versions only)",
+            "Processor":"AIntel Core i5-6600 @ 3.3 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalent",
+            "VideoCard":"NVIDIA GeForce GTX 1050 or AMD RX 560 (3GB VRAM with Shader Model 5.0 or better) ",
+            "MemoryRAM":"12 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfrsynu-1fe2e179-e009-429f-b66a-e62e76252489.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZyc3ludS0xZmUyZTE3OS1lMDA5LTQyOWYtYjY2YS1lNjJlNzYyNTI0ODkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SEg-5lXGfPsbpiNi0TjMk8AoEgePqoiyrU2yRR7JQPE",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 689,
+    "title": "* Crisol - Theater of Idols*",
+    "coment": "",
+    "price": 15.7,
+    "description": "Crisol is a survival horror adventure set in a twisted version of Spain. As a soldier captured by religious dogmatism, you must use your own blood as ammunition, without draining to the point of death. Explore the cursed island of Tormentosa, uncover dark secrets, and battle horrifying enemies.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i7-8700K | AMD Ryzen 5 3600X",
+            "VideoCard":"NVIDIA® GeForce® RTX 2060 or AMD Radeon™ RX 6600 ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5jdIBWv1NBY3bIN9FDSMBeEDQbHxQErM4Q&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 690,
+    "title": "* Daemon X Machina - Titanic Scion*",
+    "coment": "",
+    "price": 44.8,
+    "description": "Become the ultimate high-tech warrior in an action-packed new entry in the Daemon X Machina series. Fly into battle in your customized Arsenal, unleashing a variety of attacks tailored to your playstyle. Feel the exhilaration of fast-paced combat as you freely explore a deadly and dangerous open world on land or in the air. After taking down your foes, collect their weapons and equipment, and upgrade your skills to expand your options on the battlefield. ",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-10400",
+            "VideoCard":"NVIDIA GeForce GTX 1050 ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dkixilh-40c6fbdf-dcf5-4825-bfee-0a518aaf042d.png/v1/fit/w_414,h_414/daemon_x_machina_titanic_scion_ico_by_nc831_by_darknc831_dkixilh-414w.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 691,
+    "title": "* Driving Life*",
+    "coment": "",
+    "price": 21.1,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i7-6700k or AMD Ryzen 3 1200X",
+            "VideoCard":"Nvidia GTX 1060 6GB or equivalent ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://www.freegamesdl.net/wp-content/uploads/2025/11/Driving-Life-s.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 692,
+    "title": "* Drop Dead - The Cabin*",
+    "coment": "",
+    "price": 7.92,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"AAMD Ryzen 5 2600X (Or similar)",
+            "VideoCard":"NVIDIA 1070 GTX  ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://assets-prd.ignimgs.com/2023/02/18/thecabin-1676684286703.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 693,
+    "title": "* Halo Wars 2*",
+    "coment": "",
+    "price": 47,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"  Intel i5-2500, AMD FX-4350 ",
+            "VideoCard":"nVidia GeForce GTX 650 Ti, AMD Radeon HD 7750  ",
+            "MemoryRAM":"6 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/657be565-f4b2-4e47-841f-1b0711b0205b/davrufb-52cbfaa3-48c2-407a-9294-4b0231de314d.png/v1/crop/w_125,h_125,x_0,y_0,scl_0.244140625/halo_wars_2___dock_icon_by_goldenarrow253_davrufb-125s.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzY1N2JlNTY1LWY0YjItNGU0Ny04NDFmLTFiMDcxMWIwMjA1Yi9kYXZydWZiLTUyY2JmYWEzLTQ4YzItNDA3YS05Mjk0LTRiMDIzMWRlMzE0ZC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.lUJ5p7Lb88eOtZ_nIGtPg3E9kJcRoKhWWooYVaxPUS8",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 694,
+    "title": "* Second Sun*",
+    "coment": "",
+    "price": 14,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Core i5-4570 or AMD equivalent",
+            "VideoCard":"Nvidia GTX 1060 or AMD Radeon RX 570 equivalent DX11 GPU ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://assets-prd.ignimgs.com/2024/05/16/second-sun-button-1715865799457.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 695,
+    "title": "* Skate Story*",
+    "coment": "",
+    "price": 11,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i7-6700 / AMD Ryzen 5 1600",
+            "VideoCard":"GeForce GTX 1050 Ti / Radeon RX 570  ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/1915/1f1b60a5a79b1076b4249123cf75feee2fdf8e4df1726e84.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 696,
+    "title": "* SLEEP AWAKE*",
+    "coment": "",
+    "price": 46.1,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"AMD Zen 2 or Intel 4th Gen I7 CPU @3.5Ghz with 4 cores / 8 threads or better ",
+            "VideoCard":"NVIDIA or AMD GPU with 6GB VRAM  ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8vGXnmiz2QqAcMFOcxYCCHnq021Y6JIHgA&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 697,
+    "title": "* Slyders*",
+    "coment": "",
+    "price": 4.67,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"ntel Core i5-6400 / AMD FX-8320",
+            "VideoCard":"GTX 960 / R9 280  ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAvEfPfmeDJbuCaAOuOa0Hb_dXoZsXa0F4A&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 698,
+    "title": "* Smalland - Survive the Wilds*",
+    "coment": "",
+    "price": 22.8,
+    "description": "Experience a big adventure on a tiny scale! Enjoy multiplayer survival in a vast, hazardous world. Preparation is key when you’re this small & at the bottom of the food chain. Craft weapons & armour, tame & ride creatures, build encampments & explore a strange new land.",
+    "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":"Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz or equivalent",
+            "VideoCard":"NVIDIA GeForce GTX 1650 or equivalent ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAr2jlXQQqFhged58RcJBSphdMU9Rae1KQUQ&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 699,
+    "title": "* Soulmask*",
+    "coment": "",
+    "price": 10.5,
+    "description": "Escaping a deadly sacrificial ritual, you find an ancient mystical mask on your journey. This mask holds potent knowledge, changing the world you knew. Face the harsh challenges of nature, survive, rally followers, and build your own tribe. Explore and unveil the truths behind the enigmatic mask",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"AIntel Core i5-8400 / AMD Ryzen 3 3300X",
+            "VideoCard":"GTX 970 4GB / AMD RX 580 4GB ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvMXKqC8TeShxnf6TsIJKAFNmqXvRzPQ64g&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 700,
+    "title": "* SpaceBourne 2*",
+    "coment": "",
+    "price": 13,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"ntel Core i5-2500K@2.9GHz or AMD FX 6300@2.9GHz.",
+            "VideoCard":"Nvidia GeForce GTX 780 (3 GB) or AMD Radeon R9 290 (4GB) ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://cdn2.steamgriddb.com/grid/25b081a708bc6374c1e0bc47a1fd36e2.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 701,
+    "title": "* SpongeBob SquarePants - Titans of the Tide*",
+    "coment": "",
+    "price": 9.85,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Ryzen 3 1300X / Core i5-3570k",
+            "VideoCard":" GeForce GTX 1050 Ti / Radeon RX 470 ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7277e65a-3b0f-4fe5-ad8b-bf1f716acd21/dkb503o-c3c1ca28-ae80-4beb-83a1-0eac2ed7f9a1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83Mjc3ZTY1YS0zYjBmLTRmZTUtYWQ4Yi1iZjFmNzE2YWNkMjEvZGtiNTAzby1jM2MxY2EyOC1hZTgwLTRiZWItODNhMS0wZWFjMmVkN2Y5YTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OOL2IUKJtvdFzchnGHQELJjvOm9mzWKk9uUOOp9f-xk",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 702,
+    "title": "* StarRupture*",
+    "coment": "",
+    "price": 40.8,
+    "description": "StarRupture is a first-person open world base-building game with advanced combat and tons of exploration. Play alone or in a group on this sublime and ever-changing planet, extract and manage resources, create your complex industrial system and fight off hordes of alien monsters.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-8400 / AMD Ryzen 5 2600",
+            "VideoCard":"NVIDIA GeForce GTX 1060 (6 GB VRAM) / AMD Radeon RX 580 (8 GB VRAM)  ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE2YuxEOPWtF_kIPRQ_o1lC4Av95kgePIJQQ&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 703,
+    "title": "* Tales Beyond The Tomb - Route 86*",
+    "coment": "",
+    "price": 6.40,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-8400 / AMD Ryzen 5 2600",
+            "VideoCard":"NNVIDIA® GeForce® GTX 1070 Ti or AMD Radeon™ RX 5700 ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coabi3.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 704,
+    "title": "* The 9th Charnel*",
+    "coment": "",
+    "price": 18.5,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"AIntel Core i5-8400 or AMD Equivalent",
+            "VideoCard":"NVIDIA GeForce GTX 1070 / AMD Radeon RX Vega 56. ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvlSNBn-HluNFg1quQ2eAJ8SnV8oH8Q6amFQ&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 705,
+    "title": "* The Butcher's Village*",
+    "coment": "",
+    "price": 16.8,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-9400 / AMD Ryzen 5 3500",
+            "VideoCard":"NVIDIA GTX 1660 SUPER / AMD Radeon RX 590 ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnnc9j-CkXqSBrWTpccx-Ix0pDb_UGltckhQ&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 706,
+    "title": "* The House of Tesla*",
+    "coment": "",
+    "price": 7.45,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5",
+            "VideoCard":"Nvidia GeForce GTX 970 ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yJt__5O1EY-QyDOU4HZ5PerOkaI1y028bg&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} ,
+{
+    "id": 707,
+    "title": "* The Last Case of John Morley*",
+    "coment": "",
+    "price": 5.75,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i7 / AMD Ryzen 7",
+            "VideoCard":"NGTX 1070 4GB / Radeon RX 5700-XT ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nU4l_hcYPTqOhnKRtLDI7-w0O88QIAHdGA&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 708,
+    "title": "* The LotR - Return to Moria*",
+    "coment": "",
+    "price": 82.7,
+    "description": "The Lord of the Rings: Return to Moria follows the Dwarves as they embark on a new adventure to reclaim their legendary home of Moria beneath the Misty Mountains. Players will join forces to survive, craft, build and explore the iconic, sprawling mines. Courageous expeditioners will need to be vigilant as mysterious dangers await",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5",
+            "VideoCard":"NVIDIA GeForce GTX 1060, DirectX 12 ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dgxod0b-4c481a44-4090-4453-b1f2-9a471571cf23.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGd4b2QwYi00YzQ4MWE0NC00MDkwLTQ0NTMtYjFmMi05YTQ3MTU3MWNmMjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VDqnXfOX937FDHQQ2kvOp1ENKchuR8Q8RDjD_mMRAA4",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 709,
+    "title": "* THIEF'S SHELTER*",
+    "coment": "",
+    "price": 7.77,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"AMD Ryzen™ 5 2500X or equivalent",
+            "VideoCard":"NVIDIA GeForce® GTX 1050 Ti or equivalent ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://assets-prd.ignimgs.com/2025/05/08/thiefs-shelter-button-1746711152731.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 710,
+    "title": "* Tokyo Xtreme Racer*",
+    "coment": "",
+    "price": 9.76,
+    "description": "“Tokyo Xtreme Racer” is a racing game set in a sealed-off future Tokyo, where you compete for the fastest speed in your customized cars on the highways that weave through the city, aiming to reach the top.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel® Core™ i7-7700 or Intel Core i5-8400 or AMD Ryzen™ 5 1600X or AMD Ryzen™ 7 1700",
+            "VideoCard":"NVIDIA® GeForce® GTX 1050 Ti(VRAM 4GB) or AMD Radeon™ RX 580 ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef02abe3-63cc-4dfa-8eab-5543cf3bcf4f/dj2txlz-81fb38ab-8b54-4f66-85b8-46dcba12c5da.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lZjAyYWJlMy02M2NjLTRkZmEtOGVhYi01NTQzY2YzYmNmNGYvZGoydHhsei04MWZiMzhhYi04YjU0LTRmNjYtODViOC00NmRjYmExMmM1ZGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fuXZqUQ-8Z9JsBmuumd4cvy93E2c4vyhPUZo-hBaWuU",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 711,
+    "title": "* Total Chaos*",
+    "coment": "",
+    "price": 21.1,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" CPU with 3+ GHz, 8 cores",
+            "VideoCard":"GeForce RTX 3050 or Radeon RX 6500 XT  ",
+            "MemoryRAM":"32 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyc-6QqtbZZMzYe3CeJZ6IWTlKD2qz9ltTGQ&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 712,
+    "title": "* Trailmakers*",
+    "coment": "",
+    "price": 7.50,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"i5-4440 (3.1 GHz quad-core)",
+            "VideoCard":"NVIDIA GTX 660 ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://cdn2.steamgriddb.com/thumb/4fec0219ffabe5bfbf68b34fe39fd4de.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 713,
+    "title": "* Voidtrain*",
+    "coment": "",
+    "price": 42.4,
+    "description": "Become a crew member of an Interdimensional Express Train! Discover a new world full of mysterious creatures, enemies and places. Upgrade and customize your train, gather new materials and build better weapons. Play solo or online сo-op with up to 4 people.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz or equivalent",
+            "VideoCard":"NVIDIA GeForce GTX 670 or analogue with 2GB VRAM ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfwkckl-bd52d2c2-c01b-4710-8ccf-ce5f1c274cc7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZ3a2NrbC1iZDUyZDJjMi1jMDFiLTQ3MTAtOGNjZi1jZTVmMWMyNzRjYzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oCu-c2qfoic1vvY-HqGinnBEssey7XgsVk4CwgSp87g",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+
+,
+{
+    "id": 714,
+    "title": "* Westwood Shadows*",
+    "coment": "",
+    "price": 20,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-4430 / AMD FX-6300",
+            "VideoCard":"NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIHzd0vIZEIbiT-gBWHevEusCudp-U5mH7sQ&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} ,
+{
+    "id": 715,
+    "title": "* Winter Survival*",
+    "coment": "",
+    "price": 11.1,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"AMD Ryzen 5 1600X / Intel Core i5-7600K",
+            "VideoCard":"AMD Radeon RX 580 8GB / NVIDIA GeForce GTX 1060 6GB ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIHzd0vIZEIbiT-gBWHevEusCudp-U5mH7sQ&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 716,
+    "title": "* Worshippers of Cthulhu*",
+    "coment": "",
+    "price": 10,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel i5-4460 z 3,2 GHz lub AMD Ryzen 3 1200 z 3,1 GHz",
+            "VideoCard":"NVIDIA GTX 670 z 2 GB VRAM lub AMD Radeon R9 270X z 2 GB VRAM. ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://gaming-cdn.com/images/products/17873/orig/worshippers-of-cthulhu-pc-game-steam-latin-america-cover.jpg?v=1729591330",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyxoGGw3Tk9pj4tqADMUN_uQ9i-5VZIMoyJQ&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} ,
+{
+    "id": 717,
+    "title": "* Tormented Souls 2*",
+    "coment": "",
+    "price": 44.5,
+    "description": "Caroline Walker returns in the sequel to the award-winning survival horror classic. Explore the decaying remains of the secluded Villa Hess, use improvised weapons to confront terrifying creatures, and bend the fabric of reality to save your sister from a twisted cult",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"IIntel Core i5-3470 or AMD Ryzen 5 1400",
+            "VideoCard":" NVIDIA GeForce GTX 960, 4 GB or AMD Radeon R9 380, 2 GB",
+            "MemoryRAM":"12 GB"
+        },
+    "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUfcQzEL2bc8cxnv8hFMuzzsFHTFS1JO9G5Q&s",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dkrpk5q-bfc35851-2719-43ff-bce8-11621b8dd950.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGtycGs1cS1iZmMzNTg1MS0yNzE5LTQzZmYtYmNlOC0xMTYyMWI4ZGQ5NTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lMY1vMeRgBJiaBJ410Xv4gJ-bCkPsoQI7_H9A9-d3pU",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} ,
+{
+    "id": 718,
+    "title": "* Wreckreation*",
+    "coment": "",
+    "price": 36.1,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Ryzen 5 1600X / Core i5-8600K",
+            "VideoCard":"GeForce GTX 1070 / Radeon RX 5700XT ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4eTdgELs3GHw4CBulFsBow8BlqCrZHuu-g&s",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dkstjvo-f3311dce-1fbd-4344-92d1-7e20e27a59b7.png/v1/fill/w_512,h_512/wreckreation_icon__by_hatemtiger_dkstjvo-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9ka3N0anZvLWYzMzExZGNlLTFmYmQtNDM0NC05MmQxLTdlMjBlMjdhNTliNy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Hhcjjw50GjspoUiJ8yC6l9TgTKSNNUNFZFW0ruT7_24",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 719,
+    "title": "* Yakuza Kiwami 2*",
+    "coment": "",
+    "price": 60.3,
+    "description": "Kazuma Kiryu thought his Tojo Clan days were behind him. He and the young girl in his care, Haruka Sawamura, have built a peaceful life from the ashes of conflict. All it took was a single gunshot to shatter that peace. Yukio Terada, the Fifth Chairman of the Tojo Clan, has been assassinated. With war on the horizon, the legendary Dragon of Dojima is pulled back into the world he wanted to leave behind.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i3-8100, 3.6 GHz or AMD Ryzen 3 2300X, 3.5 GHz",
+            "VideoCard":"NVIDIA GeForce GTX1650, 4GB or AMD Radeon RX6400, 4GB ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-jL_vVxQY0ms8osBG40mb7ZCtDir6rG_4g&s",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dd4zha2-206efd0e-aa87-429e-a23d-9603a561460f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGQ0emhhMi0yMDZlZmQwZS1hYTg3LTQyOWUtYTIzZC05NjAzYTU2MTQ2MGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.San039rk0C9ru_Nzix__KlbiVyC5kIFIsE0BKyrLCSE",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 720,
+    "title": "* DOOM - The Dark Ages*",
+    "coment": "DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and DOOM Eternal that tells an epic cinematic story worthy of the DOOM Slayer’s legend. Players will step into the blood-stained boots of the DOOM Slayer, in this never-before-seen dark and sinister medieval war against Hell",
+    "price": 82.7,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"AMD Zen 2 or Intel 10th Generation CPU @3.2Ghz with 8 cores / 16 threads or better",
+            "VideoCard":"NVIDIA or AMD hardware Raytracing-capable GPU with 8GB dedicated VRAM  ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://www.gematsu.com/wp-content/uploads/2025/01/DOOM-The-Dark-Ages_2025_01-23-25_007.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwO3NOc89AOaIVc8hh9tkt0CCcP4U-DkFn6w&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 721,
+    "title": "* DEATH STRANDING 2: ON THE BEACH*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 82.7,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i3-10100, AMD Ryzen 3 3100",
+            "VideoCard":"NVIDIA GeForce GTX 1660, AMD Radeon RX 5500 XT 8GB  ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3280350/4c0873ac29806d09215f16371dfde866bcd4caf1/capsule_616x353.jpg?t=1774022345",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7277e65a-3b0f-4fe5-ad8b-bf1f716acd21/dikg4f4-f3e2e6a2-0e6d-4f2f-bd70-c5ebac10ddd7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83Mjc3ZTY1YS0zYjBmLTRmZTUtYWQ4Yi1iZjFmNzE2YWNkMjEvZGlrZzRmNC1mM2UyZTZhMi0wZTZkLTRmMmYtYmQ3MC1jNWViYWMxMGRkZDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mkipNbldr7rHljtF5WcsFGBUBM2uW2vSiDjBICwAaKM",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+
+
+
 ]
