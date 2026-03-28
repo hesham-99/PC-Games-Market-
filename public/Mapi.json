@@ -1993,7 +1993,7 @@
     {
         "id": 116,
         "title": "* Mount & Blade 2 - Bannerlord *",
-        "price": 50.3,
+        "price": 89.2,
         "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system",
         "category": {
             "OpenSYSTEM": "Windows 7 / 10 / 11",
@@ -7015,7 +7015,7 @@
     {
         "id": 425,
         "title": "* DRAGON BALL - Sparking ZERO *",
-        "price": 27.6,
+        "price": 28.6,
         "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "women's clothing",
         "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aacf7545-f3cd-48d5-b931-28ce4a28db0e/dhn090p-b7fca823-b3d5-4d3b-9ede-7ffc00acd368.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhY2Y3NTQ1LWYzY2QtNDhkNS1iOTMxLTI4Y2U0YTI4ZGIwZVwvZGhuMDkwcC1iN2ZjYTgyMy1iM2Q1LTRkM2ItOWVkZS03ZmZjMDBhY2QzNjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fivOERG_SWT78bQknpnmRrCKRCvXpnbIMR-Y0NGqZrA",
@@ -10360,6 +10360,27 @@
 } 
 ,
 {
+    "id": 722,
+    "title": "* Pathologic 2*",
+    "coment": "",
+    "price": 20.4,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows 7/8/10 (64-bit)",
+            "Processor":"Intel Core i3 (8/9 Generation) ~3 GHz / AMD Ryzen 5",
+            "VideoCard":"NVIDIA GeForce GTX 660 ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://cdn2.steamgriddb.com/grid/60b48fc41714190a8d1b7d5dbf04d0dd.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEP_959Sj2T6Q9qEeJlzdJk0lk1_lm3k2gdw&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
     "id": 676,
     "title": "* Half Life Alyx*",
     "coment": "",
@@ -11284,7 +11305,7 @@
     "id": 721,
     "title": "* DEATH STRANDING 2: ON THE BEACH*",
     "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
-    "price": 82.7,
+    "price": 112,
     "description": "",
     "category": {
             "OpenSYSTEM": "Windows® 10 / 11",
