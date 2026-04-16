@@ -11283,9 +11283,9 @@
 {
     "id": 720,
     "title": "* DOOM - The Dark Ages*",
-    "coment": "DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and DOOM Eternal that tells an epic cinematic story worthy of the DOOM Slayer’s legend. Players will step into the blood-stained boots of the DOOM Slayer, in this never-before-seen dark and sinister medieval war against Hell",
+    "coment": "",
     "price": 82.7,
-    "description": "",
+    "description": "DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and DOOM Eternal that tells an epic cinematic story worthy of the DOOM Slayer’s legend. Players will step into the blood-stained boots of the DOOM Slayer, in this never-before-seen dark and sinister medieval war against Hell",
     "category": {
             "OpenSYSTEM": "Windows® 10 / 11",
             "Processor":"AMD Zen 2 or Intel 10th Generation CPU @3.2Ghz with 8 cores / 16 threads or better",
@@ -11304,9 +11304,9 @@
 {
     "id": 721,
     "title": "* DEATH STRANDING 2: ON THE BEACH*",
-    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "coment": "",
     "price": 112,
-    "description": "",
+    "description": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
     "category": {
             "OpenSYSTEM": "Windows® 10 / 11",
             "Processor":"Intel Core i3-10100, AMD Ryzen 3 3100",
@@ -11321,7 +11321,174 @@
     }
 
 } 
+,
+{
+    "id": 723,
+    "title": "* Rayman - 30th Anniversary Edition*",
+    "coment": "",
+    "price": 3.61,
+    "description": "Celebrate 30 years of Rayman with the definitive edition of the platforming classic, featuring 5 versions, 120+ extra levels, and an exclusive documentary on the creation of the limbless hero",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i3-7100 3.9 GHz AMD Ryzen3 1200 3.1 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 1650 4GB, AMD Radeon RX-5500 XT 4GB ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3280350/4c0873ac29806d09215f16371dfde866bcd4caf1/capsule_616x353.jpg?t=1774022345",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8782oKk-bh51k0oZm6jyrk_lYBUF1YnD10Q&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
 
+} 
+,
+{
+    "id": 724,
+    "title": "* Transience*",
+    "coment": "",
+    "price": 11.1,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-8400 or AMD Ryzen 3 3300X",
+            "VideoCard":"NVIDIA GTX 1060 or AMD RX 580  ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3280350/4c0873ac29806d09215f16371dfde866bcd4caf1/capsule_616x353.jpg?t=1774022345",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUOZ2pgNQ4s42-kagGDGELeu_s9EfkkKe7Kg&s",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 725,
+    "title": "* Disco Elysium*",
+    "coment": "",
+    "price": 10,
+    "description": "Disco Elysium – The Final Cut is the definitive edition of the groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city block to carve your path across. Interrogate unforgettable characters, crack murders, or take bribes. Become a hero or an absolute disaster of a human being.",
+    "category": {
+            "OpenSYSTEM": "Windows 7",
+            "Processor":"Intel Core 2 Duo",
+            "VideoCard":"Integrated graphics card with support for DirectX 11 ",
+            "MemoryRAM":" 2 GB"
+        },
+    "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3280350/4c0873ac29806d09215f16371dfde866bcd4caf1/capsule_616x353.jpg?t=1774022345",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dft0ryz-328935db-f289-4716-860c-0e08c29398bf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZ0MHJ5ei0zMjg5MzVkYi1mMjg5LTQ3MTYtODYwYy0wZTA4YzI5Mzk4YmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Dec7miJYNwSa3LUFb6rbXfyVXH-QzuPdpkTwqPF5M6I",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 726,
+    "title": "* Samson*",
+    "coment": "Samson returns to Tyndalston, a city that shaped him hard, where every fight is close and every escape is earned. He owes dangerous people more than he can pay, and they’re using his sister to force his hand. The clock is ticking. The only way out is through anyone who stands in his way",
+    "price": 112,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-10505 / AMD Ryzen 5 3600",
+            "VideoCard":"Nvidia® 1070 GTX 8 GB / AMD Radeon™ RX 5600 6 GB ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3634520/1cfaf59b1bcaf25481986a5788c44611e26e558a/capsule_616x353.jpg?t=1775653125",
+    "image": "https://cdn1.epicgames.com/spt-assets/fa533de0e6324daca2c549ffc11b2b63/samson-1rlqd.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 727,
+    "title": "* Soulmask*",
+    "coment": "",
+    "price": 22.6,
+    "description": "Don the Ancient Mask. Wield the power of gods. Possess any of your tribespeople, recruit followers, and build a thriving automated civilization. Survive, expand, and forge your own legacy across a vast ancient open world — together with friends.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i5-8400 / AMD Ryzen 3 3300X",
+            "VideoCard":"GTX 970 4GB / AMD RX 580 4GB ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://i0.wp.com/thegamingoutsider.com/wp-content/uploads/2024/08/Soulmask-Logo.jpg?resize=800%2C445&ssl=1",
+    "image": "https://cdn1.epicgames.com/spt-assets/2543894b59ca408b9da109239139779f/soulmask-1rqsv.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 728,
+    "title": "* The Occultist*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 33.5,
+    "description": "The Occultist is a first-person narrative thriller. You play as Alan Rebels, a paranormal investigator who travels to an abandoned British island after his father’s disappearance. Explore Godstone island, face supernatural entities, and uncover long-buried occult rituals",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel i5-11600K or AMD Ryzen 5 5600X",
+            "VideoCard":"NVIDIA GeForce 2070 (8GB) or AMD Radeon RX 5700 XT (8GB) ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2092840/a9272214ca6a5a2a5f8523e95a6b4b5ea1548eac/capsule_616x353.jpg?t=1775818971",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2415/4ab56c3b6a86dca29d85b9334859f84a0516b039bad836d5.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 729,
+    "title": "* F1 2021*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 80.7,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel Core i3-2130 or AMD FX 4300",
+            "VideoCard":"NVIDIA GTX 950 or AMD R9 280 ",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_zbwf7SWxdk0J7ox-7IqSjQBwYV0TJ_O4-Q&s",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/86/F1_2021_cover_art.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 730,
+    "title": "* Resident Evil Requiem*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 112,
+    "description": "A new era of survival horror arrives with Resident Evil Requiem, the latest and most immersive entry yet in the iconic Resident Evil series. Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"IIntel corei5-8500 / AMD Ryzen 5 3500",
+            "VideoCard":"GeForce GTX 1660 6GB /  Radeon RX 5500 XT 8GB ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/0731e32e73a1311c20a71199f4e4fd78ee9e9411/capsule_616x353.jpg?t=1772587704",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dlczdpc-61079f33-60e1-4060-9bb4-2c35124bb799.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGxjemRwYy02MTA3OWYzMy02MGUxLTQwNjAtOWJiNC0yYzM1MTI0YmI3OTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8SoiCVsxs-Aq_4dWoOcd5h_YQGkAiTrhGGjzxsJy47U",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
 
 
 ]
