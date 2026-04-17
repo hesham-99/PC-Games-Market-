@@ -10844,18 +10844,18 @@
 ,
 {
     "id": 699,
-    "title": "* Soulmask*",
+    "title": "* INAZUMA ELEVEN - Victory Road*",
     "coment": "",
-    "price": 10.5,
-    "description": "Escaping a deadly sacrificial ritual, you find an ancient mystical mask on your journey. This mask holds potent knowledge, changing the world you knew. Face the harsh challenges of nature, survive, rally followers, and build your own tribe. Explore and unveil the truths behind the enigmatic mask",
+    "price": 108.5,
+    "description": "A new story featuring a new protagonist, over 5,400 characters to collect and train, as well as an intense competitive mode; there is no shortage of activities to enjoy!",
     "category": {
             "OpenSYSTEM": "Windows® 10 / 11",
-            "Processor":"AIntel Core i5-8400 / AMD Ryzen 3 3300X",
-            "VideoCard":"GTX 970 4GB / AMD RX 580 4GB ",
-            "MemoryRAM":"16 GB"
+            "Processor":"Intel Core i5-8400 / AMD Ryzen 3 3100",
+            "VideoCard":"GeForce GTX 750(2GB) /AMD Radeon R7 370(2GB) ",
+            "MemoryRAM":"8 GB"
         },
     "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/bb3f89ae3425f3aa86041ff71646fc5d44d7705f3a383427.jpg",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvMXKqC8TeShxnf6TsIJKAFNmqXvRzPQ64g&s",
+    "image": "https://cdn2.steamgriddb.com/icon/569a09eb72e772b6ace7c5e2d0447f34.png",
     "rating": {
         "rate": 4.5,
         "count": 116
@@ -11483,6 +11483,27 @@
         },
     "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/0731e32e73a1311c20a71199f4e4fd78ee9e9411/capsule_616x353.jpg?t=1772587704",
     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dlczdpc-61079f33-60e1-4060-9bb4-2c35124bb799.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGxjemRwYy02MTA3OWYzMy02MGUxLTQwNjAtOWJiNC0yYzM1MTI0YmI3OTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8SoiCVsxs-Aq_4dWoOcd5h_YQGkAiTrhGGjzxsJy47U",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 731,
+    "title": "* Total War - PHARAOH DYNASTIES*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 74.3,
+    "description": "Wage total war across the ancient world from the Aegean to Mesopotamia in this free addition to Total War: PHARAOH. Challenge the Bronze Age Collapse by building your own dynasty and leading your faction to victory with new cultures, new units and dramatic new battle mechanics",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":"Intel i3-2100 / AMD FX-4300",
+            "VideoCard":"Nvidia GeForce GTX 660 / AMD R9 270 ",
+            "MemoryRAM":"6 GB"
+        },
+    "homebace": "https://www.tiriniti.com/wp-content/uploads/2023/11/maxresdefault.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzxUXo0baT-M1Wu88PUb89lngJ-w8kFofEQ&s",
     "rating": {
         "rate": 4.5,
         "count": 116
