@@ -11510,6 +11510,26 @@
     }
 
 } 
+,
+{
+    "id": 732,
+    "title": "* Black Myth Wukong*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 140,
+    "description": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i5-8400 / AMD Ryzen 5 1600",
+            "VideoCard":"NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-1c9uy.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/di02q8u-20b6196d-fbd2-4077-b73b-071ddc5016b4.png/v1/fill/w_512,h_512/black_myth_wukong_icon_v2_by_hatemtiger_di02q8u-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kaTAycTh1LTIwYjYxOTZkLWZiZDItNDA3Ny1iNzNiLTA3MWRkYzUwMTZiNC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.oIDcGX2f_Pfdb1Z2yevKdmvKh5-8NWeGvb98TFSTHVQ",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
 
+} 
 
 ]
