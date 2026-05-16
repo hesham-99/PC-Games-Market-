@@ -11531,5 +11531,46 @@
     }
 
 } 
+,
+{
+    "id": 732,
+    "title": "* PRAGMATA*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 34.6,
+    "description": "Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i5-8500 / AMD Ryzen 5 3500",
+            "VideoCard":"NVIDIA GeForce GTX 1660 6 GB / Radeon RX 5500 XT 8 GB ",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://i.ytimg.com/vi/5iJOYocffbo/maxresdefault.jpg",
+    "image": "hhttps://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dltp7es-d2368bf2-c6ec-4a55-86d0-b3a7b609fa65.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGx0cDdlcy1kMjM2OGJmMi1jNmVjLTRhNTUtODZkMC1iM2E3YjYwOWZhNjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NOoHsYdZloifdYRQ476bamIJgm0eZzrm0F0UCefpUrA",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
 
+} 
+,
+{
+    "id": 734,
+    "title": "* Mass Effect Legendary Edition*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 80.4,
+    "description": "Experience an amazingly rich and detailed universe where your decisions have profound consequences on the action and the outcome..",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i5 3570 / AMD FX-8350",
+            "VideoCard":"NVIDIA GTX 760, AMD Radeon 7970 / R9 280X, DirectX 11 ",
+            "MemoryRAM":"8  GB"
+        },
+    "homebace": "https://static0.srcdn.com/wordpress/wp-content/uploads/2021/02/Mass-Effect-Legendary-Edition-cover.jpg?w=1200&h=628&fit=crop",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dg921z3-9151326e-ee7b-4187-9ff1-4f86ebb4e20b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82NzdhZjgwYS00ZjM3LTRhOGMtODIyOC0xZGM1N2EzMWNmNmYvZGc5MjF6My05MTUxMzI2ZS1lZTdiLTQxODctOWZmMS00Zjg2ZWJiNGUyMGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G752j1z4EpYh3HjQr2h5WMSKR91XbJQRLDm73JHzO5Q",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
 ]
