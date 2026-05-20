@@ -11573,4 +11573,46 @@
     }
 
 } 
+,
+{
+    "id": 735,
+    "title": "* Enshrouded*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 40.6,
+    "description": "You are Flameborn, last ember of hope of a dying race. Awaken, survive the terror of a corrupting fog, and reclaim the lost beauty of your kingdom. Venture into a vast world, vanquish punishing bosses, build grand halls and forge your path in this co-op survival action RPG for up to 16 players.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i5-6400 (2.7 GHz 4 Core) / AMD Ryzen 5 1500X (3.5 GHz 4 Core) or equivalent",
+            "VideoCard":"NVIDIA GeForce GTX 1060 (req. 6GB VRAM) / AMD Radeon RX 580 (req. 6GB VRAM)",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203620/335cc72676b206925095e06ba2f17fcfd71b9654/capsule_616x353.jpg?t=1769096112",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dgrsajl-eb66271a-7c06-4ad9-ac6b-c064e95ecf37.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 736,
+    "title": "* Forza Horizon 6*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 143,
+    "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend at the Horizon Festival. Start your journey as a tourist and explore a world full of hit music and Japanese culture. Build a Valley Estate, acquire awe-inspiring homes, and display your prized car collection in fully Customizable Garages. Cruise the roads with your friends and join Car Meets around Japan, unleash your imagination with EventLab and build together in Horizon CoLab.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel i5-8400 OR AMD Ryzen 5 1600",
+            "VideoCard":"NNvidia GTX 1650 OR AMD RX 6500 XT",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://store-images.s-microsoft.com/image/apps.24935.13758467164481545.c998f207-34a5-4a78-8843-178e2acdf371.206793b9-f38b-4616-8029-fdb3c7d0db77?h=1280",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dm1h6m7-53e55982-5a54-49d3-997b-f3e02665f4aa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZG0xaDZtNy01M2U1NTk4Mi01YTU0LTQ5ZDMtOTk3Yi1mM2UwMjY2NWY0YWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pAW1DZRNPLng70q-nEACUHq7r6K8efDynijAm46ljVc",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
 ]
