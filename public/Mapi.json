@@ -11615,4 +11615,46 @@
     }
 
 } 
+,
+{
+    "id": 737,
+    "title": "* REPLACED*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 5.66,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel i5-8400 OR AMD Ryzen 5 1600",
+            "VideoCard":"NNvidia GTX 1650 OR AMD RX 6500 XT",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_REPLACED_SadCatStudios_S1_2560x1440-48116926c33acd2a8e7e492bc0fdc7b2",
+    "image": "https://sm.ign.com/ign_nordic/cover/r/replaced/replaced_7ap6.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 738,
+    "title": "* Mafia - The Old Country*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 45.5,
+    "description": "Uncover the origins of organized crime in Mafia: The Old Country, a gritty mob story set in the brutal underworld of 1900s Sicily. Fight to survive as Enzo Favara and prove your worth to the Family in this immersive third-person action-adventure.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" AMD Ryzen 7 2700X / Intel Core i7-9700K",
+            "VideoCard":"AMD Radeon RX 5700 XT / NVIDIA RTX 2070",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://static.wikia.nocookie.net/mafiagame/images/e/e2/Mafia_TOC_Wallpaper_02.jpg/revision/latest?cb=20250509044819",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/djx8gx9-1f3f9d8c-81ca-4dfb-9f1d-088b2659de9c.png/v1/fill/w_512,h_512/mafia_the_old_country_icon__by_hatemtiger_djx8gx9-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kang4Z3g5LTFmM2Y5ZDhjLTgxY2EtNGRmYi05ZjFkLTA4OGIyNjU5ZGU5Yy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.SICvQkNbHTdSEkNWjRXHNqKEExBDCZepe_WOL1GMtm0",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
 ]
