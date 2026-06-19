@@ -1353,7 +1353,7 @@ height: auto;
 font-size: x-large;
 border-radius: 19px;
 border: 1px solid #000000;
-font-family: cursive;
+font-family: serif;
 }
 .switsherbutton:hover{
   background-color: #ff6600b9;
@@ -1366,7 +1366,7 @@ font-family: cursive;
 font-size: x-large;
 border-radius: 19px;
 border: 1px solid #ffffff;
-font-family: cursive;
+font-family: serif;
   background-color: #ff6600b9;
   color: #ffffff;
   box-shadow:0 0 10px rgb(255, 255, 255),0 0 15px rgba(0, 0, 0, 0.664),0 0 12px rgba(7, 8, 4, 0.473);
