@@ -57,24 +57,10 @@
         }
         ,"priceNow": 200
     }
-    ,
-    {
-        "id": 500005,
-        "title": "Zero ZR-1800",
-        "price": 0,
-        "description": "",
-        "category": "accessories",
-        "image": "https://i.ibb.co/67t9C6mx/71-IOFBf3l0-S-removebg-preview.png",
-        "rating": {
-            "rate": 4.5,
-            "count": 146
-            
-        }
-        ,"priceNow": 180
-    }
+    
  ,
     {
-        "id": 500006,
+        "id": 500005,
         "title": "MousePad Snake R7",
         "price": 0,
         "description": "",
@@ -89,7 +75,7 @@
     }
     ,
     {
-        "id": 500007,
+        "id": 500006,
         "title": "HP W10",
         "price": 0,
         "description": "",
@@ -104,7 +90,7 @@
     }
     ,
     {
-        "id": 500008,
+        "id": 500007,
         "title": "HP M100",
         "price": 0,
         "description": "",
@@ -119,7 +105,7 @@
     }
     ,
     {
-        "id": 500009,
+        "id": 500008,
         "title": "HOOD KB150 Usb",
         "price": 0,
         "description": "",
@@ -134,7 +120,7 @@
     }
     ,
     {
-        "id": 500010,
+        "id": 500009,
         "title": "Crash X60",
         "price": 0,
         "description": "",
@@ -149,7 +135,7 @@
     }
     ,
     {
-        "id": 500011,
+        "id": 500010,
         "title": "Havit kb855l",
         "price": 0,
         "description": "",
@@ -164,7 +150,37 @@
     }
      ,
     {
+        "id": 500011,
+        "title": "Platinum PL-500",
+        "price": 0,
+        "description": "",
+        "category": "accessories",
+        "image": "https://i.ibb.co/spLhq2Tf/51-OA551-GO-L-AC-UF350-350-QL50-removebg-preview.png",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+            
+        }
+        ,"priceNow": 325
+    }
+     ,
+    {
         "id": 500012,
+        "title": "Jedal K-19",
+        "price": 0,
+        "description": "",
+        "category": "accessories",
+        "image": "https://i.ibb.co/N2mX14XN/619442306-removebg-preview.png",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+            
+        }
+        ,"priceNow": 175
+    }
+     ,
+    {
+        "id": 500013,
         "title": "Point Wired Turbo GamePad",
         "price": 0,
         "description": "",
@@ -175,26 +191,27 @@
             "count": 146
             
         }
-        ,"priceNow": 410
+        ,"priceNow": 470
     }
       ,
     {
-        "id": 500013,
-        "title": "XBOX 360 Wired Controller",
+        "id": 500014,
+        "title": "Gamma GT-606 GamePad",
         "price": 0,
         "description": "",
         "category": "accessories",
-        "image": "https://i.ibb.co/Vp9Bc9gL/61ql-BHa-Fu9-L-removebg-preview.png",
+        "image": "https://i.ibb.co/rfMD9wwQ/123425-removebg-preview.png",
         "rating": {
             "rate": 4.5,
             "count": 146
             
         }
-        ,"priceNow": 410
+        ,"priceNow": 470
     }
+       
        ,
     {
-        "id": 500014,
+        "id": 500015,
         "title": "PS3 GamePad",
         "price": 0,
         "description": "",
@@ -209,7 +226,7 @@
     }
        ,
     {
-        "id": 500015,
+        "id": 500016,
         "title": "PS4 Wireless GamePad",
         "price": 0,
         "description": "",
@@ -224,23 +241,23 @@
     }
         ,
     {
-        "id": 500016,
-        "title": "Monster Gaming Headset",
+        "id": 500017,
+        "title": "headphone G560 GX",
         "price": 0,
         "description": "",
         "category": "accessories",
-        "image": "https://i.ibb.co/kV8X11Yb/1000-1-48-600x600-removebg-preview.png",
+        "image": "https://i.ibb.co/97vkWVq/images-removebg-preview-2.png",
         "rating": {
             "rate": 4.5,
             "count": 146
             
         }
-        ,"priceNow": 450
+        ,"priceNow": 275
     }
         ,
     {
-        "id": 500017,
-        "title": "Spark H105 Wired RGB Gaming Headset",
+        "id": 500018,
+        "title": "Spark H102 Wired RGB Gaming Headset",
         "price": 0,
         "description": "",
         "category": "accessories",
@@ -254,7 +271,7 @@
     }
        ,
     {
-        "id": 500018,
+        "id": 500019,
         "title": "Kisonli Speaker L-1040",
         "price": 0,
         "description": "",
@@ -267,9 +284,24 @@
         }
         ,"priceNow": 200
     }
+     ,
+    {
+        "id": 500020,
+        "title": "Kisonli K-2065",
+        "price": 0,
+        "description": "",
+        "category": "accessories",
+        "image": "https://i.ibb.co/qzgcjDR/D-Q-NP-810763-CBT85085437142-052025-O-removebg-preview.pn",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+            
+        }
+        ,"priceNow": 265
+    }
       ,
     {
-        "id": 500019,
+        "id": 500021,
         "title": "P-Tec 101",
         "price": 0,
         "description": "",
@@ -284,7 +316,7 @@
     }
       ,
     {
-        "id": 500019,
+        "id": 500022,
         "title": "Sata to Usb 3.0",
         "price": 0,
         "description": "",
@@ -299,7 +331,7 @@
     }
      ,
     {
-        "id": 500020,
+        "id": 500023,
         "title": "Adaptor 12V-3A",
         "price": 0,
         "description": "",
