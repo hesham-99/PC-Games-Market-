@@ -5108,16 +5108,16 @@
     ,
     {
         "id": 296,
-        "title": "* Atomic Heart *",
-        "price": 79.9,
-        "description": "Welcome to a utopian world of wonders and perfection, in which humans live in harmony with their loyal and fervent robots.",
+        "title": "* James bond *",
+        "price": 1.11,
+        "description": "",
         "category": {
-            "OpenSYSTEM": "Windows 10 (20H1 version or newer, 64-bit versions)",
-            "Processor":"AMD Ryzen 3 1200 or Intel Core i5-2500",
-            "VideoCard":"4 GB VRAM, AMD Radeon R9 380 or NVIDIA GeForce GTX 960 DirectX: Version 12",
-            "MemoryRAM":"8 GB"
+            "OpenSYSTEM": "",
+            "Processor":"",
+            "VideoCard":"",
+            "MemoryRAM":"B"
         },
-        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfmml3x-0dccf984-ab60-4b8f-827a-0efbf54cc4ab.png/v1/fill/w_512,h_512/atomic_heart_icon_ico_v2_by_hatemtiger_dfmml3x-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNzMyMDZiZDktMjU3Yy00ZjUwLWIxZjMtNTlhMzA2ZTI0MDg0XC9kZm1tbDN4LTBkY2NmOTg0LWFiNjAtNGI4Zi04MjdhLTBlZmJmNTRjYzRhYi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._8rn0ODxyVtePIkX4ehcdejMNKh2h1SOEU0dtd0woj0",
+        "image": "https://assets-prd.ignimgs.com/2022/07/19/nightfireconsole-1658251823678.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
         "rating": {
             "rate": 4.5,
             "count": 146
@@ -11931,4 +11931,338 @@
     }
 
 } 
+,
+{
+    "id": 753,
+    "title": "* Internet Cafe Simulator*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 3.90,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i7-12700 or AMD Ryzen 7 5800X",
+            "VideoCard":"NVIDIA GeForce RTX 2070 SUPER, 8 GB or AMD Radeon RX 6650 XT, 8 GB",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1136160/capsule_616x353.jpg?t=1782312657",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 754,
+    "title": "* Need for Speed Most Wanted 2005*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 2,
+    "description": "Rise as the Dark Knight and experience the essential Batman story in a bold, action-packed adventure with hard-hitting combat, an open-world Gotham City, and the signature LEGO charm that fans know and love",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i7-12700 or AMD Ryzen 7 5800X",
+            "VideoCard":"NVIDIA GeForce RTX 2070 SUPER, 8 GB or AMD Radeon RX 6650 XT, 8 GB",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d04d46d-481e-452a-9bfd-75a8c1cc65a3/dfj2j1z-c8468343-aa9e-4a37-9b64-bf9d25019cba.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 755,
+    "title": "* Need for Speed Underground 2*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 1.71,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i7-12700 or AMD Ryzen 7 5800X",
+            "VideoCard":"NVIDIA GeForce RTX 2070 SUPER, 8 GB or AMD Radeon RX 6650 XT, 8 GB",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dgpmoqb-17a63435-b4e1-45d9-8154-8d2b6dad7636.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 756,
+    "title": "* Prison Break The Conspiracy *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 1.74,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i7-12700 or AMD Ryzen 7 5800X",
+            "VideoCard":"NVIDIA GeForce RTX 2070 SUPER, 8 GB or AMD Radeon RX 6650 XT, 8 GB",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://m.media-amazon.com/images/I/51n40N4oW4L.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 757,
+    "title": "* Streamer Life Simulator *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 5.28,
+    "description": "",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i7-12700 or AMD Ryzen 7 5800X",
+            "VideoCard":"NVIDIA GeForce RTX 2070 SUPER, 8 GB or AMD Radeon RX 6650 XT, 8 GB",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2890830/capsule_616x353.jpg?t=1782312426",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 758,
+    "title": "* RAGE *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 16.3,
+    "description": "Powered by id’s revolutionary id Tech® 5 technology, RAGE is an intense first-person shooter with breakneck vehicle combat, an expansive world to explore, and jaw-dropping graphics!",
+    "category": {
+            "OpenSYSTEM": "Win XP SP3, Vista, Win 7, 10, 11",
+            "Processor":" Intel Core 2 Duo or Equivalent AMD",
+            "VideoCard":"GeForce 8800, Radeon HD 4200",
+            "MemoryRAM":"2 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfquuck-6a9c2cb5-3b6b-4e87-82d5-ed75014b6b24.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZxdXVjay02YTljMmNiNS0zYjZiLTRlODctODJkNS1lZDc1MDE0YjZiMjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lExKzyvnbEwJhhY4Jqb29ggvLy0eBUmS4SdLVl0Yg4w",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 759,
+    "title": "* Sleeping Dogs DE *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 16.4,
+    "description": "The Definitive Edition of the critically acclaimed, award winning open-world action adventure, reworked, rebuilt and re-mastered for the new generation. With all previously available DLC included and a wealth of tech and visual improvements, Hong Kong has never felt so alive.",
+    "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":" Core 2 Duo 2.4GHz or Athlon X2 2.7GHz",
+            "VideoCard":"NVIDIA GeForce 8800 GT or higher with 512MB graphics memory, Intel HD Graphics 2500 or higher",
+            "MemoryRAM":"4 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/d7w5sk4-8174f48b-f1b9-4c46-8cf1-f4aa82ad277a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZDd3NXNrNC04MTc0ZjQ4Yi1mMWI5LTRjNDYtOGNmMS1mNGFhODJhZDI3N2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D0bu-Oz-YW9orv-UuaH3BkR1qsgw-3OaGcwCSrn5DVE",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 760,
+    "title": "* Split Second Velocity *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 6.86,
+    "description": "Split/Second is an intense action racing game set within a reality television show. Competitors will vie to be the first to the finish line in a made-for-TV city set rigged to blow with the ultimate goal of becoming the season champion. Players in Split/Second don’t just collide with other vehicles to knock them from the track, but can also trigger devastating events that drastically alter the dynamics of the race. Players must use pinpoint timing to obliterate huge structures and towering TV set pieces to tactically alter the track or create entirely new routes.",
+    "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":" Intel Pentium D processor (Windows 7 / Vista) / 2.6 GHz Intel Pentium D processor (Windows XP) or 2.0 GHz AMD Athlon 64 X2 or equivalent processor",
+            "VideoCard":"256 MB DirectX 9.0c-compatible, 3D video card supporting Shaders 3.0 (NVIDIA GeForce 7600 or better, ATI Radeon X1600 or better)",
+            "MemoryRAM":"3 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef02abe3-63cc-4dfa-8eab-5543cf3bcf4f/d9peg7f-1047c8c8-0cb4-4772-a57b-25ecd24cd828.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lZjAyYWJlMy02M2NjLTRkZmEtOGVhYi01NTQzY2YzYmNmNGYvZDlwZWc3Zi0xMDQ3YzhjOC0wY2I0LTQ3NzItYTU3Yi0yNWVjZDI0Y2Q4MjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.F-YZzqLWNqiAJzMQNm5OxpvQ5xYySkGP2RUnbTL4AN4",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 761,
+    "title": "* Alien - Isolation *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 28.2,
+    "description": "As Amanda, you will navigate through an increasingly volatile world as you find yourself confronted on all sides by a panicked, desperate population and an unpredictable, ruthless Alien.",
+    "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":" 3.16Ghz Intel Core 2 Duo E8500",
+            "VideoCard":"1GB (AMD Radeon HD 5550 or Nvidia GeForce GT 430)",
+            "MemoryRAM":"4 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c838129c-ce13-45a5-8fa1-b1721135a82c/d834tio-19506430-4e1a-42d7-a98f-2babeb6316ed.png/v1/fill/w_512,h_512/alien_isolation_ico_icon_by_onfire666_d834tio-fullview.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 762,
+    "title": "* Nuclear Epoch *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 23.4,
+    "description": "he Nuclear Age integrates exploration, combat, construction, trading, and socialization. In this post apocalyptic world full of danger and opportunity, every player can write their own legendary story. Whether to become a solitary wasteland legend, establish a prosperous commercial empire, or create a warm community home – countless possibilities await your choice.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i7-12700 or AMD Ryzen 7 5800X",
+            "VideoCard":"NVIDIA GeForce RTX 2070 SUPER, 8 GB or AMD Radeon RX 6650 XT, 8 GB",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://images.igdb.com/igdb/image/upload/t_1080p/ar5u1p.jpg",
+    "image": "https://gamecritix.co.uk/wp-content/uploads/2026/07/Nuclear-Epoch-Review.jpg",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 763,
+    "title": "* DEAD OR ALIVE 6 Last Round*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 82,
+    "description": "Play with the classic DOA6 roster and 5 additional DLC characters from the original version, along with new costumes. Whether you’re a new player or a longtime veteran, DEAD OR ALIVE 6 Last Round has the action you’re looking for",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i5-8400 or higher, AMD Ryzen3 3100 or higher",
+            "VideoCard":"GeForce GTX 1060 (VRAM 6GB) or higher, Radeon RX 590 (VRAM 8GB) or higher",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4144680/d5e33e9b47f3817d3c7890491372a7bc7e61fe7f/capsule_616x353.jpg?t=1783558894",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/f9104117-19fa-453f-9ca6-01d9978da4ca/dm79qwt-1d1d6770-4bb5-41e4-960c-9006c70baf62.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 764,
+    "title": "* Deliver At All Costs*",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 8.21,
+    "description": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Step into the shoes of Winston Green — a down-on-his-luck courier with a fiery temper and a mysterious past — as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i5-11400F",
+            "VideoCard":"NVIDIA GGTX 1660 SUPER",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880610/header.jpg?t=1770910832",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/djt9h4s-c0d661da-0998-463f-9feb-43187c133645.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGp0OWg0cy1jMGQ2NjFkYS0wOTk4LTQ2M2YtOWZlYi00MzE4N2MxMzM2NDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UuPTqxmhUlaAXLt2qqt2faI2ofojspQm6JMF54-7FJE",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 765,
+    "title": "* KARMA - The Dark World *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 26.5,
+    "description": "KARMA: The Dark World is a first-person cinematic psychological thriller set in a dystopian world where the Leviathan Corporation is omnipresent. The time is 1984, the place is East Germany, and things are not quite what they seem.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i7-6700K or AMD Ryzen 5 2600X",
+            "VideoCard":"NVIDIA GeForce GTX 1660 or AMD Radeon RX Vega 56",
+            "MemoryRAM":"16 GB"
+        },
+    "homebace": "https://i0.wp.com/wiredproductions.com/wp-content/uploads/2024/08/KARMA_Gamescom_Core-memory-Trailer-16x9_01.png?fit=1920%2C1080&ssl=1",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/djg5lct-19069676-e10b-4b3a-98ff-562a5ded783c.png/v1/fill/w_512,h_512/karma__the_dark_world__icon__by_hatemtiger_djg5lct-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kamc1bGN0LTE5MDY5Njc2LWUxMGItNGIzYS05OGZmLTU2MmE1ZGVkNzgzYy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.39Mgoij99U9TH3SWg0e8hzUlS7RVusI8qI72BEuEAGk",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 766,
+    "title": "* Mixtape *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 11.2,
+    "description": "On their last night together, three friends embark on one final adventure. Play through a mixtape of memories, set to the soundtrack of a generation",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel core i5-9400F or AMD Ryzen 5 1500X",
+            "VideoCard":"Nvidia GeForce GTX 1650, 4GB or AMD Radeon RX 580, 8GB",
+            "MemoryRAM":"8 GB"
+        },
+    "homebace": "https://cdn1.epicgames.com/spt-assets/0db67d9d05ad429cb85ff1a445d073bd/mixtape-175wa.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/570d499d-ae96-4ee1-ae00-411fa787e04c/dmdgqsz-72c7d6e1-1c13-4ffc-9e79-85c4fd2e6ecf.png",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+{
+    "id": 761,
+    "title": "* The Sinking City Remastered *",
+    "coment": "Sam – with companions by his side – sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+    "price": 31,
+    "description": "Experience the Lovecraftian horror of The Sinking City in a whole new light. This Unreal Engine 5 remaster brings the game’s eerie atmosphere to life with stunning visuals and enhanced features. Dive into Oakmont’s mysteries and unravel the city’s descent into madness.",
+    "category": {
+            "OpenSYSTEM": "Windows® 10 / 11",
+            "Processor":" Intel Core i3-4350, 3,6 GHz / AMD Phenom X6, 3 GHz",
+            "VideoCard":"NVIDIA GeForce 760 GTX, 2048 Mb / ATI R9 380X, 2048 Mb",
+            "MemoryRAM":"6 GB"
+        },
+    "homebace": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750130/07d41a368d97dadde8df018843a8f482c122cbc7/capsule_616x353.jpg?t=1758283418",
+    "image": "hhttps://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/djrj481-20969296-2262-4248-8caa-230a84e00a4c.png/v1/fill/w_512,h_512/the_sinking_city_remastered_icon_by_hatemtiger_djrj481-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kanJqNDgxLTIwOTY5Mjk2LTIyNjItNDI0OC04Y2FhLTIzMGE4NGUwMGE0Yy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.zINrLakPwmauk20JMgUYvx53GP36tyLsbtYGGGVWmoM",
+    "rating": {
+        "rate": 4.5,
+        "count": 116
+    }
+
+} 
+,
+    {
+        "id": 762,
+        "title": "* Atomic Heart *",
+        "price": 158,
+        "description": "Welcome to a utopian world of wonders and perfection, in which humans live in harmony with their loyal and fervent robots.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (20H1 version or newer, 64-bit versions)",
+            "Processor":"AMD Ryzen 3 1200 or Intel Core i5-2500",
+            "VideoCard":"4 GB VRAM, AMD Radeon R9 380 or NVIDIA GeForce GTX 960 DirectX: Version 12",
+            "MemoryRAM":"8 GB"
+        },
+ "homebace": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg?t=1776355944",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dfpe7j0-859a2350-531c-4e76-8320-3bba85c72401.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGZwZTdqMC04NTlhMjM1MC01MzFjLTRlNzYtODMyMC0zYmJhODVjNzI0MDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LDJ3zxdcH7FP1xdnRJEdxJ55PmTx1UDXAFDLzSwZ_Vw",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
