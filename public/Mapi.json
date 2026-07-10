@@ -12265,4 +12265,23 @@
             "count": 146
         }
     }
+    ,
+    {
+        "id": 763,
+        "title": "* The Awakener - Forgotten Oath *",
+        "price": 15.2,
+        "description": "The Awakener: Forgotten Oath is a highly flexible rogue-like action game, players will act as the Awakener summoned by the Twelve Gods of Therad, and experience exciting battles from a third-person perspective. It’s up to you to decide how you will respond to the battles in this decaying world. Enhance your abilities through battles and death, defeat the slaves of Chaos and stop the Demon Lord from reviving.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (20H1 version or newer, 64-bit versions)",
+            "Processor":"AMD Ryzen 3 1200 or Intel Core i5-2500",
+            "VideoCard":"4 GB VRAM, AMD Radeon R9 380 or NVIDIA GeForce GTX 960 DirectX: Version 12",
+            "MemoryRAM":"8 GB"
+        },
+ "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527660/header.jpg?t=1762504489",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dh1tnie-925b4120-a448-47c8-bbee-533b9e700fb3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGgxdG5pZS05MjViNDEyMC1hNDQ4LTQ3YzgtYmJlZS01MzNiOWU3MDBmYjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nbiUV3kNnCc0zUdsF82bdkxMCzkqFnaD8ajZPqnitKw",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
