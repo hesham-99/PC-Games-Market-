@@ -11284,7 +11284,7 @@
     "id": 720,
     "title": "* DOOM - The Dark Ages*",
     "coment": "",
-    "price": 82.7,
+    "price": 115,
     "description": "DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and DOOM Eternal that tells an epic cinematic story worthy of the DOOM Slayer’s legend. Players will step into the blood-stained boots of the DOOM Slayer, in this never-before-seen dark and sinister medieval war against Hell",
     "category": {
             "OpenSYSTEM": "Windows® 10 / 11",
@@ -12279,6 +12279,25 @@
         },
  "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527660/header.jpg?t=1762504489",
     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dh1tnie-925b4120-a448-47c8-bbee-533b9e700fb3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZGgxdG5pZS05MjViNDEyMC1hNDQ4LTQ3YzgtYmJlZS01MzNiOWU3MDBmYjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nbiUV3kNnCc0zUdsF82bdkxMCzkqFnaD8ajZPqnitKw",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 764,
+        "title": "* Palworld *",
+        "price": 38.6,
+        "description": "Fight, farm, build and work alongside mysterious creatures called “Pals” in this completely new multiplayer, open world survival and crafting game!",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (20H1 version or newer, 64-bit versions)",
+            "Processor":"Intel Core i5-9400F",
+            "VideoCard":"GeForce GTX 1660",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/01/palworld-fan-designs-trading-cards-based-on-the-pals.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dgr1pya-91f28ea0-45a1-444e-9c96-4f61073c03c6.png/v1/fill/w_894,h_894/palworld_ico_by_nc831_by_darknc831_dgr1pya-pre.png",
     "rating": {
             "rate": 4.5,
             "count": 146
