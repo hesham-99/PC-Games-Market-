@@ -12303,4 +12303,23 @@
             "count": 146
         }
     }
+     ,
+    {
+        "id": 765,
+        "title": "* Assassin's Creed Shadows *",
+        "price": 156,
+        "description": "Experience an epic action-adventure story set in feudal Japan! Become a lethal shinobi assassin and powerful legendary samurai as you explore a beautiful open world in a time of chaos",
+        "category": {
+            "OpenSYSTEM": "Windows 10 (20H1 version or newer, 64-bit versions)",
+            "Processor":" INTEL® Core TM i7 8700K AMD RYZEN 5 3600",
+            "VideoCard":"NVIDIA® GEFORCE GTX 1650 4GB / AMD RX-5500 XT 8GB",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000101043/27e7c0866bfdf82d63a1486122e2dff215a5604794b7c8311256fb5d60a650b0",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dizn44d-82e86176-a79d-46c1-8a87-a62da9e16504.png",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
