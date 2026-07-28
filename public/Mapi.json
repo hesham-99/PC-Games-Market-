@@ -12341,4 +12341,23 @@
             "count": 146
         }
     }
+    ,
+    {
+        "id": 767,
+        "title": "* Halo - Campaign Evolved *",
+        "price": 70.5,
+        "description": "Halo: Campaign Evolved is a faithful yet modernized remake of Halo: Combat Evolved’s campaign. Experience the original story rebuilt with high-definition visuals, updated cinematics, refined controls, plus a brand-new three-mission adventure featuring the Master Chief and Sgt. Johnson. A broader arsenal of weapons, vehicles, enemies, and gameplay-modifying “Skulls” – optional modifiers that change combat in fun and challenging ways – add fresh tactics and endless replayability",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen 5 3600 or Intel Core i7-10700K",
+            "VideoCard":"AMD Radeon RX 6600, Nvidia Ge-Force RTX 2060 Super",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2025/10/halo-campaign-evolved-revealed.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/593d2b6a-2527-41a1-b24a-6b735872bdb6/dm762fu-9bbbd14f-68ce-4c02-848d-7dea0777c6ca.png/v1/fill/w_894,h_894/halo_campaign_evolved_icon__by_kellinquinno_dm762fu-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzNCIsInBhdGgiOiIvZi81OTNkMmI2YS0yNTI3LTQxYTEtYjI0YS02YjczNTg3MmJkYjYvZG03NjJmdS05YmJiZDE0Zi02OGNlLTRjMDItODQ4ZC03ZGVhMDc3N2M2Y2EucG5nIiwid2lkdGgiOiI8PTExMzQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Fa5Ur43WQmQNDmNAKKngVT5JicCR2I5pkfHf8_7GuEY",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
