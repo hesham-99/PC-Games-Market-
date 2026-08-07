@@ -1649,6 +1649,24 @@
     }
     ,
     {
+        "id": 768,
+        "title": "* HITMAN 2 *",
+        "price": 148,
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "64-bit Windows 10",
+            "Processor":"Intel Core i5-2500K 3.3GHz / AMD Phenom II X4 940",
+            "VideoCard":"NVIDIA GeForce GTX 660 / Radeon HD 7870",
+            "MemoryRAM":"8 GB"
+        },
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dcf4c2m-73586950-f2d0-4d87-86d2-13d1cde6d7f4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGNmNGMybS03MzU4Njk1MC1mMmQwLTRkODctODZkMi0xM2QxY2RlNmQ3ZjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1291AWzBwhuWZ8EM4_Yr1jfJ9m0QpibdMSfHj5wMeqI",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
         "id": 94,
         "title": "* HITMAN 3 *",
         "price": 55,
@@ -8834,7 +8852,7 @@
 {
     "id": 555,
     "title": "* Stronghold Crusader Definitive Edition *",
-    "price": 6.18,
+    "price": 6.27,
     "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
     "category": "women's clothing",
     "homebace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnLPXekeOQtpCsnXuhd5Uhuf9GscRrBX7OGA&s",
@@ -12355,6 +12373,120 @@
         },
  "homebace": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2025/10/halo-campaign-evolved-revealed.jpg",
     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/593d2b6a-2527-41a1-b24a-6b735872bdb6/dm762fu-9bbbd14f-68ce-4c02-848d-7dea0777c6ca.png/v1/fill/w_894,h_894/halo_campaign_evolved_icon__by_kellinquinno_dm762fu-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzNCIsInBhdGgiOiIvZi81OTNkMmI2YS0yNTI3LTQxYTEtYjI0YS02YjczNTg3MmJkYjYvZG03NjJmdS05YmJiZDE0Zi02OGNlLTRjMDItODQ4ZC03ZGVhMDc3N2M2Y2EucG5nIiwid2lkdGgiOiI8PTExMzQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Fa5Ur43WQmQNDmNAKKngVT5JicCR2I5pkfHf8_7GuEY",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
+        "id": 769,
+        "title": "* Manhunt 2 *",
+        "price": 4.43,
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen 5 3600 or Intel Core i7-10700K",
+            "VideoCard":"AMD Radeon RX 6600, Nvidia Ge-Force RTX 2060 Super",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2025/10/halo-campaign-evolved-revealed.jpg",
+    "image": "https://cdn2.steamgriddb.com/icon/1b12d60e85a7a2d7c03b9daad3d1959f.ico",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
+        "id": 770,
+        "title": "* Avatar - Frontiers of Pandora *",
+        "price": 126.1,
+        "description": "Avatar: Frontiers of Pandora™ is a third and first-person action-adventure game set in the Western Frontier. Reconnect with your lost heritage and discover what it means to be Na’vi.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen 5 3600 @ 3.6 GHz, Intel Core i7-8700K",
+            "VideoCard":"AMD RX 5700 (8 GB), NVIDIA GeForce GTX 1070 (8 GB), or better",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://lumiere-a.akamaihd.net/v1/images/avatar-frontiers-of-pandora-grid-object-thumb_e998c9d2.png",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/593d2b6a-2527-41a1-b24a-6b735872bdb6/dl8adoo-324bed51-6b72-4cf6-bbd6-f75071645489.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81OTNkMmI2YS0yNTI3LTQxYTEtYjI0YS02YjczNTg3MmJkYjYvZGw4YWRvby0zMjRiZWQ1MS02YjcyLTRjZjYtYmJkNi1mNzUwNzE2NDU0ODkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WuvH5hYXkAj7oOY3EtGOgAUJ42tv1UdAoHcVCgnEHm0",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
+        "id": 771,
+        "title": "* Yooka-Replaylee *",
+        "price": 27,
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen 5 3600 or Intel Core i7-10700K",
+            "VideoCard":"AMD Radeon RX 6600, Nvidia Ge-Force RTX 2060 Super",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://cdn1.epicgames.com/spt-assets/644e9fa8900046219a1db17ac031714b/yookareplaylee-1x3yp.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/593d2b6a-2527-41a1-b24a-6b735872bdb6/dm762fu-9bbbd14f-68ce-4c02-848https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2c4fc9e-431d-436a-9309-2ae37d636bfa/dl8y175-55778a75-1373-4539-85ef-e2d33cf2129a.png/v1/fill/w_850,h_940/yooka_replaylee_game_icon_png__3d_cartoon__by_pronemo_dl8y175-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTQ1IiwicGF0aCI6Ii9mL2IyYzRmYzllLTQzMWQtNDM2YS05MzA5LTJhZTM3ZDYzNmJmYS9kbDh5MTc1LTU1Nzc4YTc1LTEzNzMtNDUzOS04NWVmLWUyZDMzY2YyMTI5YS5wbmciLCJ3aWR0aCI6Ijw9ODU1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.S3URtow2BTewEWOTaxDTyG82tBTPDd0OU2p38CqCOXM",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
+        "id": 772,
+        "title": "* MOUSE - P.I. For Hire *",
+        "price": 9.82,
+        "description": "Join private investigator Jack Pepper on a guns blazing, jazz-fueled adventure in MOUSE: P.I. For Hire. MOUSE combines the charm of hand-drawn rubber hose animation inspired by the classic cartoons of the 1930’s with the adrenaline and action of an explosive first person shooter.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i5 9500 / Ryzen 3400",
+            "VideoCard":"GeForce GTX 1060 / Intel Xe 2 Graphics / Radeon RX 580",
+            "MemoryRAM":"12 GB"
+        },
+ "homebace": "https://monstervine.com/wp-content/uploads/2026/04/mouse-pi-for-hire-banner-1024x576.png",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4d746fa-7f3e-4dce-a950-9cba1ce026c5/djyemhk-47c4642b-2ae6-4108-9a79-98cae83f5243.png/v1/fill/w_894,h_894/mouse_pi_for_hire___icone_by_sirmalgache_djyemhk-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiIvZi9iNGQ3NDZmYS03ZjNlLTRkY2UtYTk1MC05Y2JhMWNlMDI2YzUvZGp5ZW1oay00N2M0NjQyYi0yYWU2LTQxMDgtOWE3OS05OGNhZTgzZjUyNDMucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.7IH9koIPIX9zpaGydNpzzs5sPQjfR6KAxwrd7G2grls",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
+        "id": 773,
+        "title": "* Beast of Reincarnation *",
+        "price": 31.8,
+        "description": "Game Freak’s brand-new title: Beast of Reincarnation is an action RPG with a fusion of real-time and turn-based combat. Experience the innovative “one-person, one-dog action RPG” in the beautiful yet harsh world of Beast of Reincarnation. What awaits at the end of Emma and Koo’s journey?",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i5-8400 or AMD Ryzen 5 3600",
+            "VideoCard":"NVIDIA GeForce GTX 1070 (8 GB) or AMD Radeon RX 580 (8 GB)",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://images.greenmangaming.com/85bfb5b1da7d487c8baa0fdf873d09e0/5a27bcd3208f4e2b8b3c0c27400c037d.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dmk0cww-68c4a5f4-178d-4bf1-913c-d1464459f74f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZG1rMGN3dy02OGM0YTVmNC0xNzhkLTRiZjEtOTEzYy1kMTQ2NDQ1OWY3NGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LTurTr0NX9yW2ZnqZff-HX4aMCpfZ1Tk2LWXrN-Vsrc",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
+        "id": 774,
+        "title": "* Crimson Desert *",
+        "price": 130.4,
+        "description": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Ryzen 5 2600X / i5-8500",
+            "VideoCard":"AMD RX 5500 XT / GTX 1060",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/e1904307aca2aa40bce189aae6399ec67bce47e50a25ff43.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dlkjqhy-9c9481d1-2553-40b5-8a82-127627aaf434.png/v1/fill/w_512,h_512/crimson_desert_icon_by_hatemtiger_dlkjqhy-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kbGtqcWh5LTljOTQ4MWQxLTI1NTMtNDBiNS04YTgyLTEyNzYyN2FhZjQzNC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.tEC_Nboic9uGfnbnXY-IqtKZOHPOT1fPSKLRFcbckck",
     "rating": {
             "rate": 4.5,
             "count": 146
