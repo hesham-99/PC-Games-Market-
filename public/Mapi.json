@@ -3975,7 +3975,7 @@
     {
         "id": 230,
         "title": "* High on Life *",
-        "price": 41.9,
+        "price": 59,
         "description": "If you don’t know what you’re getting into, here’s the deal: High On Life is an action-packed comedy-adventure FPS filled with unhinged talking guns, an evil alien drug cartel selling humans on the black market, and an impressive variety of gorgeous and seedy spacefaring locales to explore. You wanna buy goop from a back-alley salesman? You wanna tell some construction workers that their dad will never love them? You wanna rescue a talking knife from a bunch of a gang of ant clones? You can do ALL of those things in High On Life, trust me. And a lot more. I didn’t even mention a lot of the other stuff you can do.",
         "category": {
             "OpenSYSTEM": "Windows 10 64-bit",
@@ -4299,7 +4299,7 @@
     {
         "id": 248,
         "title": "* Maneater *",
-        "price": 17.5,
+        "price": 17.4,
         "description": "Experience the ultimate power fantasy as the apex predator of the seas – a terrifying SHARK! Maneater is a single player, open world action RPG (ShaRkPG) where YOU are the shark. Starting as a small shark pup you are tasked with surviving the harsh world while eating your way up the ecosystem. To do this you will explore a large and varied open world encountering diverse enemies – both human and wildlife. Find the right resources and you can grow and evolve far beyond what nature intended, allowing the player to tailor the shark to their play style. This is fortunate, because to get revenge on the cruel fisherman that dismembered you will take evolving into a massive shark, an apex predator of legends. Eat. Explore. Evolve.",
         "category": {
             "OpenSYSTEM": "Win10",
@@ -10297,7 +10297,7 @@
     "id": 671,
     "title": "* REANIMAL*",
     "coment": "",
-    "price": 14.4,
+    "price": 16,
     "description": "The creators of Little Nightmares™ I & II have returned to take you on a darker, more terrifying journey than ever before. In this horror adventure game, a brother & sister go through hell to rescue their missing friends and escape the island that they used to call home",
     "category": {
             "OpenSYSTEM": "Windows® 10 / 11",
@@ -12487,6 +12487,177 @@
         },
  "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/e1904307aca2aa40bce189aae6399ec67bce47e50a25ff43.jpg",
     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dlkjqhy-9c9481d1-2553-40b5-8a82-127627aaf434.png/v1/fill/w_512,h_512/crimson_desert_icon_by_hatemtiger_dlkjqhy-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kbGtqcWh5LTljOTQ4MWQxLTI1NTMtNDBiNS04YTgyLTEyNzYyN2FhZjQzNC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.tEC_Nboic9uGfnbnXY-IqtKZOHPOT1fPSKLRFcbckck",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 775,
+        "title": "* Inversion *",
+        "price": 4.28,
+        "description": "Inversion events unfold in the future. A mysterious and powerful enemy invaded the Earth, before which both people and modern weapons were helpless. Soon anomalous zones were formed everywhere on the planet, where the vector of attraction changes or weightlessness reigns altogether.Police Officer Davis Russell and his friend Leo Delgado embark on a deadly journey through the chaotic metropolis to find Russell’s missing daughter. Only ingenuity and ingenuity can oppose the invaders to the desperate heroes … However, fortunately, the main weapon of the enemy falls into their hands – the Gravlink, a device for controlling gravity.",
+        "category": {
+            "OpenSYSTEM": "Windows 7 / 10 / 11",
+            "Processor":" Intel Core2 Quad / AMD Phenom X4 9950",
+            "VideoCard":"I Radeon 5850 / NVIDIA GeForce GTX 460 video card with 1 GB of video memory",
+            "MemoryRAM":"3 GB"
+        },
+ "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/e1904307aca2aa40bce189aae6399ec67bce47e50a25ff43.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5484a0af-71d9-4d3e-8a70-0ccc74268e4d/ddxpurn-d3813a91-44d5-41db-8a2f-6507f1160f06.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NDg0YTBhZi03MWQ5LTRkM2UtOGE3MC0wY2NjNzQyNjhlNGQvZGR4cHVybi1kMzgxM2E5MS00NGQ1LTQxZGItOGEyZi02NTA3ZjExNjBmMDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jXQgXOlQ4rPR7-xljNguKIw9TFlVE3Q0S4KlDlfi7kA",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 776,
+        "title": "* Disney Infinity - Gold Collection *",
+        "price": 24.9,
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Ryzen 5 2600X / i5-8500",
+            "VideoCard":"AMD RX 5500 XT / GTX 1060",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/e1904307aca2aa40bce189aae6399ec67bce47e50a25ff43.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/darevfz-8c68dc9a-97f6-4596-98b9-401e7e61b2a5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jNzhiYzNmYy05ZjA4LTQ3Y2EtODFhZS1kODkwNTVjN2VjNDkvZGFyZXZmei04YzY4ZGM5YS05N2Y2LTQ1OTYtOThiOS00MDFlN2U2MWIyYTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s_3w6VjaWlZri4KWsN-irlAyybKSUVNpqa5__AWLHa4",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 777,
+        "title": "* Tom Clancys Splinter Cell Conviction *",
+        "price": 6.91,
+        "description": "An investigation into his daughter’s death unwittingly leads former agent Sam Fisher to discover he’s been betrayed by his prior agency, the Third Echelon. Now a renegade, Fisher finds himself in a race against time to thwart a deadly terrorist plot that threatens millions.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Ryzen 5 2600X / i5-8500",
+            "VideoCard":"AMD RX 5500 XT / GTX 1060",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/e1904307aca2aa40bce189aae6399ec67bce47e50a25ff43.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/557703a2-f0df-4e9e-8006-f1a8a0666122/d589rf9-1ac373d6-6b1f-46d8-b2ac-8668112ab7b3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NTc3MDNhMi1mMGRmLTRlOWUtODAwNi1mMWE4YTA2NjYxMjIvZDU4OXJmOS0xYWMzNzNkNi02YjFmLTQ2ZDgtYjJhYy04NjY4MTEyYWI3YjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qipAkiezi29QZKYNKoN1wo8xWkuJ1F0b6B3tuLjf7D4",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 778,
+        "title": "* Agent 64 - Spies Never Die *",
+        "price": 2.90,
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Ryzen 5 2600X / i5-8500",
+            "VideoCard":"AMD RX 5500 XT / GTX 1060",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2905/e1904307aca2aa40bce189aae6399ec67bce47e50a25ff43.jpg",
+    "image": "https://gaming-cdn.com/images/products/23581/orig/agent-64-spies-never-die-pc-steam-cover.jpg?v=1786516515",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 779,
+        "title": "* WILL - Follow the Light *",
+        "price": 21.5,
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Ryzen 5 2600X / i5-8500",
+            "VideoCard":"AMD RX 5500 XT / GTX 1060",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://i0.wp.com/intoindiegames.com/wp-content/uploads/WillProject-Win64-Shipping_9IKb0Spar2.jpg?fit=2560%2C1440&ssl=1",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dm05xft-253efc0f-e258-4468-954b-09835c593567.png",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 780,
+        "title": "* Of Ash and Steel *",
+        "price": 13.3,
+        "description": "Of Ash and Steel is an immersive third-person open-world RPG created by a passionate team that values the essence of classic old-school RPGs and modern design. Explore the lands of a once-prosperous island, hone your combat skills, and survive in the unforgiving realm of the Kingdom of the Seven",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i5 10600 / AMD Ryzen 5 3600",
+            "VideoCard":"NVIDIA GeForce GTX 1070 / AMD Radeon RX 5700 XT",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://static.wixstatic.com/media/4ab755_2f10d0f887934e0d930e374239da6e76~mv2.png/v1/fill/w_1200,h_630,al_c/4ab755_2f10d0f887934e0d930e374239da6e76~mv2.png",
+    "image": "https://byxatab.com/uploads/posts/2025-11/medium/1764016518_of-ash-and-steel-icon.png",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 781,
+        "title": "* Wolfenstein The New Order *",
+        "price": 43.5,
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Ryzen 5 2600X / i5-8500",
+            "VideoCard":"AMD RX 5500 XT / GTX 1060",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201810/capsule_616x353.jpg?t=1750784496",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dhj8oir-92aab2a5-dab7-490c-a896-15c2d445835e.png/v1/fill/w_500,h_500/wolfenstein_the_new_order___desktop_icon_by_jolu42_dhj8oir-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6Ii9mLzY3N2FmODBhLTRmMzctNGE4Yy04MjI4LTFkYzU3YTMxY2Y2Zi9kaGo4b2lyLTkyYWFiMmE1LWRhYjctNDkwYy1hODk2LTE1YzJkNDQ1ODM1ZS5wbmciLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.jiJu9ouOdmGI0YtcoBBv9UnvAgyCK-nbijQ8OLrJya0",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 782,
+        "title": "* Ad Infinitum *",
+        "price": 20,
+        "description": "When reality is a nightmare, nightmares become real. In this psychological horror game, you fight the terrifying creatures invading your mind. Can you save your sanity?",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i5-8400 or AMD Ryzen 5 1600X",
+            "VideoCard":"NVIDIA GeForce GTX 750 Ti, 2 GB or AMD Radeon RX 7850, 2 GB",
+            "MemoryRAM":"8 GB"
+        },
+ "homebace": "https://cdn1.epicgames.com/offer/9862908ffff747abb145c54ded5164d0/EGS_AdInfinitum_Hekate_S1_2560x1440-3ec814a15914111bbb56dd6841b7762a",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dgbscxo-018f456e-cd3d-4072-8bbb-f81d44aebd58.png/v1/fill/w_512,h_512/ad_infinitum_icon_by_hatemtiger_dgbscxo-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6Ii9mLzczMjA2YmQ5LTI1N2MtNGY1MC1iMWYzLTU5YTMwNmUyNDA4NC9kZ2JzY3hvLTAxOGY0NTZlLWNkM2QtNDA3Mi04YmJiLWY4MWQ0NGFlYmQ1OC5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.UEeHPl-CqQ1ObyjKEGkb2FpQjELL9lnkyra7L3E4TE0",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 783,
+        "title": "* Assassin’s Creed Black Flag Resynced *",
+        "price": 67.7,
+        "description": "The iconic solo pirate adventure returns. Sail the Caribbean as Edward Kenway during the Golden Age of Piracy in this faithfully enhanced remake featuring stunning visuals, upgraded gameplay, and new content.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i7-8700K 3.7 GHz, AMD Ryzen 5 3600 3.6 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 1660 (6GB), AMD Radeon RX5500XT (8GB)",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://cdn2.unrealengine.com/egst-storelndscp-2560x1440-2560x1440-bc84631f22fa.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/593d2b6a-2527-41a1-b24a-6b735872bdb6/dmhn7m9-962b355d-58d6-4c4c-8e5a-06895c3cf717.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81OTNkMmI2YS0yNTI3LTQxYTEtYjI0YS02YjczNTg3MmJkYjYvZG1objdtOS05NjJiMzU1ZC01OGQ2LTRjNGMtOGU1YS0wNjg5NWMzY2Y3MTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sXFjKkWoqQUN2vTydIYnlWoe2ph61lXBb_afUBQR54U",
     "rating": {
             "rate": 4.5,
             "count": 146
