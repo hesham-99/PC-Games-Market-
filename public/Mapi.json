@@ -12663,4 +12663,23 @@
             "count": 146
         }
     }
+     ,
+    {
+        "id": 784,
+        "title": "* The Sinking City 2 *",
+        "price": 48.6,
+        "description": "Set in the Roaring ’20s, The Sinking City 2 is a survival horror steeped in Lovecraftian dread. Defy an eldritch deity and explore the drowned alleys of Arkham, stalked by the dead, as you weigh one life against an entire city.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i7-8700K | AMD Ryzen 5 3600X",
+            "VideoCard":"NVIDIA GeForce GTX 1070 | AMD RX 5700, 8GB VRAM",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://cdn1.epicgames.com/spt-assets/bc8e19c5111e4088aa6752fc651945f9/the-sinking-city-2-19tyo.jpg",
+    "image": "https://assets-prd.ignimgs.com/2024/03/28/the-sinking-city2-replacement-button-1711634301158.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
