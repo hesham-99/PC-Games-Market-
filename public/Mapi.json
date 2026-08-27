@@ -12682,4 +12682,61 @@
             "count": 146
         }
     }
+     ,
+    {
+        "id": 785,
+        "title": "* Clawed *",
+        "price": 16.3,
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i7-8700K | AMD Ryzen 5 3600X",
+            "VideoCard":"NVIDIA GeForce GTX 1070 | AMD RX 5700, 8GB VRAM",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3394840/header.jpg?t=1786644044",
+    "image": "https://cdn.impress.games/presskits/64ebd364ff30903d0310fa93e6a5ab18/box-art.png?t=1738221526&w=640",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 786,
+        "title": "* Aliens - Fireteam Elite 2 *",
+        "price": 28.5,
+        "description": "Aliens: Fireteam Elite 2 drops up to four players into the boots of Colonial Marines deployed to the most hostile corners of the Aliens universe. This is not a rescue mission – it’s a fight for survival. Xenomorphs stalk the corridors, ambush from the shadows, and swarm in overwhelming numbers. Every room could be your last. Coordinate with your fireteam, leverage each class’s unique abilities, and adapt on the fly as encounters escalate from tense standoffs to all-out war. With deeper squad mechanics, smarter enemies, and a fully customizable Specialist class, AFE2 delivers the definitive co-op Aliens experience.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen 5 2600 / Intel Core i5-8400",
+            "VideoCard":"NVIDIA RTX 2060",
+            "MemoryRAM":"10 GB"
+        },
+ "homebace": "https://cdn1.epicgames.com/spt-assets/bd359bff0f074a22a8a7e365393a9902/aliens-fireteam-elite-2-1jiqq.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef02abe3-63cc-4dfa-8eab-5543cf3bcf4f/dmphadv-e7fa384f-a6fb-4054-a41b-8d3d05b7a74a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lZjAyYWJlMy02M2NjLTRkZmEtOGVhYi01NTQzY2YzYmNmNGYvZG1waGFkdi1lN2ZhMzg0Zi1hNmZiLTQwNTQtYTQxYi04ZDNkMDViN2E3NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.d1EBsa92DL2aCZun0QrSHjdFaztaTBVmDD0AbT0fOuY",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 787,
+        "title": "* Resonance - A Plague Tale Legacy *",
+        "price": 76.1,
+        "description": "Embark on an original story, prequel to the award-winning games: A Plague Tale. As Sophia, journey to the Minotaur’s Island, outsmart deadly foes, unravel ancient secrets, and confront a mythical creature at the heart of a devastating curse",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen 3 3100 / Intel Core i3-12100",
+            "VideoCard":"6 GB VRAM, AMD Radeon RX 5500 XT / Nvidia GeForce GTX 1060",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2713000/f56fc2c629b8bc65b0f9355540d5efc3fa8ba220/capsule_616x353.jpg?t=1787849814",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/593d2b6a-2527-41a1-b24a-6b735872bdb6/dm75xz5-9104303b-ab4a-485d-b90d-b77ae2f215da.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81OTNkMmI2YS0yNTI3LTQxYTEtYjI0YS02YjczNTg3MmJkYjYvZG03NXh6NS05MTA0MzAzYi1hYjRhLTQ4NWQtYjkwZC1iNzdhZTJmMjE1ZGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lf_-sA4QcEf4PbcJOwyInphumW2BpQEQqG7TclIh-mg",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
