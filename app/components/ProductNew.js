@@ -21,9 +21,40 @@ import { HiBackspace } from "react-icons/hi";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import { FaCartArrowDown } from "react-icons/fa6";
 import { AiOutlineClose } from "react-icons/ai";
+import TestHome from './TestHome';
+import { AiTwotonePhone } from "react-icons/ai";
+
+const ProductNew = () => {
+  
+  
+  // ______________________________________________________________________________________________
+// stop pack code
+const location = useLocation();
+  const navigationType = useNavigationType();
+
+  useEffect(() => {
+    // ينفذ فقط لما يكون التنقل عن طريق زر الرجوع أو التقدم (POP)
+    if (navigationType === NavigationType.Pop) {
+      setImgcart([]);
+      setImgcartOner(false);
+    }
+  }, [location, navigationType]);
+  
+  useEffect(() => {
+  const handleBackButton = () => {
+    setImgcart([]);
+    setImgcartOner(false);
+  };
+
+  window.addEventListener('popstate', handleBackButton);
+
+  return () => {
+    window.removeEventListener('popstate', handleBackButton);
+  };
+}, []);
+// ______________________________________________________________________________________________
 
 
-const ProductList = () => {
 
 
 // ______________________________________________________________________________________________
@@ -58,7 +89,7 @@ const ProductList = () => {
 
 useEffect(()=>{
     setLodong(true)
-    setTimeout(()=>{setLodong(false)},2500)
+    setTimeout(()=>{setLodong(false)},4000)
 },[])
 
 // ______________________________________________________________________________________________
@@ -125,11 +156,11 @@ const NextDataB = ()=>{
 //   }, 1000); 
 // };
 
-const [testorder , setTestorder ] = useState(false)
-const handleClickB= ()=>{setTestorder(true)};
+const [Testorder , setTestorder ] = useState(false)
+const HandleClickB = ()=>{setTestorder(true);};
 
 
-
+console.log(Testorder);
 
 const form = useRef();
 
@@ -209,26 +240,47 @@ const sendEmail = (e) => {
 // ____________________________________________________________________________________________________
 
 
-  return (
-  <>
 
-{loding ? 
- <div className='loding'>
- <PacmanLoader
-  color="#e94f08"
-  cssOverride={{}}
-  size={77}
-  speedMultiplier={1}
-/> <h1 className='loading000'>product Loading ...</h1> </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  return (
+    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', width: '100%'}}>
+<>
+
+{loding ?
+<div className="loding">
+<div className="zoomAnimation">
+    </div>
+</div>
+//  <div className='loding'>
+//  <PacmanLoader
+//   color="#e94f08"
+//   cssOverride={{}}
+//   size={77}
+//   speedMultiplier={1}
+// /> <h1 className='loading000'>product Loading ...</h1> </div>
 
      :
+<>
+{/* _________________________________________________________________________________________________
+order Zone
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________ */}
 
 
-
-    <div>
-
-
-            <div className={ testorder ? 'setTestorder':'setTestorderOff'}>
+            <div className={ Testorder ? 'setTestorder':'setTestorderOff'}>
               <div className="setTestorderData">
                 <PacmanLoader  color="yellowgreen" cssOverride={{}} size={120} speedMultiplier={1}/>
                 <h1 className='setTestorderH1' style={{color:'black',textShadow:'0 0 5px yellowgreen'}}>تم ارسال طلبك بنجاح</h1>
@@ -237,23 +289,20 @@ const sendEmail = (e) => {
               </div>
             </div>
 
+{/* _________________________________________________________________________________________________
+_________________________________________________________________________________________________ */}
+
+<div className='ProductNew'>
 
 
 
-      <nav>
-        
-      <Link href='/' className='cartOpiner'><IoHome /></Link>
+{/*nav zone
+_________________________________________________________________________________________________ 
+_________________________________________________________________________________________________  */}
 
-        <div className='searchZonecontaner'> 
-          <input
-            className='searthZone'
-            type="search"
-            placeholder="ابحث عن اللعبة هنا"
-            onChange={e => setSearch(e.target.value)}
-          />
-        </div>
-
-
+<div className='navProductNew'>
+      <Link href='/contactA' className='cartOpiner'><AiTwotonePhone /></Link>
+{/* <IoHome /> */}
 
         <button className='cartOpiner' onClick={() => setShowCart(!showCart)}>
           {showCart ? 
@@ -263,25 +312,57 @@ const sendEmail = (e) => {
           // <BsBagCheckFill />
           }
         </button>
-        
 
-      </nav>
- 
+
+        <div className='searchZonecontaner'> 
+          <input
+            className='searthZone'
+            type="search"
+            placeholder="ابحث عن اللعبة هنا"
+            onChange={e => setSearch(e.target.value)}
+            />
+        </div>
+
+
+
+
+
+
  {/* ______________________________________________________________________________________________ */}
  {/* روتنج الالعاب و الهردات والاكسيسوار */}
-<div className='switsher'>
 <button className={gamesdata ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setGamesdata(true);setHardZone(false);setAccessoriesZone(false)}}>Games</button>
 <button className={hardZone ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setHardZone(true);setGamesdata(false);setAccessoriesZone(false)}}>Hard Drive</button>
 <button className={accessoriesZone ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setAccessoriesZone(true);setGamesdata(false);setHardZone(false)}}>Accessories</button>
-</div>
  {/* ______________________________________________________________________________________________ */}
 
 
 
-            <div className='navSpas'></div>
 
+
+
+</div>
+
+                {/* <div className='navSpas'></div> */}
+
+  {/* _________________________________________________________________________________________________ 
+ _________________________________________________________________________________________________  */}
+
+
+
+
+
+
+
+
+{/* 
+cart zone
+________________________________________________________________________________________________
+________________________________________________________________________________________________
+ */}
+
+<div className='cartzonePN'>
       {showCart && (
-        <div className="cartZone">
+        <div className="cartZone" style={{marginTop:'300px'}}>
           <div className="cart">
             <h2 className='cartHEDER'>Shopping Cart  <button className='onCartHoping' onClick={() => setShowCart(!showCart)}><HiX /></button></h2>
             <ul className={nextb?'cartContet':'LockZone'}>
@@ -337,7 +418,7 @@ const sendEmail = (e) => {
 </div> 
 
 <div className='formData'>
-<input className={hesham? 'Send animate__animated animate__zoomIn': 'hesham animate__animated animate__zoomOut'} type="submit" value="Click to Send" onClick={handleClickB } />
+<input className={hesham? 'Send animate__animated animate__zoomIn': 'hesham animate__animated animate__zoomOut'} type="submit" value="Click to Send" onClick={HandleClickB} />
 </div>
 
 
@@ -357,19 +438,37 @@ const sendEmail = (e) => {
           </div>
         </div>
       )}
+</div>
+{/* ____________________________________________________________________________________________
+____________________________________________________________________________________________ */}
 
 
 
+{/* media data zone
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________ */}
+<div className='mediaDataZone'>
+<TestHome />
+</div>
+{/* __________________________________________________________________________________________________
+__________________________________________________________________________________________________ */}
 
-      <div className={gamesdata ?"productListContaner" : "gamesdata"}>
+{/* 
+products zone
+_______________________________________________________________________________________________________
+_______________________________________________________________________________________________________ */}
+
+
+
+      <div className={gamesdata ?"productListContaner" : "gamesdata"} style={{zIndex:'1'}}>
       <div className="product-list">
         {products.filter(product => {
           return search.toLocaleLowerCase() === '' ? product : product.title.toLocaleLowerCase().includes(search.toLocaleLowerCase());
         }).map(product => (
           <div key={product.title} className="product-item">
             <img className='catrImg' src={product.image} loading='lazy' alt={product.title} onClick={()=> {setImgcart([...imgcart, product]);setImgcartOner(true)}} />
-            <h3 onClick={()=> {setImgcart([...imgcart, product]);setImgcartOner(true)}}>{product.title}</h3>
-            <p>Size: {product.price} GB</p>
+            {/* <h3 onClick={()=> {setImgcart([...imgcart, product]);setImgcartOner(true)}}>{product.title}</h3> */}
+            {/* <p>Size: {product.price} GB</p> */}
             <button className='orderbutton orderNaw' onClick={() => addToCart(product)}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
           </div>
         ))}
@@ -415,6 +514,15 @@ const sendEmail = (e) => {
 
 
 
+
+{/* _______________________________________________________________________________________________________
+_______________________________________________________________________________________________________ */}
+
+
+{/* detail cart zone
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________ */}
+
 <div className={imgcartOner ?'test2026' :'test2026Off'}>
 
 {/* <img className='catrImg' src={setImgcart} loading='lazy' alt={'nane'} /> */}
@@ -450,11 +558,25 @@ const sendEmail = (e) => {
 </div>
 
 
+{/* _________________________________________________________________________________________________
+_________________________________________________________________________________________________ */}
+
+
+
+
+
+
+
+</div>
+</>}
+
+</>
+
 
 
     </div>
-}</>
-  );
-};
+  )
+}
 
-export default ProductList;
+export default ProductNew
+
