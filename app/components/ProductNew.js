@@ -27,32 +27,6 @@ import { AiTwotonePhone } from "react-icons/ai";
 const ProductNew = () => {
   
   
-  // ______________________________________________________________________________________________
-// stop pack code
-const location = useLocation();
-  const navigationType = useNavigationType();
-
-  useEffect(() => {
-    // ينفذ فقط لما يكون التنقل عن طريق زر الرجوع أو التقدم (POP)
-    if (navigationType === NavigationType.Pop) {
-      setImgcart([]);
-      setImgcartOner(false);
-    }
-  }, [location, navigationType]);
-  
-  useEffect(() => {
-  const handleBackButton = () => {
-    setImgcart([]);
-    setImgcartOner(false);
-  };
-
-  window.addEventListener('popstate', handleBackButton);
-
-  return () => {
-    window.removeEventListener('popstate', handleBackButton);
-  };
-}, []);
-// ______________________________________________________________________________________________
 
 
 
