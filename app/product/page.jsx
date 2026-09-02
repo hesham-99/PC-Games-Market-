@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import ProductList from '../components/ProductList';
-import productNew from '../components/ProductNew';
+
 export const metadata = {
     title: "PGM/Games page", 
     description: 'This is the Product page of the pc games market store'
@@ -9,7 +9,7 @@ export const metadata = {
 export default function Product() {  // استخدم PascalCase
     return (
         <div>
-            <productNew />
+            <ProductList />
         </div>
     );
 }

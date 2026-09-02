@@ -337,7 +337,7 @@ const sendEmail = (e) => {
 </div> 
 
 <div className='formData'>
-<input className={hesham? 'Send animate__animated animate__zoomIn': 'hesham animate__animated animate__zoomOut'} type="submit" value="Click to Send" onClick={handleClickB } />
+<input className={hesham? 'Send animate__animated animate__zoomIn': 'hesham animate__animated animate__zoomOut'} type="submit" value="Click to Send" onClick={handleClickB} />
 </div>
 
 
