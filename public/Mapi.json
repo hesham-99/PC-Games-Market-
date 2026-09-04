@@ -12739,4 +12739,23 @@
             "count": 146
         }
     }
+    ,
+    {
+        "id": 788,
+        "title": "* Dragons Dogma 2 *",
+        "price": 62.4,
+        "description": "Dragon’s Dogma 2 is a single player, narrative driven action-RPG that challenges the players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more – in a truly immersive fantasy world.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i5 10600 / AMD Ryzen 5 3600",
+            "VideoCard":"6NVIDIA GeForce GTX 1070 / AMD Radeon RX 5500 XT with 8GB VRAM",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://www.dragonsdogma.com/2/assets/images/common/share.png",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aacf7545-f3cd-48d5-b931-28ce4a28db0e/dh39by3-a7475611-08f2-42ed-a7ca-8e6c1cc79e39.png/v1/fill/w_894,h_894/dragon_s_dogma_2__v1_by_saif96_dh39by3-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiIvZi9hYWNmNzU0NS1mM2NkLTQ4ZDUtYjkzMS0yOGNlNGEyOGRiMGUvZGgzOWJ5My1hNzQ3NTYxMS0wOGYyLTQyZWQtYTdjYS04ZTZjMWNjNzllMzkucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wGW9CEXYRCmFEU5lf3Ooj1M5yvsNNVS8jfpFlSzHyUs",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
