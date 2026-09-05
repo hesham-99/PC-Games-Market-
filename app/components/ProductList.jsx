@@ -1,69 +1,69 @@
-// "use client";
+"use client";
 
-// import React, { useState, useEffect } from 'react';
-// // import { Link } from 'react-router-dom';
-// import  { useRef } from 'react';
-// // import HashLoader from 'react-spinners/HashLoader';
-// import emailjs from '@emailjs/browser';
-// // import { useNavigate } from 'react-router-dom';
-// import { PacmanLoader } from 'react-spinners';
-// import { IoHome } from "react-icons/io5";
-// import { RiArrowGoBackLine } from "react-icons/ri";
-// import { HiX } from "react-icons/hi";
-// // import { FaBeer } from "react-icons/fa";
-// import { BsBackspaceFill } from "react-icons/bs";
-// import { BsBagCheckFill } from "react-icons/bs";
-// import { BsBagXFill } from "react-icons/bs";
-// // import { IoCall } from "react-icons/bs";
-// import Link from 'next/link';
+import React, { useState, useEffect } from 'react';
+// import { Link } from 'react-router-dom';
+import  { useRef } from 'react';
+// import HashLoader from 'react-spinners/HashLoader';
+import emailjs from '@emailjs/browser';
+// import { useNavigate } from 'react-router-dom';
+import { PacmanLoader } from 'react-spinners';
+import { IoHome } from "react-icons/io5";
+import { RiArrowGoBackLine } from "react-icons/ri";
+import { HiX } from "react-icons/hi";
+// import { FaBeer } from "react-icons/fa";
+import { BsBackspaceFill } from "react-icons/bs";
+import { BsBagCheckFill } from "react-icons/bs";
+import { BsBagXFill } from "react-icons/bs";
+// import { IoCall } from "react-icons/bs";
+import Link from 'next/link';
 
-// import { HiBackspace } from "react-icons/hi";
-// import { HiArrowNarrowRight } from "react-icons/hi";
-// import { FaCartArrowDown } from "react-icons/fa6";
-// import { AiOutlineClose } from "react-icons/ai";
-
-
-// const ProductList = () => {
+import { HiBackspace } from "react-icons/hi";
+import { HiArrowNarrowRight } from "react-icons/hi";
+import { FaCartArrowDown } from "react-icons/fa6";
+import { AiOutlineClose } from "react-icons/ai";
 
 
-// // ______________________________________________________________________________________________
+const ProductList = () => {
 
-//   const [cart, setCart] = useState([]);
-//   const [products, setProducts] = useState([]);
-//   const [harddata,setHarddata]=useState([])
-//   const [accessoriesdata,setAccessoriesdata]=useState([])
 
-//   // ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
+
+  const [cart, setCart] = useState([]);
+  const [products, setProducts] = useState([]);
+  const [harddata,setHarddata]=useState([])
+  const [accessoriesdata,setAccessoriesdata]=useState([])
+
+  // ______________________________________________________________________________________________
 
   
   
-//   const [showCart, setShowCart] = useState(false);
-//   const [search, setSearch] = useState('');
-//   const [loding,setLodong]=useState(false);
+  const [showCart, setShowCart] = useState(false);
+  const [search, setSearch] = useState('');
+  const [loding,setLodong]=useState(false);
 
-//   // ______________________________________________________________________________________________
-//   // روتنج الالعاب و الهردات والاكسيسوار
+  // ______________________________________________________________________________________________
+  // روتنج الالعاب و الهردات والاكسيسوار
   
-//   const [gamesdata,setGamesdata]=useState(true)
-//   const [hardZone,setHardZone]=useState(false)
-//   const [accessoriesZone,setAccessoriesZone]=useState(false)
+  const [gamesdata,setGamesdata]=useState(true)
+  const [hardZone,setHardZone]=useState(false)
+  const [accessoriesZone,setAccessoriesZone]=useState(false)
 
-//   // ______________________________________________________________________________________________
-//     //الكرت التعريفى للالعاب
-//   const [imgcart, setImgcart] = useState([]);
-//   const [imgcartOner, setImgcartOner] = useState(false);
+  // ______________________________________________________________________________________________
+    //الكرت التعريفى للالعاب
+  const [imgcart, setImgcart] = useState([]);
+  const [imgcartOner, setImgcartOner] = useState(false);
 
 
-//   // ______________________________________________________________________________________________
+  // ______________________________________________________________________________________________
 
-// useEffect(()=>{
-//     setLodong(true)
-//     setTimeout(()=>{setLodong(false)},2500)
-// },[])
+useEffect(()=>{
+    setLodong(true)
+    setTimeout(()=>{setLodong(false)},2500)
+},[])
 
-// // ______________________________________________________________________________________________
-// // ______________________________________________________________________________________________
-// // ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
 
 //   useEffect(() => {
 //     // https://fakestoreapi.com/products
@@ -74,7 +74,7 @@
 //       .catch(error => console.error('Error fetching products:', error));
 //   }, []);
 
-// // ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
 
 //   useEffect(() => {
 //     // https://fakestoreapi.com/products
@@ -84,7 +84,7 @@
 //       .then(data => setHarddata(data))
 //       .catch(error => console.error('Error fetching products:', error));
 //   }, []);
-// // ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
 //   useEffect(() => {
 //     // https://fakestoreapi.com/products
 //     // \Mapi.json
@@ -94,136 +94,136 @@
 //       .catch(error => console.error('Error fetching products:', error));
 //   }, []);
 // // ______________________________________________________________________________________________
-// // ______________________________________________________________________________________________
-// // ______________________________________________________________________________________________
-// const[inputValueName,setInputValueName]= useState ('')
-// const[inputValueEmail,setInputValueEmail]= useState ('')
-// const[inputValuePhone,setInputValuePhone]= useState ('')
-// const handelChangeName = (e)=>{setInputValueName(e.target.value)}
-// const handelChangeEmail = (e)=>{setInputValueEmail(e.target.value)}
-// const  [ hesham ,setHesham]= useState(false)
-// const handelChangePhone = (e)=>{setInputValuePhone(e.target.value);if(e.target.value.length >= 11 ){setHesham(true)} else if (e.target.value.length <= 11 ){setHesham(false)}}
+// ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
+const[inputValueName,setInputValueName]= useState ('')
+const[inputValueEmail,setInputValueEmail]= useState ('')
+const[inputValuePhone,setInputValuePhone]= useState ('')
+const handelChangeName = (e)=>{setInputValueName(e.target.value)}
+const handelChangeEmail = (e)=>{setInputValueEmail(e.target.value)}
+const  [ hesham ,setHesham]= useState(false)
+const handelChangePhone = (e)=>{setInputValuePhone(e.target.value);if(e.target.value.length >= 11 ){setHesham(true)} else if (e.target.value.length <= 11 ){setHesham(false)}}
 
 
-// const [nexta , setNexta] = useState(false)
-// const [nextb , setNextb] = useState(true)
+const [nexta , setNexta] = useState(false)
+const [nextb , setNextb] = useState(true)
 
-// const NextData = ()=>{
-//   setNexta(true);
-//   setNextb(false)
-// }
+const NextData = ()=>{
+  setNexta(true);
+  setNextb(false)
+}
 
-// const NextDataB = ()=>{
-//   setNexta(false);
-//   setNextb(true)
-// }
+const NextDataB = ()=>{
+  setNexta(false);
+  setNextb(true)
+}
 
-// // const navigate = useNavigate();
-// // const handleClickB = () => {
-// //   setTimeout(() => {
-// //     navigate('/Contact'); 
-// //   }, 1000); 
-// // };
+// const navigate = useNavigate();
+// const handleClickB = () => {
+//   setTimeout(() => {
+//     navigate('/Contact'); 
+//   }, 1000); 
+// };
 
-// const [testorder , setTestorder ] = useState(false)
-// const handleClickB= ()=>{setTestorder(true)};
-
-
-
-
-// const form = useRef();
-
-// const sendEmail = (e) => {
-//   e.preventDefault();
-
-//   emailjs
-//     .sendForm('service_rbp8max', 'template_gajonz9', form.current, {
-//       publicKey: 'y1niHeZ9lTaiUtQ0g',
-//     })
-//     .then(
-//       () => {
-//         console.log('SUCCESS!');
-//       },
-//       (error) => {
-//         console.log('FAILED...', error.text);
-//       },
-//     );
-//       e.target.reset()
-//   };
-
-
-// // ______________________________________________________________________________________________
-// // ______________________________________________________________________________________________
-// // ______________________________________________________________________________________________
+const [testorder , setTestorder ] = useState(false)
+const handleClickB= ()=>{setTestorder(true)};
 
 
 
-//   const addToCart = product => {
-//     // Check if the product already exists in the cart
-//     if (!cart.some(cartItem => cartItem.id === product.id)) {
-//       setCart([...cart, product]);
-//     } else {
-//       alert('This game is already in your cart !!');
-//     }
-//   };
 
-//   const removeFromCart = productId => {
-//     setCart(cart.filter(product => product.id !== productId));
-//   };
+const form = useRef();
+
+const sendEmail = (e) => {
+  e.preventDefault();
+
+  emailjs
+    .sendForm('service_rbp8max', 'template_gajonz9', form.current, {
+      publicKey: 'y1niHeZ9lTaiUtQ0g',
+    })
+    .then(
+      () => {
+        console.log('SUCCESS!');
+      },
+      (error) => {
+        console.log('FAILED...', error.text);
+      },
+    );
+      e.target.reset()
+  };
+
+
+// ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
+// ______________________________________________________________________________________________
+
+
+
+  const addToCart = product => {
+    // Check if the product already exists in the cart
+    if (!cart.some(cartItem => cartItem.id === product.id)) {
+      setCart([...cart, product]);
+    } else {
+      alert('This game is already in your cart !!');
+    }
+  };
+
+  const removeFromCart = productId => {
+    setCart(cart.filter(product => product.id !== productId));
+  };
 
 
   
-//   // State for product titles in cart
-//   const [productTitles, setProductTitles] = useState([]);
-//   // Update productTitles state whenever the cart changes
-//   useEffect(() => {
-//     const titles = cart.map(product => product.title);
-//     setProductTitles(titles);
-//   }, [cart]);
-//   //  console.log(productTitles);
+  // State for product titles in cart
+  const [productTitles, setProductTitles] = useState([]);
+  // Update productTitles state whenever the cart changes
+  useEffect(() => {
+    const titles = cart.map(product => product.title);
+    setProductTitles(titles);
+  }, [cart]);
+  //  console.log(productTitles);
 
-//   // State for product price in cart
-//   const [productPrice, setProductPrice] = useState([]);
-//   // Update productPrice state whenever the cart changes
-//   useEffect(() => {
-//     const price = cart.map(product => product.price);
-//     setProductPrice(price);
-//   }, [cart]);
-//   // console.log(productPrice);
+  // State for product price in cart
+  const [productPrice, setProductPrice] = useState([]);
+  // Update productPrice state whenever the cart changes
+  useEffect(() => {
+    const price = cart.map(product => product.price);
+    setProductPrice(price);
+  }, [cart]);
+  // console.log(productPrice);
 
-//   const sumProductPrice = productPrice.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
-//   // console.log(sumProductPrice);
-//   const TotalGB = parseFloat(sumProductPrice.toFixed(2));
-// // console.log(TotalGB);
-
-
+  const sumProductPrice = productPrice.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+  // console.log(sumProductPrice);
+  const TotalGB = parseFloat(sumProductPrice.toFixed(2));
+// console.log(TotalGB);
 
 
 
 
 
-// // ____________________________________________________________________________________________________
-// // ____________________________________________________________________________________________________
-// // ____________________________________________________________________________________________________
-// // ____________________________________________________________________________________________________
-// // ____________________________________________________________________________________________________
 
 
-//   return (
-//   <>
-
-// {loding ? 
-//  <div className='loding'>
-//  <PacmanLoader
-//   color="#e94f08"
-//   cssOverride={{}}
-//   size={77}
-//   speedMultiplier={1}
-// /> <h1 className='loading000'>product Loading ...</h1> </div>
-
-//      :
+// ____________________________________________________________________________________________________
+// ____________________________________________________________________________________________________
+// ____________________________________________________________________________________________________
+// ____________________________________________________________________________________________________
+// ____________________________________________________________________________________________________
 
 
+  return (
+  <>
+
+{loding ? 
+ <div className='loding'>
+ <PacmanLoader
+  color="#e94f08"
+  cssOverride={{}}
+  size={77}
+  speedMultiplier={1}
+/> <h1 className='loading000'>product Loading ...</h1> </div>
+
+     :
+
+<div >go home</div>
 
 //     <div>
 
@@ -453,8 +453,11 @@
 
 
 //     </div>
-// }</>
-//   );
-// };
 
-// export default ProductList;
+
+
+}</>
+  );
+};
+
+export default ProductList;
