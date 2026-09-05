@@ -12748,11 +12748,30 @@
         "category": {
             "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
             "Processor":" Intel Core i5 10600 / AMD Ryzen 5 3600",
-            "VideoCard":"6NVIDIA GeForce GTX 1070 / AMD Radeon RX 5500 XT with 8GB VRAM",
+            "VideoCard":"NVIDIA GeForce GTX 1070 / AMD Radeon RX 5500 XT with 8GB VRAM",
             "MemoryRAM":"16 GB"
         },
  "homebace": "https://www.dragonsdogma.com/2/assets/images/common/share.png",
     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aacf7545-f3cd-48d5-b931-28ce4a28db0e/dh39by3-a7475611-08f2-42ed-a7ca-8e6c1cc79e39.png/v1/fill/w_894,h_894/dragon_s_dogma_2__v1_by_saif96_dh39by3-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiIvZi9hYWNmNzU0NS1mM2NkLTQ4ZDUtYjkzMS0yOGNlNGEyOGRiMGUvZGgzOWJ5My1hNzQ3NTYxMS0wOGYyLTQyZWQtYTdjYS04ZTZjMWNjNzllMzkucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wGW9CEXYRCmFEU5lf3Ooj1M5yvsNNVS8jfpFlSzHyUs",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
+        "id": 789,
+        "title": "* The Blood of Dawnwalker *",
+        "price": 54.5,
+        "description": "The Blood of Dawnwalker is an open-world dark fantasy action RPG set in 14th-century Europe. You play as Coen, human by day and vampire by night, fighting to save your family in a story shaped by your actions and the secrets you uncover.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i5-11400F / AMD Ryzen 7 2700X",
+            "VideoCard":"NVIDIA GTX 1060 / Radeon RX 580",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3751260/b5a85a6bb1c4a60a28535d421bdd368f86c58437/capsule_616x353.jpg?t=1788552059",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dmoys27-266c6c02-546f-4bdf-ab58-3586e1353f57.png",
     "rating": {
             "rate": 4.5,
             "count": 146
