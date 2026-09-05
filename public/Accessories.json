@@ -3,7 +3,7 @@
         "id": 500001,
         "title": "Point PT-210",
         "price": 0,
-        "description": "",
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
         "category": "accessories",
         "image": "https://i.ibb.co/VcHk6sBW/1-removebg-preview-2.png",
         "rating": {
@@ -11,6 +11,11 @@
             "count": 146
         }
         ,"priceNow": 200
+        
+        , "imageA" : "./New folder/1tera.png"
+        , "imageB" : "./New folder/2tera.png"
+        , "imageC" : "./New folder/3tera.png"
+        , "imageD" : "./New folder/1tera.png"
     }
     ,
     {
@@ -26,6 +31,12 @@
             
         }
         ,"priceNow": 195
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
+        
     }
  ,
     {
@@ -40,7 +51,12 @@
             "count": 146
             
         }
-        ,"priceNow": 230
+        ,"priceNow": 230      
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
     ,
     {
@@ -56,6 +72,11 @@
             
         }
         ,"priceNow": 200
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
     
  ,
@@ -72,6 +93,11 @@
             
         }
         ,"priceNow": 50
+
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
     ,
     {
@@ -87,6 +113,11 @@
             
         }
         ,"priceNow": 150
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
     ,
     {
@@ -102,6 +133,11 @@
             
         }
         ,"priceNow": 85
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
     ,
     {
@@ -117,6 +153,11 @@
             
         }
         ,"priceNow": 190
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
     ,
     {
@@ -132,6 +173,11 @@
             
         }
         ,"priceNow": 225
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
     ,
     {
@@ -147,6 +193,11 @@
             
         }
         ,"priceNow": 350
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
      ,
     {
@@ -162,6 +213,11 @@
             
         }
         ,"priceNow": 325
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
      ,
     {
@@ -177,6 +233,11 @@
             
         }
         ,"priceNow": 175
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
      ,
     {
@@ -192,6 +253,11 @@
             
         }
         ,"priceNow": 470
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
       ,
     {
@@ -207,6 +273,11 @@
             
         }
         ,"priceNow": 470
+
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
        
        ,
@@ -223,6 +294,11 @@
             
         }
         ,"priceNow": 275
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
        ,
     {
@@ -238,6 +314,11 @@
             
         }
         ,"priceNow": 550
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
         ,
     {
@@ -253,6 +334,11 @@
             
         }
         ,"priceNow": 275
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
         ,
     {
@@ -268,6 +354,11 @@
             
         }
         ,"priceNow": 500
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
        ,
     {
@@ -283,6 +374,11 @@
             
         }
         ,"priceNow": 200
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
      ,
     {
@@ -298,6 +394,11 @@
             
         }
         ,"priceNow": 265
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
       ,
     {
@@ -313,6 +414,11 @@
             
         }
         ,"priceNow": 100
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
       ,
     {
@@ -328,6 +434,11 @@
             
         }
         ,"priceNow": 160
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
      ,
     {
@@ -343,5 +454,10 @@
             
         }
         ,"priceNow": 125
+        
+        , "imageA" : ""
+        , "imageB" : ""
+        , "imageC" : ""
+        , "imageD" : ""
     }
 ]
