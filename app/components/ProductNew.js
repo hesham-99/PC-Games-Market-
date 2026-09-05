@@ -575,7 +575,7 @@ ________________________________________________________________________________
                       <h1>price</h1>
                       <span style={{color:'yellowgreen', fontSize:'50px'}}>{product.priceNow} LE</span> 
                   <hr/>
-                  <button className='orderbutton orderNaw'  onClick={() => {addToCart(product);setImgcart([]); setImgcartOnerB(false)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><FaCartArrowDown /></span></button>           
+                  <button className='orderbutton orderNaw'  onClick={() => {addToCart(product);setImgcart([]); setImgcartOnerB(false);setLiImgcartsmartSwiperImg([]);}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><FaCartArrowDown /></span></button>           
                   <button className='orderbutton orderNaw' onClick={() => {setImgcart([]); setImgcartOnerB(false);setLiImgcartsmartSwiperImg([]);}}><span className='checkSend orderbuttonTEXT'> Go back</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><HiBackspace /></span></button>
                                         <div className='spaceImgcart'></div>
                      </div>
