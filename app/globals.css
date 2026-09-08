@@ -1575,6 +1575,10 @@ box-shadow: inset 0 0 10px #fa9600, 0 0 20px #000000;
       margin-top: 20px;
       }
 
+        .zoomAnimation{
+          width: 250px; /* Adjust the width as needed */
+          height: 250px; /* Adjust the height as needed */
+        }
 
 
     }

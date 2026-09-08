@@ -554,14 +554,16 @@ ________________________________________________________________________________
                       <h3>{product.description}</h3>
                       <hr />
                       <h1 style={{color:'#ff9900'}}>Images</h1>
-                      <div className='liImgcartsmartSwiperImgVEWdev'>
-                      <img  className='liImgcartsmartSwiperImgVEW' src={liImgcartsmartSwiperImg} loading='lazy'  />
-                      </div>
+
                       <div className='liImgcartsmartSwiper'>
                       <img  className='liImgcartsmartSwiperImg' src={product.imageA} loading='lazy'   onClick={()=>{setLiImgcartsmartSwiperImg(product.imageA)}}/>
                       <img  className='liImgcartsmartSwiperImg' src={product.imageB} loading='lazy'   onClick={()=>{setLiImgcartsmartSwiperImg(product.imageB)}}/>
                       <img  className='liImgcartsmartSwiperImg' src={product.imageC} loading='lazy'   onClick={()=>{setLiImgcartsmartSwiperImg(product.imageC)}} />
                       <img  className='liImgcartsmartSwiperImg' src={product.imageD} loading='lazy'   onClick={()=>{setLiImgcartsmartSwiperImg(product.imageD)}} />
+                      </div>
+                      
+                      <div className='liImgcartsmartSwiperImgVEWdev'>
+                      <img  className='liImgcartsmartSwiperImgVEW' src={liImgcartsmartSwiperImg} loading='lazy'  />
                       </div>
                       <hr />
 
