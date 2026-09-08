@@ -12,10 +12,10 @@
         }
         ,"priceNow": 200
         
-        , "imageA" : "./New folder/1tera.png"
-        , "imageB" : "./New folder/2tera.png"
-        , "imageC" : "./New folder/3tera.png"
-        , "imageD" : "./New folder/1tera.png"
+        , "imageA" : "https://www.eastasiaeg.com/media/catalog/product/cache/96123baaef328b92941fc6bf41e42dc8/p/h/photo_46_.jpg"
+        , "imageB" : "https://www.eastasiaeg.com/media/catalog/product/cache/96123baaef328b92941fc6bf41e42dc8/1/_/1_5_57.jpg"
+        , "imageC" : "https://kcsstore.com/wp-content/uploads/2026/06/8U8Pss4q4NOdb-vBVsu4Xq-500x500.webp"
+        , "imageD" : "https://kcsstore.com/wp-content/uploads/2026/06/18073_oogim4zqqo6evqx8_1-500x500.webp"
     }
     ,
     {
@@ -32,8 +32,8 @@
         }
         ,"priceNow": 195
         
-        , "imageA" : ""
-        , "imageB" : ""
+        , "imageA" : "https://www.raneen.com/media/catalog/product/1/8/18076_opwx3sknyr4xp8zr.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
+        , "imageB" : "https://m.media-amazon.com/images/I/710yZoQ6kZL._AC_UF894,1000_QL80_.jpg"
         , "imageC" : ""
         , "imageD" : ""
         
@@ -43,7 +43,7 @@
         "id": 500003,
         "title": "Jertech Sword XP10",
         "price": 0,
-        "description": "",
+        "description": "Adjustable up to 3200–4800 DPI/ Up to 1000Hz high-speed response rate/ 6 to 7 programmable macro buttons/ Dynamic RGB Chroma backlighting",
         "category": "accessories",
         "image": "https://i.ibb.co/6KrnGVP/c0038a309e0c70a79e9e456c88e464bc-removebg-preview.png",
         "rating": {
@@ -53,9 +53,9 @@
         }
         ,"priceNow": 230      
         
-        , "imageA" : ""
-        , "imageB" : ""
-        , "imageC" : ""
+        , "imageA" : "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/30/9335431/1.jpg?1977"
+        , "imageB" : "https://kimostore.net/cdn/shop/files/JertechSWORDXP10WiredRGBGamingMouse3600Dpi.jpg?v=1779644497"
+        , "imageC" : "https://img.drz.lazcdn.com/static/lk/p/ec0374dc80664c73b4fb7b3ef91c5378.png_960x960q80.png_.webp"
         , "imageD" : ""
     }
     ,

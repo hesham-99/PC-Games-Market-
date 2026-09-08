@@ -12777,4 +12777,42 @@
             "count": 146
         }
     }
+    ,
+    {
+        "id": 790,
+        "title": "* Prince of Persia - The Lost Crown *",
+        "price": 27.1,
+        "description": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i5-4460 3.4 GHz, AMD Ryzen3 1200 3.1 GHz",
+            "VideoCard":"NVIDIA GeForce GTX 950 (2GB VRAM) or AMD Radeon RX 5500 XT (4GB VRAM)",
+            "MemoryRAM":"8 GB"
+        },
+ "homebace": "https://gamingrespawn.com/wp-content/uploads/2024/01/ezgif-2-0cb6664e1a.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/677af80a-4f37-4a8c-8228-1dc57a31cf6f/dgkekrt-ccce0451-20f4-4ae9-974d-db5b8d097490.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82NzdhZjgwYS00ZjM3LTRhOGMtODIyOC0xZGM1N2EzMWNmNmYvZGdrZWtydC1jY2NlMDQ1MS0yMGY0LTRhZTktOTc0ZC1kYjViOGQwOTc0OTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4pWuZNM-bO0tZx7G1MC2E2o9p5mPzKZSqw0IKhCJaNE",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+    ,
+    {
+        "id": 791,
+        "title": "* Star Wars Outlaws *",
+        "price": 71.6,
+        "description": "Experience the first-ever open world Star Wars™ game and explore distinct locations across the galaxy, both iconic and new. Risk it all as scoundrel Kay Vess, seeking freedom and the means to start a new life.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen 5 3600 @ 3.6 GHz, Intel Core i7-8700K @ 3.70 GHz, or better",
+            "VideoCard":" NVIDIA GeForce GTX 1660 (6 GB), AMD RX 5600XT (6 GB)",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://swtorista.com/articles/wp-content/uploads/2023/06/outlaws.jpeg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4d746fa-7f3e-4dce-a950-9cba1ce026c5/dhx71w7-2527468a-0fda-4ee9-8d27-162b96715d70.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iNGQ3NDZmYS03ZjNlLTRkY2UtYTk1MC05Y2JhMWNlMDI2YzUvZGh4NzF3Ny0yNTI3NDY4YS0wZmRhLTRlZTktOGQyNy0xNjJiOTY3MTVkNzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BFO8zi_FnMDw9iAU26XyDKGfLr4erbB57srLF9Ey-7I",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
