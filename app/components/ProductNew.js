@@ -61,11 +61,7 @@ const ProductNew = () => {
     window.onpopstate = () => {
       setImgcartOner(false); setImgcartOnerB(false); // هنا بيتنفذ الكود اللي عايزه
     };
-
     // تنظيف الحدث عند الخروج من الصفحة
-    return () => {
-      window.onpopstate = null;
-    };
   }, []);
 
 
