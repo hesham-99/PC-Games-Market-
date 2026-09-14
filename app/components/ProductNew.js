@@ -48,12 +48,29 @@ const ProductNew = () => {
 
   // ______________________________________________________________________________________________
   // ايقاف زر الرجوع في المتصفح
+
+  // useEffect(() => {
+  //   window.history.pushState(null, "", window.location.href);
+  //   window.onpopstate = () => {
+  //     window.history.pushState(null, "", window.location.href);
+  //   };
+  // }, []);
+
   useEffect(() => {
-    window.history.pushState(null, "", window.location.href);
+    // لما المستخدم يضغط زر الرجوع
     window.onpopstate = () => {
-      window.history.pushState(null, "", window.location.href);
+      setImgcartOner(false); setImgcartOnerB(false); // هنا بيتنفذ الكود اللي عايزه
+    };
+
+    // تنظيف الحدث عند الخروج من الصفحة
+    return () => {
+      window.onpopstate = null;
     };
   }, []);
+
+
+
+
   // ______________________________________________________________________________________________
 
   // ______________________________________________________________________________________________
