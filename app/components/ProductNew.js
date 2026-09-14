@@ -48,24 +48,12 @@ const ProductNew = () => {
 
   // ______________________________________________________________________________________________
   // ايقاف زر الرجوع في المتصفح
-
-  // useEffect(() => {
-  //   window.history.pushState(null, "", window.location.href);
-  //   window.onpopstate = () => {
-  //     window.history.pushState(null, "", window.location.href);
-  //   };
-  // }, []);
-
   useEffect(() => {
-    // لما المستخدم يضغط زر الرجوع
+    window.history.pushState(null, "", window.location.href);
     window.onpopstate = () => {
-      setImgcartOner(false); setImgcartOnerB(false); // هنا بيتنفذ الكود اللي عايزه
+      window.history.pushState(null, "", window.location.href);
     };
-    // تنظيف الحدث عند الخروج من الصفحة
   }, []);
-
-
-
 
   // ______________________________________________________________________________________________
 
