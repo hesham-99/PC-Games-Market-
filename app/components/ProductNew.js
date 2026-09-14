@@ -62,6 +62,7 @@ useEffect(() => {
   window.onpopstate = () => {
     // أولاً غيّر الحالة
     setImgcartOnerB(false);
+    setImgcartOner(false);
 
     // بعد كده ارجع الحالة الأصلية عشان تمنع الرجوع فعليًا
     window.history.pushState(null, "", window.location.href);
