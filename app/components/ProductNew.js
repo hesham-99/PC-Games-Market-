@@ -48,12 +48,33 @@ const ProductNew = () => {
 
   // ______________________________________________________________________________________________
   // ايقاف زر الرجوع في المتصفح
-  useEffect(() => {
+
+  // useEffect(() => {
+  //   window.history.pushState(null, "", window.location.href);
+  //   window.onpopstate = () => {
+  //     window.history.pushState(null, "", window.location.href);
+  //   };
+  // }, []);
+
+
+useEffect(() => {
+  window.history.pushState(null, "", window.location.href);
+  window.onpopstate = () => {
+    // أولاً غيّر الحالة
+    setImgcartOnerB(false);
+
+    // بعد كده ارجع الحالة الأصلية عشان تمنع الرجوع فعليًا
     window.history.pushState(null, "", window.location.href);
-    window.onpopstate = () => {
-      window.history.pushState(null, "", window.location.href);
-    };
-  }, []);
+  };
+
+  // تنظيف الحدث عند الخروج من الصفحة
+  return () => {
+    window.onpopstate = null;
+  };
+}, []);
+
+
+
 
   // ______________________________________________________________________________________________
 
