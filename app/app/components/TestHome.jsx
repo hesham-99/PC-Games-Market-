@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Image from "next/image";
 import "../style/tass.css"
-import logoamg from "../components/extrafiel/3img/swiper/swipA.png";
+import logoamg from "../components/extrafiel/3img/swiper/swipB.png";
 const TestHome = () => {
 
 const [products, setProducts] = useState([]);

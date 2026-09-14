@@ -42,8 +42,36 @@ const ProductNew = () => {
   const [accessoriesdata,setAccessoriesdata]=useState([])
 
   // ______________________________________________________________________________________________
+  // كود التنقل للاعلى
+  // const scrollToTop = () => {window.scrollTo({ top: 0});};
+  // ______________________________________________________________________________________________
 
-  
+  // ______________________________________________________________________________________________
+  // ايقاف زر الرجوع في المتصفح
+  useEffect(() => {
+    window.history.pushState(null, "", window.location.href);
+    window.onpopstate = () => {
+      window.history.pushState(null, "", window.location.href);
+    };
+  }, []);
+  // ______________________________________________________________________________________________
+
+  // ______________________________________________________________________________________________
+  // الضافة للكرت
+  const [cartAlrt, setCartAlrt] = useState([]);
+  const [cartAlrtON, setCartAlrtON] = useState(false);
+  // const cartAlrtCood = () => {cartAlrtON(true)}
+      // setTimeout(()=>{setCartAlrtON(false)},3000)
+
+if (cartAlrtON === true) {
+  setTimeout(() => {
+    setCartAlrtON(false);
+  }, 3000);
+}
+
+
+  // ______________________________________________________________________________________________
+
   
   const [showCart, setShowCart] = useState(false);
   const [search, setSearch] = useState('');
@@ -171,9 +199,10 @@ const sendEmail = (e) => {
     // Check if the product already exists in the cart
     if (!cart.some(cartItem => cartItem.id === product.id)) {
       setCart([...cart, product]);
-    } else {
-      alert('This game is already in your cart !!');
     }
+    //  else {
+    //   alert('This game is already in your cart !!');
+    // }
   };
 
   const removeFromCart = productId => {
@@ -252,6 +281,13 @@ const sendEmail = (e) => {
 
      :
 <>
+
+<div className={ cartAlrtON ? 'cartAlrtON':'cartAlrtOFF'}>
+  <h3>{cartAlrt}</h3> <h3>in cart</h3>
+</div>
+
+
+
 {/* _________________________________________________________________________________________________
 order Zone
 _________________________________________________________________________________________________
@@ -279,8 +315,32 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________  */}
 
 <div className='navProductNew'>
-      <Link href='/contactA' className='cartOpiner'><AiTwotonePhone /></Link>
+
+ {/* ______________________________________________________________________________________________ */}
+ {/* روتنج الالعاب و الهردات والاكسيسوار */}
+<button className={gamesdata ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setGamesdata(true);setHardZone(false);setAccessoriesZone(false);window.scrollTo({ top: 0, behavior: 'smooth' });}}>Games</button>
+<button className={hardZone ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setHardZone(true);setGamesdata(false);setAccessoriesZone(false);window.scrollTo({ top: 0, behavior: 'smooth' });}}>Hard Drive</button>
+<button className={accessoriesZone ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setAccessoriesZone(true);setGamesdata(false);setHardZone(false);window.scrollTo({ top: 0, behavior: 'smooth' });}}>Accessories</button>
+ {/* ______________________________________________________________________________________________ */}
+
+
+
+
 {/* <IoHome /> */}
+
+
+
+
+        <div className='searchZonecontaner'> 
+          <input
+            className='searthZone'
+            type="search"
+            placeholder="ابحث عن المنتج هنا"
+            onChange={e => setSearch(e.target.value)}
+            />
+        </div>
+
+
 
         <button className='cartOpiner' onClick={() => setShowCart(!showCart)}>
           {showCart ? 
@@ -292,29 +352,7 @@ ________________________________________________________________________________
         </button>
 
 
-        <div className='searchZonecontaner'> 
-          <input
-            className='searthZone'
-            type="search"
-            placeholder="ابحث عن اللعبة هنا"
-            onChange={e => setSearch(e.target.value)}
-            />
-        </div>
-
-
-
-
-
-
- {/* ______________________________________________________________________________________________ */}
- {/* روتنج الالعاب و الهردات والاكسيسوار */}
-<button className={gamesdata ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setGamesdata(true);setHardZone(false);setAccessoriesZone(false)}}>Games</button>
-<button className={hardZone ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setHardZone(true);setGamesdata(false);setAccessoriesZone(false)}}>Hard Drive</button>
-<button className={accessoriesZone ? 'switsherbuttonRun' : 'switsherbutton'} onClick={()=>{setAccessoriesZone(true);setGamesdata(false);setHardZone(false)}}>Accessories</button>
- {/* ______________________________________________________________________________________________ */}
-
-
-
+      <Link href='/contactA' className='cartOpiner'><AiTwotonePhone /></Link>
 
 
 
@@ -342,7 +380,7 @@ ________________________________________________________________________________
       {showCart && (
         <div className="cartZone" style={{marginTop:'300px'}}>
           <div className="cart">
-            <h2 className='cartHEDER'>Shopping Cart  <button className='onCartHoping' onClick={() => setShowCart(!showCart)}><HiX /></button></h2>
+            <h2 className='cartHEDER'>Shopping Cart  <button className='liImgcartsmartOFFeR' onClick={() => setShowCart(!showCart)}><HiX /></button></h2>
             <ul className={nextb?'cartContet':'LockZone'}>
               {cart.map(product => (
                 <li key={product.id} className={nextb?'cartproSel':'LockZone'} >
@@ -430,7 +468,6 @@ ________________________________________________________________________________
 </div>
 {/* __________________________________________________________________________________________________
 __________________________________________________________________________________________________ */}
-
 {/* 
 products zone
 _______________________________________________________________________________________________________
@@ -447,7 +484,7 @@ ________________________________________________________________________________
             <img className='catrImg' src={product.image} loading='lazy' alt={product.title} onClick={()=> {setImgcart([...imgcart, product]);setImgcartOner(true)}} />
             <h3 onClick={()=> {setImgcart([...imgcart, product]);setImgcartOner(true)}}>{product.title}</h3>
             <p>Size: {product.price} GB</p>
-            <button className='orderbutton orderNaw' onClick={() => addToCart(product)}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
+            <button className='orderbutton orderNaw' onClick={() => {addToCart(product);setCartAlrt(product.title);setCartAlrtON(true)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
           </div>
         ))}
       </div>
@@ -465,9 +502,9 @@ ________________________________________________________________________________
         }).map(harddata => (
           <div key={harddata.title} className="product-item">
             <img className='catrImg' src={harddata.image} loading='lazy' alt={harddata.title} onClick={()=> {setImgcart([...imgcart, harddata]);setImgcartOnerB(true)}}/>
-            <h3>{harddata.title}</h3>
+            <h3 onClick={()=> {setImgcart([...imgcart, harddata]);setImgcartOnerB(true)}}>{harddata.title}</h3>
             <p>price: {harddata.priceNow} L.E</p>
-            <button className='orderbutton orderNaw' onClick={() => addToCart(harddata)}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
+            <button className='orderbutton orderNaw' onClick={() => {addToCart(harddata);setCartAlrt(harddata.title);setCartAlrtON(true)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
           </div>
         ))}
       </div>
@@ -483,9 +520,9 @@ ________________________________________________________________________________
         }).map(accessoriesdata => (
           <div key={accessoriesdata.title} className="product-item">
             <img className='catrImg' src={accessoriesdata.image} loading='lazy' alt={accessoriesdata.title} onClick={()=> {setImgcart([...imgcart, accessoriesdata]);setImgcartOnerB(true)}}/>
-            <h3>{accessoriesdata.title}</h3>
+            <h3 onClick={()=> {setImgcart([...imgcart, accessoriesdata]);setImgcartOnerB(true)}}>{accessoriesdata.title}</h3>
             <p>price: {accessoriesdata.priceNow} L.E</p>
-            <button className='orderbutton orderNaw' onClick={() => addToCart(accessoriesdata)}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
+            <button className='orderbutton orderNaw' onClick={() => {addToCart(accessoriesdata);setCartAlrt(accessoriesdata.title);setCartAlrtON(true)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span></button>
           </div>
         ))}
       </div></div>
@@ -495,8 +532,6 @@ ________________________________________________________________________________
 
 {/* _______________________________________________________________________________________________________
 _______________________________________________________________________________________________________ */}
-
-
 {/* detail game cart zone
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________ */}
@@ -524,7 +559,7 @@ ________________________________________________________________________________
                       <h1>size by gigabyte</h1>
                       <span style={{color:'yellowgreen', fontSize:'50px'}}>{product.price} GB</span> 
                   <hr/>
-                  <button className='orderbutton orderNaw'  onClick={() => {addToCart(product);setImgcart([]); setImgcartOner(false)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><FaCartArrowDown /></span></button>           
+                  <button className='orderbutton orderNaw'  onClick={() => {addToCart(product);setImgcart([]);setCartAlrt(product.title);setCartAlrtON(true); setImgcartOner(false)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><FaCartArrowDown /></span></button>           
                   <button className='orderbutton orderNaw' onClick={() => {setImgcart([]); setImgcartOner(false);}}><span className='checkSend orderbuttonTEXT'> Go back</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><HiBackspace /></span></button>
                                         <div className='spaceImgcart'></div>
                      </div>
@@ -577,7 +612,7 @@ ________________________________________________________________________________
                       <h1>price</h1>
                       <span style={{color:'yellowgreen', fontSize:'50px'}}>{product.priceNow} LE</span> 
                   <hr/>
-                  <button className='orderbutton orderNaw'  onClick={() => {addToCart(product);setImgcart([]); setImgcartOnerB(false);setLiImgcartsmartSwiperImg([]);}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><FaCartArrowDown /></span></button>           
+                  <button className='orderbutton orderNaw'  onClick={() => {addToCart(product);setImgcart([]); setImgcartOnerB(false);setLiImgcartsmartSwiperImg([]);setCartAlrt(product.title);setCartAlrtON(true)}}><span className='checkSend orderbuttonTEXT'>Add to Cart</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><FaCartArrowDown /></span></button>           
                   <button className='orderbutton orderNaw' onClick={() => {setImgcart([]); setImgcartOnerB(false);setLiImgcartsmartSwiperImg([]);}}><span className='checkSend orderbuttonTEXT'> Go back</span><span style={{paddingLeft:'5px',fontSize:'20px'}}><HiBackspace /></span></button>
                                         <div className='spaceImgcart'></div>
                      </div>
