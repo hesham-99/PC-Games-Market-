@@ -61,9 +61,7 @@ useEffect(() => {
   window.history.pushState(null, "", window.location.href);
   window.onpopstate = () => {
     // أولاً غيّر الحالة
-    setImgcartOnerB(false);
-    setImgcartOner(false);
-
+    setImgcartOner(false);setImgcart([]); setImgcartOnerB(false);setLiImgcartsmartSwiperImg([]);
     // بعد كده ارجع الحالة الأصلية عشان تمنع الرجوع فعليًا
     window.history.pushState(null, "", window.location.href);
   };
