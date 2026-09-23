@@ -871,7 +871,8 @@ border-radius: 14px;
   flex-direction: column;
   padding: 10px;margin: 5px; */
   background-color: #000000c9;
-  box-shadow: 0 0 5px #ff9900;
+  /* box-shadow: 0 0 5px #ff9900; */
+  border: 2px solid #ff9900 ;
   width: 300px;
   height: auto;
   display: flex;
@@ -885,12 +886,44 @@ border-radius: 14px;
 .product-item:hover{
   /* background-color: #000000cc; */
   background-color: #000000d7;
-  box-shadow:
+  /* box-shadow:
   0 0 5px #ff9900,
   0 0 10px #ff6600,
   0 0 15px #ff3300,
-  0 0 20px #ff0000;
+  0 0 20px #ff0000; */
+  border: 2px solid #ff9900 ;
 
+  animation: zoomInOutcart 1.5s ease-in-out infinite;
+}
+
+
+
+@keyframes zoomInOutcart {
+  0% {
+    /* transform: scale(1); */
+
+    box-shadow:
+  0 0 8px #ff9900,
+  0 0 15px #ff6600;
+  }
+
+
+  50% {
+    /* transform: scale(0.9); */
+
+    box-shadow:
+  0 0 8px #ff0000,
+  0 0 15px #ff3300;
+  border: 2px solid #ff3300 ;
+  }
+
+
+  100% {
+    /* transform: scale(1); */
+      box-shadow:
+  0 0 8px #ff9900,
+  0 0 15px #ff6600;
+  }
 }
 
 
@@ -1561,7 +1594,7 @@ background-position: center;
 .liImgcartsmartSwiperImg:hover{
   transition: 0.5s;
   opacity: 100%;
-  box-shadow:0 0 4px #ff6347;
+  box-shadow:0 0 4px #ff9900;
   border-radius: 10px;
 }
 
