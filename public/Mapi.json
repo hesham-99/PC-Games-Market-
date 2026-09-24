@@ -12853,4 +12853,42 @@
             "count": 146
         }
     }
+     ,
+    {
+        "id": 794,
+        "title": "* BLACKWOOD *",
+        "price": 24.5,
+        "description": "",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i5-9600K /AMD Ryzen 5 3600",
+            "VideoCard":" Nvidia GeForce GTX 1660 Super / AMD Radeon RX 5700 ",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://entertainment-focus.com/wp-content/uploads/2026/09/blackwoodfeat.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/593d2b6a-2527-41a1-b24a-6b735872bdb6/dmuhlk7-a628e4ce-990b-4a93-bcac-570fa0c67221.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81OTNkMmI2YS0yNTI3LTQxYTEtYjI0YS02YjczNTg3MmJkYjYvZG11aGxrNy1hNjI4ZTRjZS05OTBiLTRhOTMtYmNhYy01NzBmYTBjNjcyMjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8y3MemG9yoQxUdXNCEv1pP5Fbze9tdiH4IHOfUo287M",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 795,
+        "title": "* SILENT HILL - Townfall *",
+        "price": 73.5,
+        "description": "Returning to an island town to ‘put things right’, Simon Ordell descends into a world of tense evasion, explosive confrontations, and mind-bending puzzles that slowly surface the truth of St. Amelia",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen 5 3600 / Intel i7-8700K",
+            "VideoCard":" NNVIDIA GeForce RTX 2060 Super / AMD Radeon RX 6600 ",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://gpstatic.com/acache/82/24/1/uk/t620x300-38022d4bfadbc257c41d981a6684de00.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dmk75sx-5b25cb54-5c05-4585-af6d-e564a774f9f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83MzIwNmJkOS0yNTdjLTRmNTAtYjFmMy01OWEzMDZlMjQwODQvZG1rNzVzeC01YjI1Y2I1NC01YzA1LTQ1ODUtYWY2ZC1lNTY0YTc3NGY5ZjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iLGOasDxQ7sEWjx2ct6t50VprEnj6_Ejf4MfCvNvLIc",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
