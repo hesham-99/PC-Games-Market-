@@ -12891,4 +12891,42 @@
             "count": 146
         }
     }
+     ,
+    {
+        "id": 796,
+        "title": "* CONTROL Resonant *",
+        "price": 104,
+        "description": "Explore a warped Manhattan on the brink of paranatural annihilation in this thrilling action-adventure RPG. Unleash the extraordinary powers of Dylan Faden as he fights for his humanity and our survival against a reality-bending cosmic threat.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel i5-8500 / AMD Ryzen 5 3500",
+            "VideoCard":" Geforce GTX 1070 / Radeon RX 5600 XT ",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://cdn1.epicgames.com/spt-assets/c24dd5ab6e484bf08eb44c7a98f81fd1/control-resonant-12xm5.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7277e65a-3b0f-4fe5-ad8b-bf1f716acd21/dmesv3o-56add5d0-317d-48f0-8ed1-e2d08276b8ec.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83Mjc3ZTY1YS0zYjBmLTRmZTUtYWQ4Yi1iZjFmNzE2YWNkMjEvZG1lc3Yzby01NmFkZDVkMC0zMTdkLTQ4ZjAtOGVkMS1lMmQwODI3NmI4ZWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.aKLLkqeqMyFkeLx_13Y99AEQqRUv1VgfKikFSwiv2pU",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 797,
+        "title": "* The Witcher 3 - Remastered *",
+        "price": 63.4,
+        "description": "The Witcher 3: Wild Hunt — Remastered modernizes the acclaimed role-playing game with a range of upgrades and enhancements. Become monster slayer for hire Geralt of Rivia and journey across a dark fantasy open world in an epic quest to find your adopted daughter Ciri.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":"  Core i5-8400 / Ryzen 5 2600K",
+            "VideoCard":" GeForce GTX 1660 / Radeon RX 5500 XT 8GB ",
+            "MemoryRAM":"12 GB"
+        },
+ "homebace": "https://i0.wp.com/news.seagm.com/wp-content/uploads/2026/09/The-Witcher-3-Remastered-Main-Key-Art.jpg?fit=1024%2C576&ssl=1",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/593d2b6a-2527-41a1-b24a-6b735872bdb6/dmx9ic7-04cdf19b-5096-4eb8-82ce-f85591ab3c91.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81OTNkMmI2YS0yNTI3LTQxYTEtYjI0YS02YjczNTg3MmJkYjYvZG14OWljNy0wNGNkZjE5Yi01MDk2LTRlYjgtODJjZS1mODU1OTFhYjNjOTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a5qq2-HDRuvZck75zas2QLdgQbKwL6sVrRbXZzXKUBw",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
