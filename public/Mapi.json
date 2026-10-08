@@ -12929,4 +12929,23 @@
             "count": 146
         }
     }
+     ,
+    {
+        "id": 798,
+        "title": "* Gears of War - E-Day *",
+        "price": 107,
+        "description": "Experience the horror and brutality of Emergence Day. Fourteen years before the original Gears of War, join Marcus Fenix and Dominic Santiago in a gripping origin-story campaign as the Locust Horde first erupt from below, igniting a desperate fight for survival. Rally your squad and fight on in multiplayer with a reimagination of Gears’ iconic PvE mode, Horde Siege, or go head-to-head with a refined Versus PvP.* Built from the ground up in Unreal Engine 5, Gears of War: E-Day delivers the most immersive Gears yet",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":"  AMD Ryzen 5 2600X / Intel i7‑6850K / i5‑10400",
+            "VideoCard":" Hardware Ray Tracing capable GPU is required. NVIDIA GeForce RTX 5050 / NVIDIA GeForce RTX 2060 / AMD Radeon RX 6600 / Radeon RX 9060 ",
+            "MemoryRAM":"12 GB"
+        },
+ "homebace": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Gears-f783604b4900f089e04e-1024x576.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dmpof2t-3e56cfff-55a2-4420-baf3-1584fdc19c63.png",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
