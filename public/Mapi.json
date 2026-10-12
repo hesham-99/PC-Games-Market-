@@ -12948,4 +12948,42 @@
             "count": 146
         }
     }
+     ,
+    {
+        "id": 799,
+        "title": "* Clive Barker's Hellraiser - Revival *",
+        "price": 72.1,
+        "description": "Experience a new chapter in the legendary horror series like never before. Clive Barker’s Hellraiser: Revival takes first-person action horror survival to the next level. Wield the powers of the Genesis Configuration puzzle box to survive your bargain with the infamous Pinhead",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen 5 1500X, Intel Core i5-8400",
+            "VideoCard":" MD Radeon RX Vega 64 8GB, NVIDIA GeForce GTX 1660",
+            "MemoryRAM":"8 GB"
+        },
+ "homebace": "https://cdn.mos.cms.futurecdn.net/z7Khq8BQAshvWUKFt5Dh9Q-1200-80.jpg",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
+     ,
+    {
+        "id": 900,
+        "title": "* Atomfall *",
+        "price": 73.5,
+        "description": "A nuclear disaster has left an area of Britain in tatters. Atomfall, a new survival-action game, will see you explore, scavenge, craft, barter and fight your way through beautifully recreated scenery in search of answers",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":"  Intel CPU Core i5-9400f or equivalent",
+            "VideoCard":"Nvidia 2060 6GB or equivalent",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://atomfall.com/images/atomfall-social-landscape.webp",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dji5md9-52b08e2e-520b-4847-a570-47ccd8878606.png",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
