@@ -13024,4 +13024,23 @@
             "count": 146
         }
     }
+    ,
+    {
+        "id": 903,
+        "title": "* Call of Duty - Modern Warfare 4*",
+        "price": 74.9,
+        "description": "A young squad of South Korean soldiers fight to survive on the collapsing front lines, while half a world away a vengeful Captain Price wages a personal war from the shadows as he stays one step ahead of those hunting him. As Price’s off-book mission collides with the forces behind the invasion, the war spreads beyond anyone’s control.",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" AMD Ryzen™ 5 1400 or Intel® Core™ i5-6600",
+            "VideoCard":"AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 ",
+            "MemoryRAM":"8 GB"
+        },
+ "homebace": "https://eu-central-1-gamescom.graphassets.com/AMwDHZTUSMaIlRlMFLL7Qz/quality=value:95/resize=w:960,h:552,fit:crop/sharpen=amount:1/auto_image/cms7k3duyaass06w1lnvf48n7",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/593d2b6a-2527-41a1-b24a-6b735872bdb6/dm64vre-5c6e929d-6d73-4d58-9eab-4e6e01684a5f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81OTNkMmI2YS0yNTI3LTQxYTEtYjI0YS02YjczNTg3MmJkYjYvZG02NHZyZS01YzZlOTI5ZC02ZDczLTRkNTgtOWVhYi00ZTZlMDE2ODRhNWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BtsAzEkDmYnCxSnqbFNy3iaW_ddn9daCUNI14xK_Z_o",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
