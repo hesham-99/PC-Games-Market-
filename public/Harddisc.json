@@ -5,13 +5,13 @@
         "price": 0,
         "description": "",
         "category": "women's clothing",
-        "homebace": "https://m.media-amazon.com/images/M/MV5BYjQ4ZmJmMWUtMGQyYy00MDFlLWEyMzgtYjVhYWI4OTBjM2MxXkEyXkFqcGc@._V1_.jpg",
+        "homebace": "",
         "image": "",
         "rating": {
             "rate": 4.5,
             "count": 146
         }
-        ,"priceNow": 1800
+        ,"priceNow": 0
         
         ,"imageA" : ""
         , "imageB" : ""
