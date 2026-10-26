@@ -13043,4 +13043,23 @@
             "count": 146
         }
     }
+    ,
+    {
+        "id": 904,
+        "title": "* Borderlands 4*",
+        "price": 128,
+        "description": "Borderlands 4 is a mayhem-fueled looter shooter, jam-packed with billions of weapons, deadly enemies, and intense co-op action. Break free from a dangerous hidden planet as one of four new badass Vault Hunters",
+        "category": {
+            "OpenSYSTEM": "Windows 10 / 11 (64-bit versions)",
+            "Processor":" Intel Core i7-9700 / AMD Ryzen 7 2700X",
+            "VideoCard":"NVIDIA GeForce RTX 2070 / AMD Radeon RX 5700 XT ",
+            "MemoryRAM":"16 GB"
+        },
+ "homebace": "https://cdn.wccftech.com/wp-content/uploads/2025/12/borderlands-4-14saz.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e87d432c-0c31-4673-912d-407d8ee09362/dkgdl6w-98dc2e3b-7cc9-4e28-9b4d-da66c4809ec0.png",
+    "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    }
 ]
